@@ -1,0 +1,1387 @@
+Borrowers' country,Borrowing sector,Lending sector,Credit gap data type,Series,Quaterlly_per_year,Financial_Stability_Statistics
+Austria,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AT:P:A:A,2017-Q1,142.9
+Austria,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AT:P:A:B,2017-Q1,150.5
+Austria,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AT:P:A:C,2017-Q1,-7.7
+Australia,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AU:P:A:A,2017-Q1,197.2
+Australia,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AU:P:A:B,2017-Q1,201.9
+Australia,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AU:P:A:C,2017-Q1,-4.7
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:BE:P:A:A,2017-Q1,222.6
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:BE:P:A:B,2017-Q1,224.1
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:BE:P:A:C,2017-Q1,-1.5
+Canada,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:CA:P:A:A,2017-Q1,214.5
+Canada,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:CA:P:A:B,2017-Q1,202.5
+Canada,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:CA:P:A:C,2017-Q1,12.1
+Germany,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DE:P:A:A,2017-Q1,118.7
+Germany,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DE:P:A:B,2017-Q1,124.9
+Germany,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DE:P:A:C,2017-Q1,-6.2
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DK:P:A:A,2017-Q1,239.9
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DK:P:A:B,2017-Q1,267.0
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DK:P:A:C,2017-Q1,-27.1
+Spain,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:ES:P:A:A,2017-Q1,168.2
+Spain,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:ES:P:A:B,2017-Q1,219.6
+Spain,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:ES:P:A:C,2017-Q1,-51.4
+Finland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FI:P:A:A,2017-Q1,181.3
+Finland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FI:P:A:B,2017-Q1,184.3
+Finland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FI:P:A:C,2017-Q1,-3.0
+France,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FR:P:A:A,2017-Q1,200.5
+France,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FR:P:A:B,2017-Q1,193.5
+France,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FR:P:A:C,2017-Q1,7.0
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GB:P:A:A,2017-Q1,162.0
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GB:P:A:B,2017-Q1,178.7
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GB:P:A:C,2017-Q1,-16.6
+Greece,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GR:P:A:A,2017-Q1,125.8
+Greece,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GR:P:A:B,2017-Q1,143.5
+Greece,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GR:P:A:C,2017-Q1,-17.7
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IE:P:A:A,2017-Q1,301.2
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IE:P:A:B,2017-Q1,348.2
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IE:P:A:C,2017-Q1,-47.0
+Italy,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IT:P:A:A,2017-Q1,114.7
+Italy,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IT:P:A:B,2017-Q1,131.7
+Italy,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IT:P:A:C,2017-Q1,-16.9
+Japan,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:JP:P:A:A,2017-Q1,156.3
+Japan,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:JP:P:A:B,2017-Q1,150.9
+Japan,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:JP:P:A:C,2017-Q1,5.4
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:LU:P:A:A,2017-Q1,374.3
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:LU:P:A:B,2017-Q1,414.2
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:LU:P:A:C,2017-Q1,-39.9
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NL:P:A:A,2017-Q1,284.5
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NL:P:A:B,2017-Q1,293.2
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NL:P:A:C,2017-Q1,-8.8
+Norway,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NO:P:A:A,2017-Q1,250.5
+Norway,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NO:P:A:B,2017-Q1,243.9
+Norway,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NO:P:A:C,2017-Q1,6.6
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:PT:P:A:A,2017-Q1,183.5
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:PT:P:A:B,2017-Q1,227.4
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:PT:P:A:C,2017-Q1,-43.9
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:SE:P:A:A,2017-Q1,240.7
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:SE:P:A:B,2017-Q1,244.4
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:SE:P:A:C,2017-Q1,-3.7
+United States,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:US:P:A:A,2017-Q1,151.0
+United States,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:US:P:A:B,2017-Q1,159.8
+United States,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:US:P:A:C,2017-Q1,-8.8
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:XM:P:A:A,2017-Q1,167.2
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:XM:P:A:B,2017-Q1,176.1
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:XM:P:A:C,2017-Q1,-9.0
+Austria,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AT:P:A:A,2017-Q2,141.8
+Austria,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AT:P:A:B,2017-Q2,150.4
+Austria,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AT:P:A:C,2017-Q2,-8.6
+Australia,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AU:P:A:A,2017-Q2,196.9
+Australia,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AU:P:A:B,2017-Q2,202.4
+Australia,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AU:P:A:C,2017-Q2,-5.5
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:BE:P:A:A,2017-Q2,219.6
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:BE:P:A:B,2017-Q2,225.1
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:BE:P:A:C,2017-Q2,-5.5
+Canada,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:CA:P:A:A,2017-Q2,214.3
+Canada,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:CA:P:A:B,2017-Q2,204.0
+Canada,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:CA:P:A:C,2017-Q2,10.3
+Germany,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DE:P:A:A,2017-Q2,118.2
+Germany,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DE:P:A:B,2017-Q2,124.4
+Germany,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DE:P:A:C,2017-Q2,-6.1
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DK:P:A:A,2017-Q2,237.0
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DK:P:A:B,2017-Q2,266.6
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DK:P:A:C,2017-Q2,-29.7
+Spain,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:ES:P:A:A,2017-Q2,166.4
+Spain,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:ES:P:A:B,2017-Q2,217.7
+Spain,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:ES:P:A:C,2017-Q2,-51.3
+Finland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FI:P:A:A,2017-Q2,183.1
+Finland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FI:P:A:B,2017-Q2,185.1
+Finland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FI:P:A:C,2017-Q2,-2.0
+France,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FR:P:A:A,2017-Q2,200.7
+France,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FR:P:A:B,2017-Q2,194.7
+France,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FR:P:A:C,2017-Q2,5.9
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GB:P:A:A,2017-Q2,160.7
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GB:P:A:B,2017-Q2,178.1
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GB:P:A:C,2017-Q2,-17.4
+Greece,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GR:P:A:A,2017-Q2,124.0
+Greece,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GR:P:A:B,2017-Q2,143.6
+Greece,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GR:P:A:C,2017-Q2,-19.6
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IE:P:A:A,2017-Q2,287.9
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IE:P:A:B,2017-Q2,348.0
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IE:P:A:C,2017-Q2,-60.1
+Italy,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IT:P:A:A,2017-Q2,113.8
+Italy,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IT:P:A:B,2017-Q2,131.4
+Italy,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IT:P:A:C,2017-Q2,-17.6
+Japan,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:JP:P:A:A,2017-Q2,155.7
+Japan,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:JP:P:A:B,2017-Q2,150.6
+Japan,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:JP:P:A:C,2017-Q2,5.1
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:LU:P:A:A,2017-Q2,370.4
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:LU:P:A:B,2017-Q2,415.1
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:LU:P:A:C,2017-Q2,-44.7
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NL:P:A:A,2017-Q2,281.0
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NL:P:A:B,2017-Q2,293.8
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NL:P:A:C,2017-Q2,-12.8
+Norway,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NO:P:A:A,2017-Q2,248.4
+Norway,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NO:P:A:B,2017-Q2,245.3
+Norway,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NO:P:A:C,2017-Q2,3.0
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:PT:P:A:A,2017-Q2,181.1
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:PT:P:A:B,2017-Q2,225.9
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:PT:P:A:C,2017-Q2,-44.8
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:SE:P:A:A,2017-Q2,240.1
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:SE:P:A:B,2017-Q2,245.5
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:SE:P:A:C,2017-Q2,-5.4
+United States,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:US:P:A:A,2017-Q2,151.7
+United States,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:US:P:A:B,2017-Q2,159.6
+United States,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:US:P:A:C,2017-Q2,-7.8
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:XM:P:A:A,2017-Q2,165.7
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:XM:P:A:B,2017-Q2,176.2
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:XM:P:A:C,2017-Q2,-10.5
+Austria,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AT:P:A:A,2017-Q3,141.6
+Austria,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AT:P:A:B,2017-Q3,150.2
+Austria,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AT:P:A:C,2017-Q3,-8.6
+Australia,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AU:P:A:A,2017-Q3,195.3
+Australia,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AU:P:A:B,2017-Q3,202.8
+Australia,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AU:P:A:C,2017-Q3,-7.6
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:BE:P:A:A,2017-Q3,215.1
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:BE:P:A:B,2017-Q3,225.8
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:BE:P:A:C,2017-Q3,-10.7
+Canada,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:CA:P:A:A,2017-Q3,213.8
+Canada,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:CA:P:A:B,2017-Q3,205.4
+Canada,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:CA:P:A:C,2017-Q3,8.4
+Germany,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DE:P:A:A,2017-Q3,118.0
+Germany,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DE:P:A:B,2017-Q3,123.9
+Germany,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DE:P:A:C,2017-Q3,-5.9
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DK:P:A:A,2017-Q3,235.7
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DK:P:A:B,2017-Q3,266.2
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DK:P:A:C,2017-Q3,-30.4
+Spain,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:ES:P:A:A,2017-Q3,163.2
+Spain,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:ES:P:A:B,2017-Q3,215.8
+Spain,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:ES:P:A:C,2017-Q3,-52.5
+Finland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FI:P:A:A,2017-Q3,185.5
+Finland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FI:P:A:B,2017-Q3,186.0
+Finland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FI:P:A:C,2017-Q3,-0.5
+France,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FR:P:A:A,2017-Q3,200.4
+France,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FR:P:A:B,2017-Q3,195.9
+France,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FR:P:A:C,2017-Q3,4.5
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GB:P:A:A,2017-Q3,161.5
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GB:P:A:B,2017-Q3,177.5
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GB:P:A:C,2017-Q3,-16.0
+Greece,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GR:P:A:A,2017-Q3,121.8
+Greece,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GR:P:A:B,2017-Q3,143.6
+Greece,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GR:P:A:C,2017-Q3,-21.7
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IE:P:A:A,2017-Q3,279.5
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IE:P:A:B,2017-Q3,347.2
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IE:P:A:C,2017-Q3,-67.7
+Italy,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IT:P:A:A,2017-Q3,112.0
+Italy,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IT:P:A:B,2017-Q3,130.9
+Italy,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IT:P:A:C,2017-Q3,-18.9
+Japan,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:JP:P:A:A,2017-Q3,155.7
+Japan,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:JP:P:A:B,2017-Q3,150.4
+Japan,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:JP:P:A:C,2017-Q3,5.4
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:LU:P:A:A,2017-Q3,369.2
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:LU:P:A:B,2017-Q3,415.9
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:LU:P:A:C,2017-Q3,-46.6
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NL:P:A:A,2017-Q3,279.6
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NL:P:A:B,2017-Q3,294.2
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NL:P:A:C,2017-Q3,-14.6
+Norway,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NO:P:A:A,2017-Q3,244.6
+Norway,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NO:P:A:B,2017-Q3,246.4
+Norway,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NO:P:A:C,2017-Q3,-1.8
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:PT:P:A:A,2017-Q3,178.7
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:PT:P:A:B,2017-Q3,224.3
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:PT:P:A:C,2017-Q3,-45.6
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:SE:P:A:A,2017-Q3,239.1
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:SE:P:A:B,2017-Q3,246.5
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:SE:P:A:C,2017-Q3,-7.4
+United States,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:US:P:A:A,2017-Q3,151.8
+United States,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:US:P:A:B,2017-Q3,159.3
+United States,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:US:P:A:C,2017-Q3,-7.5
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:XM:P:A:A,2017-Q3,164.2
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:XM:P:A:B,2017-Q3,176.1
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:XM:P:A:C,2017-Q3,-11.9
+Austria,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AT:P:A:A,2017-Q4,141.5
+Austria,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AT:P:A:B,2017-Q4,150.1
+Austria,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AT:P:A:C,2017-Q4,-8.6
+Australia,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AU:P:A:A,2017-Q4,195.7
+Australia,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AU:P:A:B,2017-Q4,203.3
+Australia,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AU:P:A:C,2017-Q4,-7.5
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:BE:P:A:A,2017-Q4,215.8
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:BE:P:A:B,2017-Q4,226.5
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:BE:P:A:C,2017-Q4,-10.8
+Canada,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:CA:P:A:A,2017-Q4,213.7
+Canada,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:CA:P:A:B,2017-Q4,206.8
+Canada,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:CA:P:A:C,2017-Q4,6.9
+Germany,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DE:P:A:A,2017-Q4,118.2
+Germany,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DE:P:A:B,2017-Q4,123.4
+Germany,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DE:P:A:C,2017-Q4,-5.2
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DK:P:A:A,2017-Q4,234.5
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DK:P:A:B,2017-Q4,265.6
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DK:P:A:C,2017-Q4,-31.1
+Spain,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:ES:P:A:A,2017-Q4,159.8
+Spain,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:ES:P:A:B,2017-Q4,213.6
+Spain,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:ES:P:A:C,2017-Q4,-53.8
+Finland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FI:P:A:A,2017-Q4,186.8
+Finland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FI:P:A:B,2017-Q4,186.9
+Finland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FI:P:A:C,2017-Q4,-0.1
+France,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FR:P:A:A,2017-Q4,200.8
+France,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FR:P:A:B,2017-Q4,197.1
+France,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FR:P:A:C,2017-Q4,3.7
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GB:P:A:A,2017-Q4,162.3
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GB:P:A:B,2017-Q4,177.0
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GB:P:A:C,2017-Q4,-14.7
+Greece,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GR:P:A:A,2017-Q4,120.5
+Greece,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GR:P:A:B,2017-Q4,143.5
+Greece,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GR:P:A:C,2017-Q4,-23.0
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IE:P:A:A,2017-Q4,268.0
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IE:P:A:B,2017-Q4,345.8
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IE:P:A:C,2017-Q4,-77.8
+Italy,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IT:P:A:A,2017-Q4,112.1
+Italy,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IT:P:A:B,2017-Q4,130.5
+Italy,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IT:P:A:C,2017-Q4,-18.4
+Japan,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:JP:P:A:A,2017-Q4,156.3
+Japan,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:JP:P:A:B,2017-Q4,150.2
+Japan,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:JP:P:A:C,2017-Q4,6.1
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:LU:P:A:A,2017-Q4,364.0
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:LU:P:A:B,2017-Q4,416.2
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:LU:P:A:C,2017-Q4,-52.3
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NL:P:A:A,2017-Q4,273.9
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NL:P:A:B,2017-Q4,294.2
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NL:P:A:C,2017-Q4,-20.3
+Norway,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NO:P:A:A,2017-Q4,242.1
+Norway,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NO:P:A:B,2017-Q4,247.4
+Norway,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NO:P:A:C,2017-Q4,-5.2
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:PT:P:A:A,2017-Q4,176.7
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:PT:P:A:B,2017-Q4,222.6
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:PT:P:A:C,2017-Q4,-45.9
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:SE:P:A:A,2017-Q4,240.8
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:SE:P:A:B,2017-Q4,247.5
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:SE:P:A:C,2017-Q4,-6.7
+United States,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:US:P:A:A,2017-Q4,152.5
+United States,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:US:P:A:B,2017-Q4,159.1
+United States,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:US:P:A:C,2017-Q4,-6.6
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:XM:P:A:A,2017-Q4,163.2
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:XM:P:A:B,2017-Q4,175.9
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:XM:P:A:C,2017-Q4,-12.7
+Austria,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AT:P:A:A,2018-Q1,142.3
+Austria,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AT:P:A:B,2018-Q1,150.0
+Austria,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AT:P:A:C,2018-Q1,-7.6
+Australia,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AU:P:A:A,2018-Q1,196.5
+Australia,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AU:P:A:B,2018-Q1,203.7
+Australia,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AU:P:A:C,2018-Q1,-7.2
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:BE:P:A:A,2018-Q1,212.4
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:BE:P:A:B,2018-Q1,227.0
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:BE:P:A:C,2018-Q1,-14.6
+Canada,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:CA:P:A:A,2018-Q1,213.9
+Canada,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:CA:P:A:B,2018-Q1,208.1
+Canada,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:CA:P:A:C,2018-Q1,5.8
+Germany,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DE:P:A:A,2018-Q1,119.1
+Germany,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DE:P:A:B,2018-Q1,122.9
+Germany,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DE:P:A:C,2018-Q1,-3.8
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DK:P:A:A,2018-Q1,234.5
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DK:P:A:B,2018-Q1,265.0
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DK:P:A:C,2018-Q1,-30.5
+Spain,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:ES:P:A:A,2018-Q1,158.1
+Spain,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:ES:P:A:B,2018-Q1,211.4
+Spain,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:ES:P:A:C,2018-Q1,-53.3
+Finland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FI:P:A:A,2018-Q1,186.6
+Finland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FI:P:A:B,2018-Q1,187.8
+Finland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FI:P:A:C,2018-Q1,-1.2
+France,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FR:P:A:A,2018-Q1,202.3
+France,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FR:P:A:B,2018-Q1,198.2
+France,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FR:P:A:C,2018-Q1,4.0
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GB:P:A:A,2018-Q1,160.0
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GB:P:A:B,2018-Q1,176.4
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GB:P:A:C,2018-Q1,-16.4
+Greece,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GR:P:A:A,2018-Q1,119.7
+Greece,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GR:P:A:B,2018-Q1,143.3
+Greece,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GR:P:A:C,2018-Q1,-23.6
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IE:P:A:A,2018-Q1,258.0
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IE:P:A:B,2018-Q1,343.8
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IE:P:A:C,2018-Q1,-85.7
+Italy,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IT:P:A:A,2018-Q1,111.1
+Italy,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IT:P:A:B,2018-Q1,130.0
+Italy,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IT:P:A:C,2018-Q1,-19.0
+Japan,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:JP:P:A:A,2018-Q1,155.6
+Japan,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:JP:P:A:B,2018-Q1,150.0
+Japan,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:JP:P:A:C,2018-Q1,5.6
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:LU:P:A:A,2018-Q1,370.0
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:LU:P:A:B,2018-Q1,416.8
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:LU:P:A:C,2018-Q1,-46.8
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NL:P:A:A,2018-Q1,273.5
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NL:P:A:B,2018-Q1,294.3
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NL:P:A:C,2018-Q1,-20.7
+Norway,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NO:P:A:A,2018-Q1,240.9
+Norway,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NO:P:A:B,2018-Q1,248.2
+Norway,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NO:P:A:C,2018-Q1,-7.2
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:PT:P:A:A,2018-Q1,173.7
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:PT:P:A:B,2018-Q1,220.8
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:PT:P:A:C,2018-Q1,-47.1
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:SE:P:A:A,2018-Q1,242.5
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:SE:P:A:B,2018-Q1,248.5
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:SE:P:A:C,2018-Q1,-6.0
+United States,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:US:P:A:A,2018-Q1,151.7
+United States,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:US:P:A:B,2018-Q1,158.8
+United States,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:US:P:A:C,2018-Q1,-7.2
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:XM:P:A:A,2018-Q1,162.5
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:XM:P:A:B,2018-Q1,175.7
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:XM:P:A:C,2018-Q1,-13.3
+Austria,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AT:P:A:A,2018-Q2,141.7
+Austria,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AT:P:A:B,2018-Q2,149.8
+Austria,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AT:P:A:C,2018-Q2,-8.1
+Australia,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AU:P:A:A,2018-Q2,195.8
+Australia,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AU:P:A:B,2018-Q2,204.0
+Australia,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AU:P:A:C,2018-Q2,-8.2
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:BE:P:A:A,2018-Q2,212.9
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:BE:P:A:B,2018-Q2,227.5
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:BE:P:A:C,2018-Q2,-14.6
+Canada,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:CA:P:A:A,2018-Q2,216.0
+Canada,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:CA:P:A:B,2018-Q2,209.4
+Canada,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:CA:P:A:C,2018-Q2,6.5
+Germany,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DE:P:A:A,2018-Q2,120.1
+Germany,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DE:P:A:B,2018-Q2,122.6
+Germany,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DE:P:A:C,2018-Q2,-2.5
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DK:P:A:A,2018-Q2,235.7
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DK:P:A:B,2018-Q2,264.5
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DK:P:A:C,2018-Q2,-28.8
+Spain,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:ES:P:A:A,2018-Q2,158.4
+Spain,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:ES:P:A:B,2018-Q2,209.2
+Spain,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:ES:P:A:C,2018-Q2,-50.8
+Finland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FI:P:A:A,2018-Q2,187.6
+Finland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FI:P:A:B,2018-Q2,188.7
+Finland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FI:P:A:C,2018-Q2,-1.0
+France,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FR:P:A:A,2018-Q2,204.0
+France,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FR:P:A:B,2018-Q2,199.4
+France,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FR:P:A:C,2018-Q2,4.6
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GB:P:A:A,2018-Q2,159.2
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GB:P:A:B,2018-Q2,175.7
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GB:P:A:C,2018-Q2,-16.5
+Greece,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GR:P:A:A,2018-Q2,119.0
+Greece,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GR:P:A:B,2018-Q2,143.0
+Greece,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GR:P:A:C,2018-Q2,-24.1
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IE:P:A:A,2018-Q2,259.6
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IE:P:A:B,2018-Q2,341.8
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IE:P:A:C,2018-Q2,-82.3
+Italy,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IT:P:A:A,2018-Q2,111.2
+Italy,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IT:P:A:B,2018-Q2,129.5
+Italy,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IT:P:A:C,2018-Q2,-18.4
+Japan,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:JP:P:A:A,2018-Q2,156.1
+Japan,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:JP:P:A:B,2018-Q2,149.8
+Japan,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:JP:P:A:C,2018-Q2,6.3
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:LU:P:A:A,2018-Q2,370.1
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:LU:P:A:B,2018-Q2,417.3
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:LU:P:A:C,2018-Q2,-47.3
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NL:P:A:A,2018-Q2,269.4
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NL:P:A:B,2018-Q2,294.0
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NL:P:A:C,2018-Q2,-24.6
+Norway,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NO:P:A:A,2018-Q2,238.5
+Norway,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NO:P:A:B,2018-Q2,248.8
+Norway,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NO:P:A:C,2018-Q2,-10.3
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:PT:P:A:A,2018-Q2,170.5
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:PT:P:A:B,2018-Q2,218.8
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:PT:P:A:C,2018-Q2,-48.3
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:SE:P:A:A,2018-Q2,242.4
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:SE:P:A:B,2018-Q2,249.4
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:SE:P:A:C,2018-Q2,-7.0
+United States,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:US:P:A:A,2018-Q2,152.3
+United States,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:US:P:A:B,2018-Q2,158.6
+United States,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:US:P:A:C,2018-Q2,-6.3
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:XM:P:A:A,2018-Q2,163.1
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:XM:P:A:B,2018-Q2,175.6
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:XM:P:A:C,2018-Q2,-12.5
+Austria,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AT:P:A:A,2018-Q3,141.8
+Austria,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AT:P:A:B,2018-Q3,149.6
+Austria,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AT:P:A:C,2018-Q3,-7.9
+Australia,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AU:P:A:A,2018-Q3,195.9
+Australia,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AU:P:A:B,2018-Q3,204.4
+Australia,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AU:P:A:C,2018-Q3,-8.5
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:BE:P:A:A,2018-Q3,209.5
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:BE:P:A:B,2018-Q3,227.7
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:BE:P:A:C,2018-Q3,-18.2
+Canada,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:CA:P:A:A,2018-Q3,215.2
+Canada,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:CA:P:A:B,2018-Q3,210.7
+Canada,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:CA:P:A:C,2018-Q3,4.5
+Germany,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DE:P:A:A,2018-Q3,121.2
+Germany,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DE:P:A:B,2018-Q3,122.3
+Germany,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DE:P:A:C,2018-Q3,-1.1
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DK:P:A:A,2018-Q3,235.3
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DK:P:A:B,2018-Q3,263.9
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DK:P:A:C,2018-Q3,-28.6
+Spain,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:ES:P:A:A,2018-Q3,156.7
+Spain,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:ES:P:A:B,2018-Q3,207.0
+Spain,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:ES:P:A:C,2018-Q3,-50.4
+Finland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FI:P:A:A,2018-Q3,187.6
+Finland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FI:P:A:B,2018-Q3,189.5
+Finland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FI:P:A:C,2018-Q3,-1.9
+France,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FR:P:A:A,2018-Q3,205.6
+France,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FR:P:A:B,2018-Q3,200.6
+France,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FR:P:A:C,2018-Q3,4.9
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GB:P:A:A,2018-Q3,157.7
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GB:P:A:B,2018-Q3,175.0
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GB:P:A:C,2018-Q3,-17.3
+Greece,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GR:P:A:A,2018-Q3,118.8
+Greece,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GR:P:A:B,2018-Q3,142.7
+Greece,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GR:P:A:C,2018-Q3,-23.9
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IE:P:A:A,2018-Q3,257.1
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IE:P:A:B,2018-Q3,339.7
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IE:P:A:C,2018-Q3,-82.6
+Italy,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IT:P:A:A,2018-Q3,110.7
+Italy,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IT:P:A:B,2018-Q3,129.0
+Italy,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IT:P:A:C,2018-Q3,-18.3
+Japan,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:JP:P:A:A,2018-Q3,157.5
+Japan,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:JP:P:A:B,2018-Q3,149.7
+Japan,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:JP:P:A:C,2018-Q3,7.8
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:LU:P:A:A,2018-Q3,370.0
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:LU:P:A:B,2018-Q3,417.7
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:LU:P:A:C,2018-Q3,-47.7
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NL:P:A:A,2018-Q3,266.7
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NL:P:A:B,2018-Q3,293.6
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NL:P:A:C,2018-Q3,-26.9
+Norway,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NO:P:A:A,2018-Q3,234.6
+Norway,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NO:P:A:B,2018-Q3,249.1
+Norway,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NO:P:A:C,2018-Q3,-14.5
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:PT:P:A:A,2018-Q3,169.2
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:PT:P:A:B,2018-Q3,216.8
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:PT:P:A:C,2018-Q3,-47.6
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:SE:P:A:A,2018-Q3,243.3
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:SE:P:A:B,2018-Q3,250.4
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:SE:P:A:C,2018-Q3,-7.0
+United States,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:US:P:A:A,2018-Q3,151.8
+United States,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:US:P:A:B,2018-Q3,158.4
+United States,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:US:P:A:C,2018-Q3,-6.6
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:XM:P:A:A,2018-Q3,162.9
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:XM:P:A:B,2018-Q3,175.4
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:XM:P:A:C,2018-Q3,-12.4
+Austria,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AT:P:A:A,2018-Q4,141.9
+Austria,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AT:P:A:B,2018-Q4,149.5
+Austria,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AT:P:A:C,2018-Q4,-7.6
+Australia,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AU:P:A:A,2018-Q4,195.5
+Australia,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AU:P:A:B,2018-Q4,204.6
+Australia,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AU:P:A:C,2018-Q4,-9.2
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:BE:P:A:A,2018-Q4,210.6
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:BE:P:A:B,2018-Q4,227.9
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:BE:P:A:C,2018-Q4,-17.3
+Canada,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:CA:P:A:A,2018-Q4,216.2
+Canada,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:CA:P:A:B,2018-Q4,212.0
+Canada,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:CA:P:A:C,2018-Q4,4.3
+Germany,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DE:P:A:A,2018-Q4,120.5
+Germany,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DE:P:A:B,2018-Q4,122.0
+Germany,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DE:P:A:C,2018-Q4,-1.5
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DK:P:A:A,2018-Q4,235.2
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DK:P:A:B,2018-Q4,263.3
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DK:P:A:C,2018-Q4,-28.2
+Spain,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:ES:P:A:A,2018-Q4,154.0
+Spain,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:ES:P:A:B,2018-Q4,204.7
+Spain,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:ES:P:A:C,2018-Q4,-50.7
+Finland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FI:P:A:A,2018-Q4,185.8
+Finland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FI:P:A:B,2018-Q4,190.2
+Finland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FI:P:A:C,2018-Q4,-4.3
+France,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FR:P:A:A,2018-Q4,206.5
+France,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FR:P:A:B,2018-Q4,201.9
+France,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FR:P:A:C,2018-Q4,4.7
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GB:P:A:A,2018-Q4,157.0
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GB:P:A:B,2018-Q4,174.2
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GB:P:A:C,2018-Q4,-17.2
+Greece,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GR:P:A:A,2018-Q4,119.4
+Greece,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GR:P:A:B,2018-Q4,142.5
+Greece,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GR:P:A:C,2018-Q4,-23.1
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IE:P:A:A,2018-Q4,265.2
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IE:P:A:B,2018-Q4,338.0
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IE:P:A:C,2018-Q4,-72.9
+Italy,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IT:P:A:A,2018-Q4,110.4
+Italy,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IT:P:A:B,2018-Q4,128.5
+Italy,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IT:P:A:C,2018-Q4,-18.1
+Japan,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:JP:P:A:A,2018-Q4,159.5
+Japan,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:JP:P:A:B,2018-Q4,149.8
+Japan,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:JP:P:A:C,2018-Q4,9.7
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:LU:P:A:A,2018-Q4,373.1
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:LU:P:A:B,2018-Q4,418.2
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:LU:P:A:C,2018-Q4,-45.2
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NL:P:A:A,2018-Q4,263.7
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NL:P:A:B,2018-Q4,293.0
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NL:P:A:C,2018-Q4,-29.2
+Norway,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NO:P:A:A,2018-Q4,231.7
+Norway,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NO:P:A:B,2018-Q4,249.3
+Norway,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NO:P:A:C,2018-Q4,-17.6
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:PT:P:A:A,2018-Q4,167.1
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:PT:P:A:B,2018-Q4,214.7
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:PT:P:A:C,2018-Q4,-47.7
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:SE:P:A:A,2018-Q4,240.9
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:SE:P:A:B,2018-Q4,251.1
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:SE:P:A:C,2018-Q4,-10.2
+United States,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:US:P:A:A,2018-Q4,151.7
+United States,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:US:P:A:B,2018-Q4,158.1
+United States,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:US:P:A:C,2018-Q4,-6.4
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:XM:P:A:A,2018-Q4,162.0
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:XM:P:A:B,2018-Q4,175.1
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:XM:P:A:C,2018-Q4,-13.1
+Austria,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AT:P:A:A,2019-Q1,142.6
+Austria,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AT:P:A:B,2019-Q1,149.3
+Austria,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AT:P:A:C,2019-Q1,-6.8
+Australia,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AU:P:A:A,2019-Q1,195.0
+Australia,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AU:P:A:B,2019-Q1,204.8
+Australia,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AU:P:A:C,2019-Q1,-9.9
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:BE:P:A:A,2019-Q1,210.6
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:BE:P:A:B,2019-Q1,228.1
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:BE:P:A:C,2019-Q1,-17.5
+Canada,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:CA:P:A:A,2019-Q1,216.6
+Canada,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:CA:P:A:B,2019-Q1,213.2
+Canada,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:CA:P:A:C,2019-Q1,3.5
+Germany,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DE:P:A:A,2019-Q1,121.4
+Germany,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DE:P:A:B,2019-Q1,121.7
+Germany,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DE:P:A:C,2019-Q1,-0.3
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DK:P:A:A,2019-Q1,239.1
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DK:P:A:B,2019-Q1,262.9
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DK:P:A:C,2019-Q1,-23.8
+Spain,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:ES:P:A:A,2019-Q1,154.2
+Spain,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:ES:P:A:B,2019-Q1,202.4
+Spain,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:ES:P:A:C,2019-Q1,-48.3
+Finland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FI:P:A:A,2019-Q1,186.8
+Finland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FI:P:A:B,2019-Q1,190.9
+Finland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FI:P:A:C,2019-Q1,-4.1
+France,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FR:P:A:A,2019-Q1,208.8
+France,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FR:P:A:B,2019-Q1,203.1
+France,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FR:P:A:C,2019-Q1,5.7
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GB:P:A:A,2019-Q1,154.2
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GB:P:A:B,2019-Q1,173.3
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GB:P:A:C,2019-Q1,-19.1
+Greece,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GR:P:A:A,2019-Q1,114.5
+Greece,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GR:P:A:B,2019-Q1,141.9
+Greece,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GR:P:A:C,2019-Q1,-27.3
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IE:P:A:A,2019-Q1,263.4
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IE:P:A:B,2019-Q1,336.2
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IE:P:A:C,2019-Q1,-72.8
+Italy,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IT:P:A:A,2019-Q1,109.5
+Italy,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IT:P:A:B,2019-Q1,127.9
+Italy,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IT:P:A:C,2019-Q1,-18.4
+Japan,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:JP:P:A:A,2019-Q1,160.4
+Japan,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:JP:P:A:B,2019-Q1,149.9
+Japan,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:JP:P:A:C,2019-Q1,10.5
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:LU:P:A:A,2019-Q1,392.0
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:LU:P:A:B,2019-Q1,419.7
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:LU:P:A:C,2019-Q1,-27.7
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NL:P:A:A,2019-Q1,260.6
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NL:P:A:B,2019-Q1,292.2
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NL:P:A:C,2019-Q1,-31.6
+Norway,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NO:P:A:A,2019-Q1,231.7
+Norway,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NO:P:A:B,2019-Q1,249.4
+Norway,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NO:P:A:C,2019-Q1,-17.6
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:PT:P:A:A,2019-Q1,165.7
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:PT:P:A:B,2019-Q1,212.6
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:PT:P:A:C,2019-Q1,-46.9
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:SE:P:A:A,2019-Q1,247.8
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:SE:P:A:B,2019-Q1,252.2
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:SE:P:A:C,2019-Q1,-4.4
+United States,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:US:P:A:A,2019-Q1,151.5
+United States,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:US:P:A:B,2019-Q1,157.8
+United States,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:US:P:A:C,2019-Q1,-6.4
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:XM:P:A:A,2019-Q1,162.1
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:XM:P:A:B,2019-Q1,174.9
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:XM:P:A:C,2019-Q1,-12.8
+Austria,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AT:P:A:A,2019-Q2,143.6
+Austria,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AT:P:A:B,2019-Q2,149.3
+Austria,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AT:P:A:C,2019-Q2,-5.7
+Australia,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AU:P:A:A,2019-Q2,194.0
+Australia,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AU:P:A:B,2019-Q2,205.0
+Australia,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AU:P:A:C,2019-Q2,-10.9
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:BE:P:A:A,2019-Q2,210.0
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:BE:P:A:B,2019-Q2,228.2
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:BE:P:A:C,2019-Q2,-18.2
+Canada,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:CA:P:A:A,2019-Q2,218.7
+Canada,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:CA:P:A:B,2019-Q2,214.4
+Canada,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:CA:P:A:C,2019-Q2,4.3
+Germany,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DE:P:A:A,2019-Q2,122.5
+Germany,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DE:P:A:B,2019-Q2,121.5
+Germany,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DE:P:A:C,2019-Q2,0.9
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DK:P:A:A,2019-Q2,241.8
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DK:P:A:B,2019-Q2,262.7
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DK:P:A:C,2019-Q2,-20.9
+Spain,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:ES:P:A:A,2019-Q2,153.0
+Spain,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:ES:P:A:B,2019-Q2,200.2
+Spain,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:ES:P:A:C,2019-Q2,-47.2
+Finland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FI:P:A:A,2019-Q2,185.4
+Finland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FI:P:A:B,2019-Q2,191.4
+Finland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FI:P:A:C,2019-Q2,-6.1
+France,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FR:P:A:A,2019-Q2,211.3
+France,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FR:P:A:B,2019-Q2,204.5
+France,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FR:P:A:C,2019-Q2,6.8
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GB:P:A:A,2019-Q2,155.7
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GB:P:A:B,2019-Q2,172.6
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GB:P:A:C,2019-Q2,-16.9
+Greece,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GR:P:A:A,2019-Q2,112.6
+Greece,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GR:P:A:B,2019-Q2,141.2
+Greece,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GR:P:A:C,2019-Q2,-28.6
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IE:P:A:A,2019-Q2,257.8
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IE:P:A:B,2019-Q2,334.1
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IE:P:A:C,2019-Q2,-76.3
+Italy,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IT:P:A:A,2019-Q2,109.7
+Italy,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IT:P:A:B,2019-Q2,127.4
+Italy,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IT:P:A:C,2019-Q2,-17.7
+Japan,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:JP:P:A:A,2019-Q2,161.1
+Japan,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:JP:P:A:B,2019-Q2,150.1
+Japan,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:JP:P:A:C,2019-Q2,11.0
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:LU:P:A:A,2019-Q2,392.3
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:LU:P:A:B,2019-Q2,421.0
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:LU:P:A:C,2019-Q2,-28.7
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NL:P:A:A,2019-Q2,257.2
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NL:P:A:B,2019-Q2,291.2
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NL:P:A:C,2019-Q2,-34.0
+Norway,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NO:P:A:A,2019-Q2,236.9
+Norway,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NO:P:A:B,2019-Q2,249.7
+Norway,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NO:P:A:C,2019-Q2,-12.9
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:PT:P:A:A,2019-Q2,164.6
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:PT:P:A:B,2019-Q2,210.4
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:PT:P:A:C,2019-Q2,-45.9
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:SE:P:A:A,2019-Q2,249.6
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:SE:P:A:B,2019-Q2,253.3
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:SE:P:A:C,2019-Q2,-3.7
+United States,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:US:P:A:A,2019-Q2,151.7
+United States,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:US:P:A:B,2019-Q2,157.6
+United States,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:US:P:A:C,2019-Q2,-5.9
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:XM:P:A:A,2019-Q2,162.9
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:XM:P:A:B,2019-Q2,174.7
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:XM:P:A:C,2019-Q2,-11.8
+Austria,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AT:P:A:A,2019-Q3,141.6
+Austria,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AT:P:A:B,2019-Q3,149.1
+Austria,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AT:P:A:C,2019-Q3,-7.5
+Australia,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AU:P:A:A,2019-Q3,192.7
+Australia,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AU:P:A:B,2019-Q3,205.0
+Australia,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AU:P:A:C,2019-Q3,-12.3
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:BE:P:A:A,2019-Q3,212.5
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:BE:P:A:B,2019-Q3,228.5
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:BE:P:A:C,2019-Q3,-16.0
+Canada,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:CA:P:A:A,2019-Q3,220.9
+Canada,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:CA:P:A:B,2019-Q3,215.7
+Canada,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:CA:P:A:C,2019-Q3,5.2
+Germany,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DE:P:A:A,2019-Q3,122.6
+Germany,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DE:P:A:B,2019-Q3,121.4
+Germany,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DE:P:A:C,2019-Q3,1.2
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DK:P:A:A,2019-Q3,245.3
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DK:P:A:B,2019-Q3,262.6
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DK:P:A:C,2019-Q3,-17.3
+Spain,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:ES:P:A:A,2019-Q3,152.2
+Spain,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:ES:P:A:B,2019-Q3,197.9
+Spain,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:ES:P:A:C,2019-Q3,-45.7
+Finland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FI:P:A:A,2019-Q3,185.3
+Finland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FI:P:A:B,2019-Q3,192.0
+Finland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FI:P:A:C,2019-Q3,-6.7
+France,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FR:P:A:A,2019-Q3,213.7
+France,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FR:P:A:B,2019-Q3,205.9
+France,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FR:P:A:C,2019-Q3,7.8
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GB:P:A:A,2019-Q3,157.0
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GB:P:A:B,2019-Q3,171.9
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GB:P:A:C,2019-Q3,-14.8
+Greece,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GR:P:A:A,2019-Q3,110.8
+Greece,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GR:P:A:B,2019-Q3,140.4
+Greece,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GR:P:A:C,2019-Q3,-29.6
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IE:P:A:A,2019-Q3,253.6
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IE:P:A:B,2019-Q3,331.7
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IE:P:A:C,2019-Q3,-78.1
+Italy,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IT:P:A:A,2019-Q3,109.7
+Italy,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IT:P:A:B,2019-Q3,126.8
+Italy,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IT:P:A:C,2019-Q3,-17.1
+Japan,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:JP:P:A:A,2019-Q3,162.5
+Japan,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:JP:P:A:B,2019-Q3,150.3
+Japan,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:JP:P:A:C,2019-Q3,12.1
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:LU:P:A:A,2019-Q3,391.2
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:LU:P:A:B,2019-Q3,422.2
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:LU:P:A:C,2019-Q3,-31.0
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NL:P:A:A,2019-Q3,254.7
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NL:P:A:B,2019-Q3,290.1
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NL:P:A:C,2019-Q3,-35.4
+Norway,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NO:P:A:A,2019-Q3,242.3
+Norway,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NO:P:A:B,2019-Q3,250.3
+Norway,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NO:P:A:C,2019-Q3,-8.0
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:PT:P:A:A,2019-Q3,163.2
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:PT:P:A:B,2019-Q3,208.3
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:PT:P:A:C,2019-Q3,-45.0
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:SE:P:A:A,2019-Q3,250.2
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:SE:P:A:B,2019-Q3,254.3
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:SE:P:A:C,2019-Q3,-4.1
+United States,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:US:P:A:A,2019-Q3,151.8
+United States,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:US:P:A:B,2019-Q3,157.4
+United States,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:US:P:A:C,2019-Q3,-5.5
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:XM:P:A:A,2019-Q3,163.3
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:XM:P:A:B,2019-Q3,174.5
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:XM:P:A:C,2019-Q3,-11.2
+Austria,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AT:P:A:A,2019-Q4,141.5
+Austria,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AT:P:A:B,2019-Q4,148.9
+Austria,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AT:P:A:C,2019-Q4,-7.4
+Australia,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AU:P:A:A,2019-Q4,191.2
+Australia,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AU:P:A:B,2019-Q4,204.9
+Australia,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AU:P:A:C,2019-Q4,-13.7
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:BE:P:A:A,2019-Q4,211.9
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:BE:P:A:B,2019-Q4,228.6
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:BE:P:A:C,2019-Q4,-16.7
+Canada,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:CA:P:A:A,2019-Q4,219.9
+Canada,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:CA:P:A:B,2019-Q4,216.9
+Canada,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:CA:P:A:C,2019-Q4,3.0
+Germany,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DE:P:A:A,2019-Q4,122.5
+Germany,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DE:P:A:B,2019-Q4,121.2
+Germany,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DE:P:A:C,2019-Q4,1.2
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DK:P:A:A,2019-Q4,247.3
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DK:P:A:B,2019-Q4,262.6
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DK:P:A:C,2019-Q4,-15.3
+Spain,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:ES:P:A:A,2019-Q4,150.0
+Spain,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:ES:P:A:B,2019-Q4,195.6
+Spain,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:ES:P:A:C,2019-Q4,-45.6
+Finland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FI:P:A:A,2019-Q4,183.7
+Finland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FI:P:A:B,2019-Q4,192.3
+Finland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FI:P:A:C,2019-Q4,-8.7
+France,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FR:P:A:A,2019-Q4,214.3
+France,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FR:P:A:B,2019-Q4,207.3
+France,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FR:P:A:C,2019-Q4,7.0
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GB:P:A:A,2019-Q4,155.3
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GB:P:A:B,2019-Q4,171.1
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GB:P:A:C,2019-Q4,-15.8
+Greece,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GR:P:A:A,2019-Q4,110.8
+Greece,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GR:P:A:B,2019-Q4,139.6
+Greece,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GR:P:A:C,2019-Q4,-28.8
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IE:P:A:A,2019-Q4,235.3
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IE:P:A:B,2019-Q4,328.4
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IE:P:A:C,2019-Q4,-93.1
+Italy,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IT:P:A:A,2019-Q4,109.3
+Italy,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IT:P:A:B,2019-Q4,126.2
+Italy,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IT:P:A:C,2019-Q4,-16.9
+Japan,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:JP:P:A:A,2019-Q4,164.5
+Japan,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:JP:P:A:B,2019-Q4,150.7
+Japan,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:JP:P:A:C,2019-Q4,13.8
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:LU:P:A:A,2019-Q4,407.5
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:LU:P:A:B,2019-Q4,424.1
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:LU:P:A:C,2019-Q4,-16.6
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NL:P:A:A,2019-Q4,249.7
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NL:P:A:B,2019-Q4,288.7
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NL:P:A:C,2019-Q4,-39.0
+Norway,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NO:P:A:A,2019-Q4,245.8
+Norway,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NO:P:A:B,2019-Q4,251.1
+Norway,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NO:P:A:C,2019-Q4,-5.3
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:PT:P:A:A,2019-Q4,160.9
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:PT:P:A:B,2019-Q4,206.0
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:PT:P:A:C,2019-Q4,-45.1
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:SE:P:A:A,2019-Q4,250.5
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:SE:P:A:B,2019-Q4,255.4
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:SE:P:A:C,2019-Q4,-4.8
+United States,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:US:P:A:A,2019-Q4,151.5
+United States,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:US:P:A:B,2019-Q4,157.1
+United States,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:US:P:A:C,2019-Q4,-5.6
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:XM:P:A:A,2019-Q4,162.2
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:XM:P:A:B,2019-Q4,174.2
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:XM:P:A:C,2019-Q4,-12.1
+Austria,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AT:P:A:A,2020-Q1,143.6
+Austria,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AT:P:A:B,2020-Q1,148.8
+Austria,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AT:P:A:C,2020-Q1,-5.2
+Australia,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AU:P:A:A,2020-Q1,194.2
+Australia,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AU:P:A:B,2020-Q1,205.0
+Australia,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AU:P:A:C,2020-Q1,-10.8
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:BE:P:A:A,2020-Q1,211.2
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:BE:P:A:B,2020-Q1,228.7
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:BE:P:A:C,2020-Q1,-17.5
+Canada,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:CA:P:A:A,2020-Q1,224.0
+Canada,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:CA:P:A:B,2020-Q1,218.3
+Canada,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:CA:P:A:C,2020-Q1,5.7
+Germany,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DE:P:A:A,2020-Q1,123.7
+Germany,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DE:P:A:B,2020-Q1,121.1
+Germany,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DE:P:A:C,2020-Q1,2.6
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DK:P:A:A,2020-Q1,245.4
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DK:P:A:B,2020-Q1,262.5
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DK:P:A:C,2020-Q1,-17.1
+Spain,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:ES:P:A:A,2020-Q1,150.7
+Spain,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:ES:P:A:B,2020-Q1,193.4
+Spain,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:ES:P:A:C,2020-Q1,-42.6
+Finland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FI:P:A:A,2020-Q1,184.4
+Finland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FI:P:A:B,2020-Q1,192.7
+Finland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FI:P:A:C,2020-Q1,-8.4
+France,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FR:P:A:A,2020-Q1,218.5
+France,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FR:P:A:B,2020-Q1,208.9
+France,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FR:P:A:C,2020-Q1,9.7
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GB:P:A:A,2020-Q1,158.2
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GB:P:A:B,2020-Q1,170.5
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GB:P:A:C,2020-Q1,-12.3
+Greece,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GR:P:A:A,2020-Q1,111.8
+Greece,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GR:P:A:B,2020-Q1,138.9
+Greece,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GR:P:A:C,2020-Q1,-27.2
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IE:P:A:A,2020-Q1,245.4
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IE:P:A:B,2020-Q1,325.6
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IE:P:A:C,2020-Q1,-80.2
+Italy,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IT:P:A:A,2020-Q1,111.0
+Italy,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IT:P:A:B,2020-Q1,125.7
+Italy,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IT:P:A:C,2020-Q1,-14.8
+Japan,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:JP:P:A:A,2020-Q1,166.1
+Japan,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:JP:P:A:B,2020-Q1,151.1
+Japan,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:JP:P:A:C,2020-Q1,14.9
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:LU:P:A:A,2020-Q1,406.8
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:LU:P:A:B,2020-Q1,425.9
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:LU:P:A:C,2020-Q1,-19.2
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NL:P:A:A,2020-Q1,251.8
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NL:P:A:B,2020-Q1,287.5
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NL:P:A:C,2020-Q1,-35.7
+Norway,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NO:P:A:A,2020-Q1,252.8
+Norway,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NO:P:A:B,2020-Q1,252.2
+Norway,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NO:P:A:C,2020-Q1,0.6
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:PT:P:A:A,2020-Q1,161.7
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:PT:P:A:B,2020-Q1,203.9
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:PT:P:A:C,2020-Q1,-42.2
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:SE:P:A:A,2020-Q1,257.5
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:SE:P:A:B,2020-Q1,256.7
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:SE:P:A:C,2020-Q1,0.9
+United States,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:US:P:A:A,2020-Q1,154.7
+United States,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:US:P:A:B,2020-Q1,157.1
+United States,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:US:P:A:C,2020-Q1,-2.3
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:XM:P:A:A,2020-Q1,164.3
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:XM:P:A:B,2020-Q1,174.1
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:XM:P:A:C,2020-Q1,-9.8
+Austria,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AT:P:A:A,2020-Q2,149.4
+Austria,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AT:P:A:B,2020-Q2,149.0
+Austria,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AT:P:A:C,2020-Q2,0.4
+Australia,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AU:P:A:A,2020-Q2,194.7
+Australia,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AU:P:A:B,2020-Q2,205.1
+Australia,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AU:P:A:C,2020-Q2,-10.4
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:BE:P:A:A,2020-Q2,215.9
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:BE:P:A:B,2020-Q2,229.0
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:BE:P:A:C,2020-Q2,-13.1
+Canada,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:CA:P:A:A,2020-Q2,235.5
+Canada,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:CA:P:A:B,2020-Q2,220.2
+Canada,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:CA:P:A:C,2020-Q2,15.3
+Germany,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DE:P:A:A,2020-Q2,128.3
+Germany,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DE:P:A:B,2020-Q2,121.3
+Germany,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DE:P:A:C,2020-Q2,7.0
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DK:P:A:A,2020-Q2,249.5
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DK:P:A:B,2020-Q2,262.6
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DK:P:A:C,2020-Q2,-13.1
+Spain,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:ES:P:A:A,2020-Q2,163.3
+Spain,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:ES:P:A:B,2020-Q2,191.9
+Spain,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:ES:P:A:C,2020-Q2,-28.6
+Finland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FI:P:A:A,2020-Q2,188.6
+Finland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FI:P:A:B,2020-Q2,193.3
+Finland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FI:P:A:C,2020-Q2,-4.8
+France,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FR:P:A:A,2020-Q2,234.7
+France,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FR:P:A:B,2020-Q2,211.3
+France,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FR:P:A:C,2020-Q2,23.5
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GB:P:A:A,2020-Q2,167.1
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GB:P:A:B,2020-Q2,170.4
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GB:P:A:C,2020-Q2,-3.3
+Greece,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GR:P:A:A,2020-Q2,115.9
+Greece,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GR:P:A:B,2020-Q2,138.4
+Greece,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GR:P:A:C,2020-Q2,-22.5
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IE:P:A:A,2020-Q2,244.6
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IE:P:A:B,2020-Q2,322.9
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IE:P:A:C,2020-Q2,-78.2
+Italy,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IT:P:A:A,2020-Q2,116.7
+Italy,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IT:P:A:B,2020-Q2,125.6
+Italy,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IT:P:A:C,2020-Q2,-8.9
+Japan,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:JP:P:A:A,2020-Q2,178.1
+Japan,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:JP:P:A:B,2020-Q2,152.2
+Japan,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:JP:P:A:C,2020-Q2,25.9
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:LU:P:A:A,2020-Q2,449.7
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:LU:P:A:B,2020-Q2,430.0
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:LU:P:A:C,2020-Q2,19.7
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NL:P:A:A,2020-Q2,257.0
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NL:P:A:B,2020-Q2,286.5
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NL:P:A:C,2020-Q2,-29.6
+Norway,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NO:P:A:A,2020-Q2,265.4
+Norway,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NO:P:A:B,2020-Q2,253.9
+Norway,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NO:P:A:C,2020-Q2,11.4
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:PT:P:A:A,2020-Q2,171.4
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:PT:P:A:B,2020-Q2,202.3
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:PT:P:A:C,2020-Q2,-30.9
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:SE:P:A:A,2020-Q2,262.2
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:SE:P:A:B,2020-Q2,258.2
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:SE:P:A:C,2020-Q2,4.0
+United States,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:US:P:A:A,2020-Q2,160.9
+United States,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:US:P:A:B,2020-Q2,157.3
+United States,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:US:P:A:C,2020-Q2,3.5
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:XM:P:A:A,2020-Q2,172.2
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:XM:P:A:B,2020-Q2,174.4
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:XM:P:A:C,2020-Q2,-2.2
+Austria,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AT:P:A:A,2020-Q3,151.3
+Austria,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AT:P:A:B,2020-Q3,149.4
+Austria,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AT:P:A:C,2020-Q3,2.0
+Australia,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AU:P:A:A,2020-Q3,195.5
+Australia,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AU:P:A:B,2020-Q3,205.2
+Australia,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AU:P:A:C,2020-Q3,-9.7
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:BE:P:A:A,2020-Q3,216.2
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:BE:P:A:B,2020-Q3,229.3
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:BE:P:A:C,2020-Q3,-13.1
+Canada,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:CA:P:A:A,2020-Q3,240.5
+Canada,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:CA:P:A:B,2020-Q3,222.4
+Canada,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:CA:P:A:C,2020-Q3,18.2
+Germany,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DE:P:A:A,2020-Q3,129.8
+Germany,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DE:P:A:B,2020-Q3,121.6
+Germany,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DE:P:A:C,2020-Q3,8.2
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DK:P:A:A,2020-Q3,243.0
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DK:P:A:B,2020-Q3,262.3
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DK:P:A:C,2020-Q3,-19.3
+Spain,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:ES:P:A:A,2020-Q3,166.7
+Spain,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:ES:P:A:B,2020-Q3,190.6
+Spain,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:ES:P:A:C,2020-Q3,-23.9
+Finland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FI:P:A:A,2020-Q3,189.7
+Finland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FI:P:A:B,2020-Q3,193.9
+Finland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FI:P:A:C,2020-Q3,-4.3
+France,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FR:P:A:A,2020-Q3,239.4
+France,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FR:P:A:B,2020-Q3,213.8
+France,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FR:P:A:C,2020-Q3,25.6
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GB:P:A:A,2020-Q3,170.0
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GB:P:A:B,2020-Q3,170.4
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GB:P:A:C,2020-Q3,-0.4
+Greece,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GR:P:A:A,2020-Q3,121.5
+Greece,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GR:P:A:B,2020-Q3,138.2
+Greece,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GR:P:A:C,2020-Q3,-16.7
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IE:P:A:A,2020-Q3,225.6
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IE:P:A:B,2020-Q3,319.1
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IE:P:A:C,2020-Q3,-93.4
+Italy,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IT:P:A:A,2020-Q3,119.7
+Italy,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IT:P:A:B,2020-Q3,125.6
+Italy,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IT:P:A:C,2020-Q3,-5.9
+Japan,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:JP:P:A:A,2020-Q3,181.6
+Japan,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:JP:P:A:B,2020-Q3,153.5
+Japan,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:JP:P:A:C,2020-Q3,28.1
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:LU:P:A:A,2020-Q3,416.5
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:LU:P:A:B,2020-Q3,432.0
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:LU:P:A:C,2020-Q3,-15.5
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NL:P:A:A,2020-Q3,258.2
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NL:P:A:B,2020-Q3,285.7
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NL:P:A:C,2020-Q3,-27.5
+Norway,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NO:P:A:A,2020-Q3,272.2
+Norway,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NO:P:A:B,2020-Q3,256.0
+Norway,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NO:P:A:C,2020-Q3,16.3
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:PT:P:A:A,2020-Q3,174.1
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:PT:P:A:B,2020-Q3,200.9
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:PT:P:A:C,2020-Q3,-26.9
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:SE:P:A:A,2020-Q3,264.7
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:SE:P:A:B,2020-Q3,259.8
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:SE:P:A:C,2020-Q3,4.9
+United States,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:US:P:A:A,2020-Q3,162.3
+United States,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:US:P:A:B,2020-Q3,157.7
+United States,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:US:P:A:C,2020-Q3,4.6
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:XM:P:A:A,2020-Q3,174.3
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:XM:P:A:B,2020-Q3,174.8
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:XM:P:A:C,2020-Q3,-0.6
+Austria,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AT:P:A:A,2020-Q4,152.8
+Austria,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AT:P:A:B,2020-Q4,149.8
+Austria,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AT:P:A:C,2020-Q4,3.1
+Australia,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AU:P:A:A,2020-Q4,194.3
+Australia,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AU:P:A:B,2020-Q4,205.3
+Australia,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AU:P:A:C,2020-Q4,-11.0
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:BE:P:A:A,2020-Q4,223.5
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:BE:P:A:B,2020-Q4,230.0
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:BE:P:A:C,2020-Q4,-6.5
+Canada,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:CA:P:A:A,2020-Q4,244.5
+Canada,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:CA:P:A:B,2020-Q4,224.6
+Canada,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:CA:P:A:C,2020-Q4,19.9
+Germany,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DE:P:A:A,2020-Q4,131.2
+Germany,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DE:P:A:B,2020-Q4,121.9
+Germany,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DE:P:A:C,2020-Q4,9.3
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DK:P:A:A,2020-Q4,245.0
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DK:P:A:B,2020-Q4,262.1
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DK:P:A:C,2020-Q4,-17.1
+Spain,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:ES:P:A:A,2020-Q4,171.1
+Spain,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:ES:P:A:B,2020-Q4,189.6
+Spain,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:ES:P:A:C,2020-Q4,-18.5
+Finland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FI:P:A:A,2020-Q4,191.1
+Finland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FI:P:A:B,2020-Q4,194.6
+Finland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FI:P:A:C,2020-Q4,-3.5
+France,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FR:P:A:A,2020-Q4,244.8
+France,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FR:P:A:B,2020-Q4,216.5
+France,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FR:P:A:C,2020-Q4,28.3
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GB:P:A:A,2020-Q4,173.5
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GB:P:A:B,2020-Q4,170.7
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GB:P:A:C,2020-Q4,2.9
+Greece,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GR:P:A:A,2020-Q4,124.6
+Greece,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GR:P:A:B,2020-Q4,138.1
+Greece,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GR:P:A:C,2020-Q4,-13.6
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IE:P:A:A,2020-Q4,216.6
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IE:P:A:B,2020-Q4,314.9
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IE:P:A:C,2020-Q4,-98.3
+Italy,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IT:P:A:A,2020-Q4,121.8
+Italy,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IT:P:A:B,2020-Q4,125.7
+Italy,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IT:P:A:C,2020-Q4,-3.8
+Japan,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:JP:P:A:A,2020-Q4,184.2
+Japan,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:JP:P:A:B,2020-Q4,154.9
+Japan,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:JP:P:A:C,2020-Q4,29.3
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:LU:P:A:A,2020-Q4,401.3
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:LU:P:A:B,2020-Q4,433.0
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:LU:P:A:C,2020-Q4,-31.7
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NL:P:A:A,2020-Q4,252.9
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NL:P:A:B,2020-Q4,284.5
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NL:P:A:C,2020-Q4,-31.6
+Norway,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NO:P:A:A,2020-Q4,277.9
+Norway,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NO:P:A:B,2020-Q4,258.2
+Norway,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NO:P:A:C,2020-Q4,19.7
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:PT:P:A:A,2020-Q4,176.6
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:PT:P:A:B,2020-Q4,199.7
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:PT:P:A:C,2020-Q4,-23.1
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:SE:P:A:A,2020-Q4,265.2
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:SE:P:A:B,2020-Q4,261.3
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:SE:P:A:C,2020-Q4,3.9
+United States,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:US:P:A:A,2020-Q4,163.9
+United States,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:US:P:A:B,2020-Q4,158.1
+United States,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:US:P:A:C,2020-Q4,5.8
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:XM:P:A:A,2020-Q4,176.1
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:XM:P:A:B,2020-Q4,175.3
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:XM:P:A:C,2020-Q4,0.8
+Austria,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AT:P:A:A,2021-Q1,157.4
+Austria,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AT:P:A:B,2021-Q1,150.4
+Austria,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AT:P:A:C,2021-Q1,7.0
+Australia,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AU:P:A:A,2021-Q1,193.4
+Australia,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AU:P:A:B,2021-Q1,205.2
+Australia,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AU:P:A:C,2021-Q1,-11.8
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:BE:P:A:A,2021-Q1,223.1
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:BE:P:A:B,2021-Q1,230.5
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:BE:P:A:C,2021-Q1,-7.5
+Canada,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:CA:P:A:A,2021-Q1,241.4
+Canada,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:CA:P:A:B,2021-Q1,226.6
+Canada,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:CA:P:A:C,2021-Q1,14.8
+Germany,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DE:P:A:A,2021-Q1,132.9
+Germany,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DE:P:A:B,2021-Q1,122.4
+Germany,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DE:P:A:C,2021-Q1,10.6
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DK:P:A:A,2021-Q1,246.9
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DK:P:A:B,2021-Q1,262.0
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DK:P:A:C,2021-Q1,-15.1
+Spain,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:ES:P:A:A,2021-Q1,172.7
+Spain,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:ES:P:A:B,2021-Q1,188.7
+Spain,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:ES:P:A:C,2021-Q1,-16.0
+Finland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FI:P:A:A,2021-Q1,192.9
+Finland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FI:P:A:B,2021-Q1,195.3
+Finland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FI:P:A:C,2021-Q1,-2.4
+France,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FR:P:A:A,2021-Q1,244.0
+France,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FR:P:A:B,2021-Q1,219.1
+France,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FR:P:A:C,2021-Q1,24.9
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GB:P:A:A,2021-Q1,170.8
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GB:P:A:B,2021-Q1,170.8
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GB:P:A:C,2021-Q1,0.1
+Greece,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GR:P:A:A,2021-Q1,127.3
+Greece,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GR:P:A:B,2021-Q1,138.2
+Greece,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GR:P:A:C,2021-Q1,-10.9
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IE:P:A:A,2021-Q1,209.9
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IE:P:A:B,2021-Q1,310.4
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IE:P:A:C,2021-Q1,-100.5
+Italy,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IT:P:A:A,2021-Q1,121.9
+Italy,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IT:P:A:B,2021-Q1,125.8
+Italy,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IT:P:A:C,2021-Q1,-3.9
+Japan,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:JP:P:A:A,2021-Q1,185.3
+Japan,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:JP:P:A:B,2021-Q1,156.3
+Japan,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:JP:P:A:C,2021-Q1,28.9
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:LU:P:A:A,2021-Q1,402.5
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:LU:P:A:B,2021-Q1,434.0
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:LU:P:A:C,2021-Q1,-31.5
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NL:P:A:A,2021-Q1,257.1
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NL:P:A:B,2021-Q1,283.6
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NL:P:A:C,2021-Q1,-26.5
+Norway,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NO:P:A:A,2021-Q1,275.0
+Norway,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NO:P:A:B,2021-Q1,260.2
+Norway,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NO:P:A:C,2021-Q1,14.8
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:PT:P:A:A,2021-Q1,178.8
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:PT:P:A:B,2021-Q1,198.7
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:PT:P:A:C,2021-Q1,-19.8
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:SE:P:A:A,2021-Q1,271.3
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:SE:P:A:B,2021-Q1,263.1
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:SE:P:A:C,2021-Q1,8.1
+United States,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:US:P:A:A,2021-Q1,164.6
+United States,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:US:P:A:B,2021-Q1,158.5
+United States,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:US:P:A:C,2021-Q1,6.1
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:XM:P:A:A,2021-Q1,177.6
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:XM:P:A:B,2021-Q1,175.9
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:XM:P:A:C,2021-Q1,1.7
+Austria,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AT:P:A:A,2021-Q2,151.4
+Austria,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AT:P:A:B,2021-Q2,150.7
+Austria,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AT:P:A:C,2021-Q2,0.7
+Australia,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AU:P:A:A,2021-Q2,189.0
+Australia,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AU:P:A:B,2021-Q2,204.9
+Australia,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AU:P:A:C,2021-Q2,-15.9
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:BE:P:A:A,2021-Q2,215.1
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:BE:P:A:B,2021-Q2,230.6
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:BE:P:A:C,2021-Q2,-15.5
+Canada,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:CA:P:A:A,2021-Q2,234.9
+Canada,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:CA:P:A:B,2021-Q2,228.1
+Canada,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:CA:P:A:C,2021-Q2,6.8
+Germany,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DE:P:A:A,2021-Q2,130.3
+Germany,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DE:P:A:B,2021-Q2,122.7
+Germany,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DE:P:A:C,2021-Q2,7.6
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DK:P:A:A,2021-Q2,244.0
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DK:P:A:B,2021-Q2,261.7
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DK:P:A:C,2021-Q2,-17.7
+Spain,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:ES:P:A:A,2021-Q2,169.9
+Spain,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:ES:P:A:B,2021-Q2,187.7
+Spain,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:ES:P:A:C,2021-Q2,-17.8
+Finland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FI:P:A:A,2021-Q2,191.2
+Finland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FI:P:A:B,2021-Q2,195.9
+Finland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FI:P:A:C,2021-Q2,-4.7
+France,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FR:P:A:A,2021-Q2,237.5
+France,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FR:P:A:B,2021-Q2,221.2
+France,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FR:P:A:C,2021-Q2,16.3
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GB:P:A:A,2021-Q2,165.7
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GB:P:A:B,2021-Q2,170.6
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GB:P:A:C,2021-Q2,-4.9
+Greece,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GR:P:A:A,2021-Q2,128.5
+Greece,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GR:P:A:B,2021-Q2,138.3
+Greece,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GR:P:A:C,2021-Q2,-9.9
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IE:P:A:A,2021-Q2,200.3
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IE:P:A:B,2021-Q2,305.5
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IE:P:A:C,2021-Q2,-105.1
+Italy,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IT:P:A:A,2021-Q2,118.0
+Italy,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IT:P:A:B,2021-Q2,125.7
+Italy,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IT:P:A:C,2021-Q2,-7.7
+Japan,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:JP:P:A:A,2021-Q2,184.1
+Japan,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:JP:P:A:B,2021-Q2,157.7
+Japan,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:JP:P:A:C,2021-Q2,26.4
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:LU:P:A:A,2021-Q2,400.4
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:LU:P:A:B,2021-Q2,434.8
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:LU:P:A:C,2021-Q2,-34.3
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NL:P:A:A,2021-Q2,253.5
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NL:P:A:B,2021-Q2,282.5
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NL:P:A:C,2021-Q2,-29.0
+Norway,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NO:P:A:A,2021-Q2,265.1
+Norway,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NO:P:A:B,2021-Q2,261.6
+Norway,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NO:P:A:C,2021-Q2,3.5
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:PT:P:A:A,2021-Q2,173.5
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:PT:P:A:B,2021-Q2,197.3
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:PT:P:A:C,2021-Q2,-23.8
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:SE:P:A:A,2021-Q2,267.9
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:SE:P:A:B,2021-Q2,264.6
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:SE:P:A:C,2021-Q2,3.3
+United States,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:US:P:A:A,2021-Q2,160.0
+United States,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:US:P:A:B,2021-Q2,158.7
+United States,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:US:P:A:C,2021-Q2,1.3
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:XM:P:A:A,2021-Q2,173.2
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:XM:P:A:B,2021-Q2,176.2
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:XM:P:A:C,2021-Q2,-3.0
+Austria,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AT:P:A:A,2021-Q3,151.0
+Austria,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AT:P:A:B,2021-Q3,150.9
+Austria,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AT:P:A:C,2021-Q3,0.1
+Australia,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AU:P:A:A,2021-Q3,186.9
+Australia,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AU:P:A:B,2021-Q3,204.5
+Australia,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AU:P:A:C,2021-Q3,-17.6
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:BE:P:A:A,2021-Q3,213.4
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:BE:P:A:B,2021-Q3,230.6
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:BE:P:A:C,2021-Q3,-17.2
+Canada,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:CA:P:A:A,2021-Q3,232.9
+Canada,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:CA:P:A:B,2021-Q3,229.5
+Canada,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:CA:P:A:C,2021-Q3,3.4
+Germany,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DE:P:A:A,2021-Q3,130.1
+Germany,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DE:P:A:B,2021-Q3,122.9
+Germany,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DE:P:A:C,2021-Q3,7.2
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DK:P:A:A,2021-Q3,244.1
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DK:P:A:B,2021-Q3,261.4
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DK:P:A:C,2021-Q3,-17.3
+Spain,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:ES:P:A:A,2021-Q3,166.4
+Spain,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:ES:P:A:B,2021-Q3,186.6
+Spain,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:ES:P:A:C,2021-Q3,-20.2
+Finland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FI:P:A:A,2021-Q3,190.0
+Finland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FI:P:A:B,2021-Q3,196.4
+Finland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FI:P:A:C,2021-Q3,-6.3
+France,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FR:P:A:A,2021-Q3,236.7
+France,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FR:P:A:B,2021-Q3,223.2
+France,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FR:P:A:C,2021-Q3,13.5
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GB:P:A:A,2021-Q3,162.9
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GB:P:A:B,2021-Q3,170.2
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GB:P:A:C,2021-Q3,-7.3
+Greece,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GR:P:A:A,2021-Q3,124.4
+Greece,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GR:P:A:B,2021-Q3,138.2
+Greece,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GR:P:A:C,2021-Q3,-13.8
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IE:P:A:A,2021-Q3,196.2
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IE:P:A:B,2021-Q3,300.4
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IE:P:A:C,2021-Q3,-104.2
+Italy,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IT:P:A:A,2021-Q3,116.2
+Italy,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IT:P:A:B,2021-Q3,125.4
+Italy,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IT:P:A:C,2021-Q3,-9.3
+Japan,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:JP:P:A:A,2021-Q3,184.3
+Japan,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:JP:P:A:B,2021-Q3,159.0
+Japan,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:JP:P:A:C,2021-Q3,25.3
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:LU:P:A:A,2021-Q3,406.1
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:LU:P:A:B,2021-Q3,435.8
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:LU:P:A:C,2021-Q3,-29.6
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NL:P:A:A,2021-Q3,250.7
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NL:P:A:B,2021-Q3,281.2
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NL:P:A:C,2021-Q3,-30.5
+Norway,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NO:P:A:A,2021-Q3,253.2
+Norway,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NO:P:A:B,2021-Q3,262.2
+Norway,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NO:P:A:C,2021-Q3,-9.0
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:PT:P:A:A,2021-Q3,171.9
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:PT:P:A:B,2021-Q3,196.0
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:PT:P:A:C,2021-Q3,-24.1
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:SE:P:A:A,2021-Q3,267.9
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:SE:P:A:B,2021-Q3,266.1
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:SE:P:A:C,2021-Q3,1.9
+United States,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:US:P:A:A,2021-Q3,158.4
+United States,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:US:P:A:B,2021-Q3,158.8
+United States,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:US:P:A:C,2021-Q3,-0.4
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:XM:P:A:A,2021-Q3,172.2
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:XM:P:A:B,2021-Q3,176.4
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:XM:P:A:C,2021-Q3,-4.2
+Austria,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AT:P:A:A,2021-Q4,152.0
+Austria,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AT:P:A:B,2021-Q4,151.2
+Austria,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AT:P:A:C,2021-Q4,0.8
+Australia,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AU:P:A:A,2021-Q4,184.7
+Australia,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AU:P:A:B,2021-Q4,203.9
+Australia,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AU:P:A:C,2021-Q4,-19.3
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:BE:P:A:A,2021-Q4,207.2
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:BE:P:A:B,2021-Q4,230.3
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:BE:P:A:C,2021-Q4,-23.0
+Canada,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:CA:P:A:A,2021-Q4,230.5
+Canada,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:CA:P:A:B,2021-Q4,230.7
+Canada,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:CA:P:A:C,2021-Q4,-0.2
+Germany,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DE:P:A:A,2021-Q4,130.2
+Germany,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DE:P:A:B,2021-Q4,123.2
+Germany,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DE:P:A:C,2021-Q4,7.0
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DK:P:A:A,2021-Q4,240.4
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DK:P:A:B,2021-Q4,260.9
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DK:P:A:C,2021-Q4,-20.5
+Spain,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:ES:P:A:A,2021-Q4,162.4
+Spain,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:ES:P:A:B,2021-Q4,185.2
+Spain,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:ES:P:A:C,2021-Q4,-22.8
+Finland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FI:P:A:A,2021-Q4,188.2
+Finland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FI:P:A:B,2021-Q4,196.7
+Finland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FI:P:A:C,2021-Q4,-8.5
+France,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FR:P:A:A,2021-Q4,235.4
+France,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FR:P:A:B,2021-Q4,225.0
+France,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FR:P:A:C,2021-Q4,10.4
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GB:P:A:A,2021-Q4,157.7
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GB:P:A:B,2021-Q4,169.6
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GB:P:A:C,2021-Q4,-11.9
+Greece,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GR:P:A:A,2021-Q4,120.2
+Greece,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GR:P:A:B,2021-Q4,137.8
+Greece,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GR:P:A:C,2021-Q4,-17.6
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IE:P:A:A,2021-Q4,195.6
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IE:P:A:B,2021-Q4,295.4
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IE:P:A:C,2021-Q4,-99.8
+Italy,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IT:P:A:A,2021-Q4,116.5
+Italy,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IT:P:A:B,2021-Q4,125.2
+Italy,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IT:P:A:C,2021-Q4,-8.7
+Japan,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:JP:P:A:A,2021-Q4,187.1
+Japan,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:JP:P:A:B,2021-Q4,160.4
+Japan,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:JP:P:A:C,2021-Q4,26.7
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:LU:P:A:A,2021-Q4,408.8
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:LU:P:A:B,2021-Q4,436.8
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:LU:P:A:C,2021-Q4,-28.0
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NL:P:A:A,2021-Q4,247.8
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NL:P:A:B,2021-Q4,279.8
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NL:P:A:C,2021-Q4,-32.0
+Norway,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NO:P:A:A,2021-Q4,235.4
+Norway,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NO:P:A:B,2021-Q4,261.8
+Norway,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NO:P:A:C,2021-Q4,-26.5
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:PT:P:A:A,2021-Q4,169.1
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:PT:P:A:B,2021-Q4,194.5
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:PT:P:A:C,2021-Q4,-25.4
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:SE:P:A:A,2021-Q4,272.5
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:SE:P:A:B,2021-Q4,267.7
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:SE:P:A:C,2021-Q4,4.8
+United States,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:US:P:A:A,2021-Q4,156.9
+United States,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:US:P:A:B,2021-Q4,158.8
+United States,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:US:P:A:C,2021-Q4,-1.8
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:XM:P:A:A,2021-Q4,171.2
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:XM:P:A:B,2021-Q4,176.5
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:XM:P:A:C,2021-Q4,-5.3
+Austria,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AT:P:A:A,2022-Q1,149.6
+Austria,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AT:P:A:B,2022-Q1,151.3
+Austria,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AT:P:A:C,2022-Q1,-1.7
+Australia,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AU:P:A:A,2022-Q1,182.0
+Australia,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AU:P:A:B,2022-Q1,203.2
+Australia,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AU:P:A:C,2022-Q1,-21.3
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:BE:P:A:A,2022-Q1,202.6
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:BE:P:A:B,2022-Q1,229.6
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:BE:P:A:C,2022-Q1,-27.0
+Canada,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:CA:P:A:A,2022-Q1,224.2
+Canada,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:CA:P:A:B,2022-Q1,231.4
+Canada,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:CA:P:A:C,2022-Q1,-7.2
+Germany,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DE:P:A:A,2022-Q1,129.0
+Germany,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DE:P:A:B,2022-Q1,123.4
+Germany,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DE:P:A:C,2022-Q1,5.6
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DK:P:A:A,2022-Q1,234.0
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DK:P:A:B,2022-Q1,260.0
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DK:P:A:C,2022-Q1,-26.0
+Spain,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:ES:P:A:A,2022-Q1,158.5
+Spain,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:ES:P:A:B,2022-Q1,183.7
+Spain,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:ES:P:A:C,2022-Q1,-25.1
+Finland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FI:P:A:A,2022-Q1,183.5
+Finland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FI:P:A:B,2022-Q1,196.7
+Finland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FI:P:A:C,2022-Q1,-13.3
+France,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FR:P:A:A,2022-Q1,232.9
+France,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FR:P:A:B,2022-Q1,226.6
+France,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FR:P:A:C,2022-Q1,6.2
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GB:P:A:A,2022-Q1,154.2
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GB:P:A:B,2022-Q1,168.8
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GB:P:A:C,2022-Q1,-14.6
+Greece,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GR:P:A:A,2022-Q1,116.2
+Greece,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GR:P:A:B,2022-Q1,137.2
+Greece,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GR:P:A:C,2022-Q1,-21.0
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IE:P:A:A,2022-Q1,191.0
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IE:P:A:B,2022-Q1,290.4
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IE:P:A:C,2022-Q1,-99.3
+Italy,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IT:P:A:A,2022-Q1,114.2
+Italy,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IT:P:A:B,2022-Q1,124.9
+Italy,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IT:P:A:C,2022-Q1,-10.7
+Japan,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:JP:P:A:A,2022-Q1,186.6
+Japan,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:JP:P:A:B,2022-Q1,161.7
+Japan,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:JP:P:A:C,2022-Q1,24.8
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:LU:P:A:A,2022-Q1,404.8
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:LU:P:A:B,2022-Q1,437.5
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:LU:P:A:C,2022-Q1,-32.7
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NL:P:A:A,2022-Q1,243.4
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NL:P:A:B,2022-Q1,278.2
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NL:P:A:C,2022-Q1,-34.8
+Norway,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NO:P:A:A,2022-Q1,215.7
+Norway,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NO:P:A:B,2022-Q1,260.4
+Norway,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NO:P:A:C,2022-Q1,-44.6
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:PT:P:A:A,2022-Q1,165.9
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:PT:P:A:B,2022-Q1,192.9
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:PT:P:A:C,2022-Q1,-26.9
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:SE:P:A:A,2022-Q1,272.9
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:SE:P:A:B,2022-Q1,269.2
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:SE:P:A:C,2022-Q1,3.7
+United States,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:US:P:A:A,2022-Q1,155.9
+United States,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:US:P:A:B,2022-Q1,158.7
+United States,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:US:P:A:C,2022-Q1,-2.8
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:XM:P:A:A,2022-Q1,169.3
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:XM:P:A:B,2022-Q1,176.5
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:XM:P:A:C,2022-Q1,-7.2
+Austria,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AT:P:A:A,2022-Q2,148.0
+Austria,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AT:P:A:B,2022-Q2,151.3
+Austria,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AT:P:A:C,2022-Q2,-3.4
+Australia,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:AU:P:A:A,2022-Q2,180.7
+Australia,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:AU:P:A:B,2022-Q2,202.5
+Australia,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:AU:P:A:C,2022-Q2,-21.8
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:BE:P:A:A,2022-Q2,199.8
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:BE:P:A:B,2022-Q2,228.8
+Belgium,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:BE:P:A:C,2022-Q2,-29.0
+Canada,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:CA:P:A:A,2022-Q2,219.8
+Canada,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:CA:P:A:B,2022-Q2,231.9
+Canada,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:CA:P:A:C,2022-Q2,-12.0
+Germany,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DE:P:A:A,2022-Q2,128.3
+Germany,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DE:P:A:B,2022-Q2,123.5
+Germany,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DE:P:A:C,2022-Q2,4.7
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:DK:P:A:A,2022-Q2,226.6
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:DK:P:A:B,2022-Q2,258.8
+Denmark,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:DK:P:A:C,2022-Q2,-32.2
+Spain,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:ES:P:A:A,2022-Q2,155.3
+Spain,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:ES:P:A:B,2022-Q2,182.0
+Spain,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:ES:P:A:C,2022-Q2,-26.7
+Finland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FI:P:A:A,2022-Q2,180.1
+Finland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FI:P:A:B,2022-Q2,196.6
+Finland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FI:P:A:C,2022-Q2,-16.4
+France,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:FR:P:A:A,2022-Q2,231.2
+France,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:FR:P:A:B,2022-Q2,228.1
+France,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:FR:P:A:C,2022-Q2,3.1
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GB:P:A:A,2022-Q2,150.2
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GB:P:A:B,2022-Q2,167.8
+United Kingdom,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GB:P:A:C,2022-Q2,-17.6
+Greece,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:GR:P:A:A,2022-Q2,113.0
+Greece,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:GR:P:A:B,2022-Q2,136.4
+Greece,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:GR:P:A:C,2022-Q2,-23.5
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IE:P:A:A,2022-Q2,187.8
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IE:P:A:B,2022-Q2,285.2
+Ireland,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IE:P:A:C,2022-Q2,-97.4
+Italy,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:IT:P:A:A,2022-Q2,112.8
+Italy,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:IT:P:A:B,2022-Q2,124.4
+Italy,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:IT:P:A:C,2022-Q2,-11.6
+Japan,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:JP:P:A:A,2022-Q2,187.4
+Japan,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:JP:P:A:B,2022-Q2,163.1
+Japan,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:JP:P:A:C,2022-Q2,24.3
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:LU:P:A:A,2022-Q2,398.4
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:LU:P:A:B,2022-Q2,437.8
+Luxembourg,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:LU:P:A:C,2022-Q2,-39.4
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NL:P:A:A,2022-Q2,240.9
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NL:P:A:B,2022-Q2,276.5
+Netherlands,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NL:P:A:C,2022-Q2,-35.7
+Norway,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:NO:P:A:A,2022-Q2,203.2
+Norway,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:NO:P:A:B,2022-Q2,258.2
+Norway,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:NO:P:A:C,2022-Q2,-55.0
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:PT:P:A:A,2022-Q2,161.5
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:PT:P:A:B,2022-Q2,191.0
+Portugal,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:PT:P:A:C,2022-Q2,-29.6
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:SE:P:A:A,2022-Q2,269.1
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:SE:P:A:B,2022-Q2,270.5
+Sweden,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:SE:P:A:C,2022-Q2,-1.4
+United States,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:US:P:A:A,2022-Q2,155.1
+United States,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:US:P:A:B,2022-Q2,158.6
+United States,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:US:P:A:C,2022-Q2,-3.5
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP ratios (actual data),Q:XM:P:A:A,2022-Q2,167.2
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP trend (HP filter),Q:XM:P:A:B,2022-Q2,176.4
+Euro area,Private non-financial sector,All sectors,Credit-to-GDP gaps (actual-trend),Q:XM:P:A:C,2022-Q2,-9.2

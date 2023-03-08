@@ -1,0 +1,361 @@
+FREQ,Frequency,REF_AREA,Reference area,Series,Anually-year,Consumer_Price
+A,Annual,AE,United Arab Emirates,A:AE:771,2017,1.967357
+A,Annual,AR,Argentina,A:AR:771,2017,24.7939455
+A,Annual,AT,Austria,A:AT:771,2017,2.064159
+A,Annual,AU,Australia,A:AU:771,2017,1.948647
+A,Annual,BE,Belgium,A:BE:771,2017,2.125971
+A,Annual,BG,Bulgaria,A:BG:771,2017,2.061893
+A,Annual,BR,Brazil,A:BR:771,2017,3.446307041
+A,Annual,CA,Canada,A:CA:771,2017,1.596884
+A,Annual,CH,Switzerland,A:CH:771,2017,0.533796
+A,Annual,CL,Chile,A:CL:771,2017,2.182562
+A,Annual,CN,China,A:CN:771,2017,1.517464
+A,Annual,CY,Cyprus,A:CY:771,2017,0.539375
+A,Annual,CZ,Czechia,A:CZ:771,2017,2.450522
+A,Annual,DE,Germany,A:DE:771,2017,1.509497
+A,Annual,DK,Denmark,A:DK:771,2017,1.147132
+A,Annual,DZ,Algeria,A:DZ:771,2017,5.591116
+A,Annual,EE,Estonia,A:EE:771,2017,3.414588
+A,Annual,ES,Spain,A:ES:771,2017,1.956076
+A,Annual,FI,Finland,A:FI:771,2017,0.754015
+A,Annual,FR,France,A:FR:771,2017,1.032283
+A,Annual,GB,United Kingdom,A:GB:771,2017,2.690843
+A,Annual,GR,Greece,A:GR:771,2017,1.122398
+A,Annual,HK,Hong Kong SAR,A:HK:771,2017,1.493872
+A,Annual,HR,Croatia,A:HR:771,2017,1.129372
+A,Annual,HU,Hungary,A:HU:771,2017,2.344881
+A,Annual,ID,Indonesia,A:ID:771,2017,3.808798
+A,Annual,IE,Ireland,A:IE:771,2017,0.340532
+A,Annual,IL,Israel,A:IL:771,2017,0.242216
+A,Annual,IN,India,A:IN:771,2017,3.328173
+A,Annual,IS,Iceland,A:IS:771,2017,1.761271
+A,Annual,IT,Italy,A:IT:771,2017,1.218088
+A,Annual,JP,Japan,A:JP:771,2017,0.5
+A,Annual,KR,Korea,A:KR:771,2017,1.944332
+A,Annual,LT,Lithuania,A:LT:771,2017,3.722889
+A,Annual,LU,Luxembourg,A:LU:771,2017,1.7308
+A,Annual,LV,Latvia,A:LV:771,2017,2.925366
+A,Annual,MK,North Macedonia,A:MK:771,2017,1.339931
+A,Annual,MT,Malta,A:MT:771,2017,1.364578
+A,Annual,MX,Mexico,A:MX:771,2017,6.041469
+A,Annual,MY,Malaysia,A:MY:771,2017,3.799392
+A,Annual,NL,Netherlands,A:NL:771,2017,1.381453
+A,Annual,NO,Norway,A:NO:771,2017,1.875101
+A,Annual,NZ,New Zealand,A:NZ:771,2017,1.850783
+A,Annual,PE,Peru,A:PE:771,2017,2.803831823
+A,Annual,PH,Philippines,A:PH:771,2017,2.841422
+A,Annual,PL,Poland,A:PL:771,2017,2.002478
+A,Annual,PT,Portugal,A:PT:771,2017,1.368614
+A,Annual,RO,Romania,A:RO:771,2017,1.351394
+A,Annual,RS,Serbia,A:RS:771,2017,3.165236536
+A,Annual,RU,Russia,A:RU:771,2017,3.685038
+A,Annual,SA,Saudi Arabia,A:SA:771,2017,-0.838195
+A,Annual,SE,Sweden,A:SE:771,2017,1.794499
+A,Annual,SG,Singapore,A:SG:771,2017,0.57626
+A,Annual,SI,Slovenia,A:SI:771,2017,1.425713
+A,Annual,SK,Slovak Republic,A:SK:771,2017,1.323885
+A,Annual,TH,Thailand,A:TH:771,2017,0.665124
+A,Annual,TR,Turkey,A:TR:771,2017,11.14431108
+A,Annual,US,United States,A:US:771,2017,2.13011
+A,Annual,XM,Euro area,A:XM:771,2017,1.538065
+A,Annual,ZA,South Africa,A:ZA:771,2017,5.278745
+A,Annual,AE,United Arab Emirates,A:AE:771,2018,3.070301
+A,Annual,AR,Argentina,A:AR:771,2018,34.15029965
+A,Annual,AT,Austria,A:AT:771,2018,2.004903
+A,Annual,AU,Australia,A:AU:771,2018,1.911401
+A,Annual,BE,Belgium,A:BE:771,2018,2.053165
+A,Annual,BG,Bulgaria,A:BG:771,2018,2.814486
+A,Annual,BR,Brazil,A:BR:771,2018,3.664676474
+A,Annual,CA,Canada,A:CA:771,2018,2.268226
+A,Annual,CH,Switzerland,A:CH:771,2018,0.936327
+A,Annual,CL,Chile,A:CL:771,2018,2.433498
+A,Annual,CN,China,A:CN:771,2018,1.926926
+A,Annual,CY,Cyprus,A:CY:771,2018,1.427815
+A,Annual,CZ,Czechia,A:CZ:771,2018,2.149516
+A,Annual,DE,Germany,A:DE:771,2018,1.732168
+A,Annual,DK,Denmark,A:DK:771,2018,0.813609
+A,Annual,DZ,Algeria,A:DZ:771,2018,4.26999
+A,Annual,EE,Estonia,A:EE:771,2018,3.433027
+A,Annual,ES,Spain,A:ES:771,2018,1.674981
+A,Annual,FI,Finland,A:FI:771,2018,1.083821
+A,Annual,FR,France,A:FR:771,2018,1.850815
+A,Annual,GB,United Kingdom,A:GB:771,2018,2.475208
+A,Annual,GR,Greece,A:GR:771,2018,0.62595
+A,Annual,HK,Hong Kong SAR,A:HK:771,2018,2.406134
+A,Annual,HR,Croatia,A:HR:771,2018,1.500125
+A,Annual,HU,Hungary,A:HU:771,2018,2.84203
+A,Annual,ID,Indonesia,A:ID:771,2018,3.198346
+A,Annual,IE,Ireland,A:IE:771,2018,0.48837
+A,Annual,IL,Israel,A:IL:771,2018,0.8067
+A,Annual,IN,India,A:IN:771,2018,3.945069
+A,Annual,IS,Iceland,A:IS:771,2018,2.680839
+A,Annual,IT,Italy,A:IT:771,2018,1.137488
+A,Annual,JP,Japan,A:JP:771,2018,0.989095
+A,Annual,KR,Korea,A:KR:771,2018,1.475839
+A,Annual,LT,Lithuania,A:LT:771,2018,2.697928
+A,Annual,LU,Luxembourg,A:LU:771,2018,1.528195
+A,Annual,LV,Latvia,A:LV:771,2018,2.536156
+A,Annual,MK,North Macedonia,A:MK:771,2018,1.449929
+A,Annual,MT,Malta,A:MT:771,2018,1.156754
+A,Annual,MX,Mexico,A:MX:771,2018,4.899354
+A,Annual,MY,Malaysia,A:MY:771,2018,0.969114
+A,Annual,NL,Netherlands,A:NL:771,2018,1.703514
+A,Annual,NO,Norway,A:NO:771,2018,2.764831
+A,Annual,NZ,New Zealand,A:NZ:771,2018,1.598297
+A,Annual,PE,Peru,A:PE:771,2018,1.316710548
+A,Annual,PH,Philippines,A:PH:771,2018,5.236383
+A,Annual,PL,Poland,A:PL:771,2018,1.797949
+A,Annual,PT,Portugal,A:PT:771,2018,0.993716
+A,Annual,RO,Romania,A:RO:771,2018,4.613974
+A,Annual,RS,Serbia,A:RS:771,2018,1.975738387
+A,Annual,RU,Russia,A:RU:771,2018,2.866713
+A,Annual,SA,Saudi Arabia,A:SA:771,2018,2.458142
+A,Annual,SE,Sweden,A:SE:771,2018,1.953535
+A,Annual,SG,Singapore,A:SG:771,2018,0.43862
+A,Annual,SI,Slovenia,A:SI:771,2018,1.741882
+A,Annual,SK,Slovak Republic,A:SK:771,2018,2.486122
+A,Annual,TH,Thailand,A:TH:771,2018,1.06531
+A,Annual,TR,Turkey,A:TR:771,2018,16.3324639
+A,Annual,US,United States,A:US:771,2018,2.442583
+A,Annual,XM,Euro area,A:XM:771,2018,1.754673
+A,Annual,ZA,South Africa,A:ZA:771,2018,4.612137
+A,Annual,AE,United Arab Emirates,A:AE:771,2019,-1.932473
+A,Annual,AR,Argentina,A:AR:771,2019,52.80423026
+A,Annual,AT,Austria,A:AT:771,2019,1.527766
+A,Annual,AU,Australia,A:AU:771,2019,1.610768
+A,Annual,BE,Belgium,A:BE:771,2019,1.43682
+A,Annual,BG,Bulgaria,A:BG:771,2019,3.103834
+A,Annual,BR,Brazil,A:BR:771,2019,3.733040262
+A,Annual,CA,Canada,A:CA:771,2019,1.949269
+A,Annual,CH,Switzerland,A:CH:771,2019,0.362903
+A,Annual,CL,Chile,A:CL:771,2019,2.254148
+A,Annual,CN,China,A:CN:771,2019,3.036599
+A,Annual,CY,Cyprus,A:CY:771,2019,0.250371
+A,Annual,CZ,Czechia,A:CZ:771,2019,2.847865
+A,Annual,DE,Germany,A:DE:771,2019,1.445667
+A,Annual,DK,Denmark,A:DK:771,2019,0.758132
+A,Annual,DZ,Algeria,A:DZ:771,2019,1.951775
+A,Annual,EE,Estonia,A:EE:771,2019,2.287702
+A,Annual,ES,Spain,A:ES:771,2019,0.699519
+A,Annual,FI,Finland,A:FI:771,2019,1.02654
+A,Annual,FR,France,A:FR:771,2019,1.108255
+A,Annual,GB,United Kingdom,A:GB:771,2019,1.778127
+A,Annual,GR,Greece,A:GR:771,2019,0.251627
+A,Annual,HK,Hong Kong SAR,A:HK:771,2019,2.883209
+A,Annual,HR,Croatia,A:HR:771,2019,0.77182
+A,Annual,HU,Hungary,A:HU:771,2019,3.346604
+A,Annual,ID,Indonesia,A:ID:771,2019,3.030587
+A,Annual,IE,Ireland,A:IE:771,2019,0.939044
+A,Annual,IL,Israel,A:IL:771,2019,0.841949
+A,Annual,IN,India,A:IN:771,2019,3.723276
+A,Annual,IS,Iceland,A:IS:771,2019,3.017589
+A,Annual,IT,Italy,A:IT:771,2019,0.611247
+A,Annual,JP,Japan,A:JP:771,2019,0.468776
+A,Annual,KR,Korea,A:KR:771,2019,0.383
+A,Annual,LT,Lithuania,A:LT:771,2019,2.334509
+A,Annual,LU,Luxembourg,A:LU:771,2019,1.743321
+A,Annual,LV,Latvia,A:LV:771,2019,2.81574
+A,Annual,MK,North Macedonia,A:MK:771,2019,0.784953
+A,Annual,MT,Malta,A:MT:771,2019,1.642685
+A,Annual,MX,Mexico,A:MX:771,2019,3.635955
+A,Annual,MY,Malaysia,A:MY:771,2019,0.662892
+A,Annual,NL,Netherlands,A:NL:771,2019,2.633684
+A,Annual,NO,Norway,A:NO:771,2019,2.16773
+A,Annual,NZ,New Zealand,A:NZ:771,2019,1.619632
+A,Annual,PE,Peru,A:PE:771,2019,2.136005236
+A,Annual,PH,Philippines,A:PH:771,2019,2.392065
+A,Annual,PL,Poland,A:PL:771,2019,2.186262
+A,Annual,PT,Portugal,A:PT:771,2019,0.338178
+A,Annual,RO,Romania,A:RO:771,2019,3.830137
+A,Annual,RS,Serbia,A:RS:771,2019,1.867559779
+A,Annual,RU,Russia,A:RU:771,2019,4.462491
+A,Annual,SA,Saudi Arabia,A:SA:771,2019,-2.093333
+A,Annual,SE,Sweden,A:SE:771,2019,1.784151
+A,Annual,SG,Singapore,A:SG:771,2019,0.565261
+A,Annual,SI,Slovenia,A:SI:771,2019,1.626417
+A,Annual,SK,Slovak Republic,A:SK:771,2019,2.677458
+A,Annual,TH,Thailand,A:TH:771,2019,0.705797
+A,Annual,TR,Turkey,A:TR:771,2019,15.17682157
+A,Annual,US,United States,A:US:771,2019,1.81221
+A,Annual,XM,Euro area,A:XM:771,2019,1.195745
+A,Annual,ZA,South Africa,A:ZA:771,2019,4.12065
+A,Annual,AE,United Arab Emirates,A:AE:771,2020,-2.079113
+A,Annual,AR,Argentina,A:AR:771,2020,40.48238577
+A,Annual,AT,Austria,A:AT:771,2020,1.4456
+A,Annual,AU,Australia,A:AU:771,2020,0.846906
+A,Annual,BE,Belgium,A:BE:771,2020,0.740792
+A,Annual,BG,Bulgaria,A:BG:771,2020,1.67239
+A,Annual,BR,Brazil,A:BR:771,2020,3.211590927
+A,Annual,CA,Canada,A:CA:771,2020,0.717
+A,Annual,CH,Switzerland,A:CH:771,2020,-0.725891
+A,Annual,CL,Chile,A:CL:771,2020,3.045491
+A,Annual,CN,China,A:CN:771,2020,2.557878
+A,Annual,CY,Cyprus,A:CY:771,2020,-0.638423
+A,Annual,CZ,Czechia,A:CZ:771,2020,3.161293
+A,Annual,DE,Germany,A:DE:771,2020,0.50669
+A,Annual,DK,Denmark,A:DK:771,2020,0.420712
+A,Annual,DZ,Algeria,A:DZ:771,2020,2.415131
+A,Annual,EE,Estonia,A:EE:771,2020,-0.448399
+A,Annual,ES,Spain,A:ES:771,2020,-0.322753
+A,Annual,FI,Finland,A:FI:771,2020,0.279248
+A,Annual,FR,France,A:FR:771,2020,0.476499
+A,Annual,GB,United Kingdom,A:GB:771,2020,0.881262
+A,Annual,GR,Greece,A:GR:771,2020,-1.247572
+A,Annual,HK,Hong Kong SAR,A:HK:771,2020,0.250962
+A,Annual,HR,Croatia,A:HR:771,2020,0.154811
+A,Annual,HU,Hungary,A:HU:771,2020,3.326241
+A,Annual,ID,Indonesia,A:ID:771,2020,2.018666
+A,Annual,IE,Ireland,A:IE:771,2020,-0.334585
+A,Annual,IL,Israel,A:IL:771,2020,-0.586781
+A,Annual,IN,India,A:IN:771,2020,6.623437
+A,Annual,IS,Iceland,A:IS:771,2020,2.843829
+A,Annual,IT,Italy,A:IT:771,2020,-0.137708
+A,Annual,JP,Japan,A:JP:771,2020,-0.024996
+A,Annual,KR,Korea,A:KR:771,2020,0.537288
+A,Annual,LT,Lithuania,A:LT:771,2020,1.199894
+A,Annual,LU,Luxembourg,A:LU:771,2020,0.819957
+A,Annual,LV,Latvia,A:LV:771,2020,0.219428
+A,Annual,MK,North Macedonia,A:MK:771,2020,1.190301
+A,Annual,MT,Malta,A:MT:771,2020,0.638013
+A,Annual,MX,Mexico,A:MX:771,2020,3.396834
+A,Annual,MY,Malaysia,A:MY:771,2020,-1.138702
+A,Annual,NL,Netherlands,A:NL:771,2020,1.272475
+A,Annual,NO,Norway,A:NO:771,2020,1.286585
+A,Annual,NZ,New Zealand,A:NZ:771,2020,1.714562
+A,Annual,PE,Peru,A:PE:771,2020,1.827143718
+A,Annual,PH,Philippines,A:PH:771,2020,2.393162
+A,Annual,PL,Poland,A:PL:771,2020,3.368057
+A,Annual,PT,Portugal,A:PT:771,2020,-0.012438
+A,Annual,RO,Romania,A:RO:771,2020,2.632508
+A,Annual,RS,Serbia,A:RS:771,2020,1.551692928
+A,Annual,RU,Russia,A:RU:771,2020,3.384014
+A,Annual,SA,Saudi Arabia,A:SA:771,2020,3.445458
+A,Annual,SE,Sweden,A:SE:771,2020,0.497367
+A,Annual,SG,Singapore,A:SG:771,2020,-0.181917
+A,Annual,SI,Slovenia,A:SI:771,2020,-0.054857
+A,Annual,SK,Slovak Republic,A:SK:771,2020,1.93276
+A,Annual,TH,Thailand,A:TH:771,2020,-0.846688
+A,Annual,TR,Turkey,A:TR:771,2020,12.27895745
+A,Annual,US,United States,A:US:771,2020,1.233584
+A,Annual,XM,Euro area,A:XM:771,2020,0.252067
+A,Annual,ZA,South Africa,A:ZA:771,2020,3.274892
+A,Annual,AE,United Arab Emirates,A:AE:771,2021,0.179978
+A,Annual,AR,Argentina,A:AR:771,2021,47.1012562
+A,Annual,AT,Austria,A:AT:771,2021,2.766667
+A,Annual,AU,Australia,A:AU:771,2021,2.86391
+A,Annual,BE,Belgium,A:BE:771,2021,2.440249
+A,Annual,BG,Bulgaria,A:BG:771,2021,3.297457
+A,Annual,BR,Brazil,A:BR:771,2021,8.301573685
+A,Annual,CA,Canada,A:CA:771,2021,3.395193
+A,Annual,CH,Switzerland,A:CH:771,2021,0.581831
+A,Annual,CL,Chile,A:CL:771,2021,4.524568
+A,Annual,CN,China,A:CN:771,2021,0.848892
+A,Annual,CY,Cyprus,A:CY:771,2021,2.446089
+A,Annual,CZ,Czechia,A:CZ:771,2021,3.839836
+A,Annual,DE,Germany,A:DE:771,2021,3.14297
+A,Annual,DK,Denmark,A:DK:771,2021,1.853045
+A,Annual,DZ,Algeria,A:DZ:771,2021,7.226061
+A,Annual,EE,Estonia,A:EE:771,2021,4.650279
+A,Annual,ES,Spain,A:ES:771,2021,3.093135
+A,Annual,FI,Finland,A:FI:771,2021,2.21328
+A,Annual,FR,France,A:FR:771,2021,1.642331
+A,Annual,GB,United Kingdom,A:GB:771,2021,2.582375
+A,Annual,GR,Greece,A:GR:771,2021,1.223333
+A,Annual,HK,Hong Kong SAR,A:HK:771,2021,1.568758
+A,Annual,HR,Croatia,A:HR:771,2021,2.554507
+A,Annual,HU,Hungary,A:HU:771,2021,5.109535
+A,Annual,ID,Indonesia,A:ID:771,2021,1.56008
+A,Annual,IE,Ireland,A:IE:771,2021,2.358143
+A,Annual,IL,Israel,A:IL:771,2021,1.492035
+A,Annual,IN,India,A:IN:771,2021,5.136838
+A,Annual,IS,Iceland,A:IS:771,2021,4.444368
+A,Annual,IT,Italy,A:IT:771,2021,1.873783
+A,Annual,JP,Japan,A:JP:771,2021,-0.233353
+A,Annual,KR,Korea,A:KR:771,2021,2.498333
+A,Annual,LT,Lithuania,A:LT:771,2021,4.683544
+A,Annual,LU,Luxembourg,A:LU:771,2021,2.52692
+A,Annual,LV,Latvia,A:LV:771,2021,3.275789
+A,Annual,MK,North Macedonia,A:MK:771,2021,3.223933
+A,Annual,MT,Malta,A:MT:771,2021,1.497004
+A,Annual,MX,Mexico,A:MX:771,2021,5.689208
+A,Annual,MY,Malaysia,A:MY:771,2021,2.477102
+A,Annual,NL,Netherlands,A:NL:771,2021,2.675709
+A,Annual,NO,Norway,A:NO:771,2021,3.483881
+A,Annual,NZ,New Zealand,A:NZ:771,2021,3.941121
+A,Annual,PE,Peru,A:PE:771,2021,3.979014595
+A,Annual,PH,Philippines,A:PH:771,2021,3.92718
+A,Annual,PL,Poland,A:PL:771,2021,5.151844
+A,Annual,PT,Portugal,A:PT:771,2021,1.265657
+A,Annual,RO,Romania,A:RO:771,2021,5.051439
+A,Annual,RS,Serbia,A:RS:771,2021,4.077800301
+A,Annual,RU,Russia,A:RU:771,2021,6.691906
+A,Annual,SA,Saudi Arabia,A:SA:771,2021,3.06329
+A,Annual,SE,Sweden,A:SE:771,2021,2.163197
+A,Annual,SG,Singapore,A:SG:771,2021,2.30486
+A,Annual,SI,Slovenia,A:SI:771,2021,1.917065
+A,Annual,SK,Slovak Republic,A:SK:771,2021,3.155433
+A,Annual,TH,Thailand,A:TH:771,2021,1.231289
+A,Annual,TR,Turkey,A:TR:771,2021,19.59649269
+A,Annual,US,United States,A:US:771,2021,4.697859
+A,Annual,XM,Euro area,A:XM:771,2021,2.588101
+A,Annual,ZA,South Africa,A:ZA:771,2021,4.555611
+A,Annual,AE,United Arab Emirates,A:AE:771,2022,
+A,Annual,AR,Argentina,A:AR:771,2022,73.1252849
+A,Annual,AT,Austria,A:AT:771,2022,8.54687
+A,Annual,AU,Australia,A:AU:771,2022,
+A,Annual,BE,Belgium,A:BE:771,2022,9.597512
+A,Annual,BG,Bulgaria,A:BG:771,2022,15.333124
+A,Annual,BR,Brazil,A:BR:771,2022,9.279936383
+A,Annual,CA,Canada,A:CA:771,2022,6.802801
+A,Annual,CH,Switzerland,A:CH:771,2022,2.835028
+A,Annual,CL,Chile,A:CL:771,2022,11.643867
+A,Annual,CN,China,A:CN:771,2022,
+A,Annual,CY,Cyprus,A:CY:771,2022,
+A,Annual,CZ,Czechia,A:CZ:771,2022,15.100165
+A,Annual,DE,Germany,A:DE:771,2022,7.904384
+A,Annual,DK,Denmark,A:DK:771,2022,
+A,Annual,DZ,Algeria,A:DZ:771,2022,9.265508
+A,Annual,EE,Estonia,A:EE:771,2022,19.401851
+A,Annual,ES,Spain,A:ES:771,2022,8.390576
+A,Annual,FI,Finland,A:FI:771,2022,7.11811
+A,Annual,FR,France,A:FR:771,2022,5.222367
+A,Annual,GB,United Kingdom,A:GB:771,2022,9.053559
+A,Annual,GR,Greece,A:GR:771,2022,
+A,Annual,HK,Hong Kong SAR,A:HK:771,2022,1.881367
+A,Annual,HR,Croatia,A:HR:771,2022,10.780581
+A,Annual,HU,Hungary,A:HU:771,2022,14.615821
+A,Annual,ID,Indonesia,A:ID:771,2022,4.209456
+A,Annual,IE,Ireland,A:IE:771,2022,7.807375
+A,Annual,IL,Israel,A:IL:771,2022,
+A,Annual,IN,India,A:IN:771,2022,6.693523
+A,Annual,IS,Iceland,A:IS:771,2022,8.311809
+A,Annual,IT,Italy,A:IT:771,2022,8.20129
+A,Annual,JP,Japan,A:JP:771,2022,2.497703
+A,Annual,KR,Korea,A:KR:771,2022,5.087888
+A,Annual,LT,Lithuania,A:LT:771,2022,19.705046
+A,Annual,LU,Luxembourg,A:LU:771,2022,6.336008
+A,Annual,LV,Latvia,A:LV:771,2022,17.310828
+A,Annual,MK,North Macedonia,A:MK:771,2022,14.209342
+A,Annual,MT,Malta,A:MT:771,2022,
+A,Annual,MX,Mexico,A:MX:771,2022,7.896276
+A,Annual,MY,Malaysia,A:MY:771,2022,3.378699
+A,Annual,NL,Netherlands,A:NL:771,2022,10.001199
+A,Annual,NO,Norway,A:NO:771,2022,5.764123
+A,Annual,NZ,New Zealand,A:NZ:771,2022,7.172225
+A,Annual,PE,Peru,A:PE:771,2022,7.877236012
+A,Annual,PH,Philippines,A:PH:771,2022,5.821158
+A,Annual,PL,Poland,A:PL:771,2022,14.423242
+A,Annual,PT,Portugal,A:PT:771,2022,7.832691
+A,Annual,RO,Romania,A:RO:771,2022,13.797069
+A,Annual,RS,Serbia,A:RS:771,2022,
+A,Annual,RU,Russia,A:RU:771,2022,
+A,Annual,SA,Saudi Arabia,A:SA:771,2022,2.474074
+A,Annual,SE,Sweden,A:SE:771,2022,8.369291
+A,Annual,SG,Singapore,A:SG:771,2022,
+A,Annual,SI,Slovenia,A:SI:771,2022,8.833699
+A,Annual,SK,Slovak Republic,A:SK:771,2022,12.768745
+A,Annual,TH,Thailand,A:TH:771,2022,6.077412
+A,Annual,TR,Turkey,A:TR:771,2022,72.30883599
+A,Annual,US,United States,A:US:771,2022,8.0028
+A,Annual,XM,Euro area,A:XM:771,2022,8.384104
+A,Annual,ZA,South Africa,A:ZA:771,2022,6.868872

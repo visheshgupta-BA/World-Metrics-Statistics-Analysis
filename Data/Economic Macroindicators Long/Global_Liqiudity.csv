@@ -1,0 +1,162 @@
+Frequency,CURR_DENOM,Currency of denomination,BORROWERS_CTY,Borrowers' country,Borrowers' sector,Lending sector,Type of instruments,UNIT_MEASURE,Unit of measure,Series,Quarterly_per_year,Global_Rate
+Quarterly,USD,US dollar,3P,All countries excluding residents,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:3P:N:A:I:B:USD,2017-Q1,10679149.068
+Quarterly,USD,US dollar,4T,Emerging market and developing economies,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:4T:N:A:I:B:USD,2017-Q1,4230056.719
+Quarterly,USD,US dollar,BR,Brazil,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:BR:N:A:I:B:USD,2017-Q1,190566.484
+Quarterly,USD,US dollar,CN,China,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:CN:N:A:I:B:USD,2017-Q1,503162.333
+Quarterly,USD,US dollar,IN,India,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:IN:N:A:I:B:USD,2017-Q1,103195.537
+Quarterly,USD,US dollar,RU,Russia,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:RU:N:A:I:B:USD,2017-Q1,233644.996
+Quarterly,USD,US dollar,ZA,South Africa,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:ZA:N:A:I:B:USD,2017-Q1,31940.873
+Quarterly,USD,US dollar,3P,All countries excluding residents,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:3P:N:A:I:B:USD,2017-Q2,10791794.859
+Quarterly,USD,US dollar,4T,Emerging market and developing economies,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:4T:N:A:I:B:USD,2017-Q2,4280822.618
+Quarterly,USD,US dollar,BR,Brazil,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:BR:N:A:I:B:USD,2017-Q2,182597.962
+Quarterly,USD,US dollar,CN,China,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:CN:N:A:I:B:USD,2017-Q2,511778.986
+Quarterly,USD,US dollar,IN,India,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:IN:N:A:I:B:USD,2017-Q2,98378.602
+Quarterly,USD,US dollar,RU,Russia,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:RU:N:A:I:B:USD,2017-Q2,233896.218
+Quarterly,USD,US dollar,ZA,South Africa,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:ZA:N:A:I:B:USD,2017-Q2,33369.91
+Quarterly,USD,US dollar,3P,All countries excluding residents,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:3P:N:A:I:B:USD,2017-Q3,11014463.417
+Quarterly,USD,US dollar,4T,Emerging market and developing economies,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:4T:N:A:I:B:USD,2017-Q3,4387198.339
+Quarterly,USD,US dollar,BR,Brazil,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:BR:N:A:I:B:USD,2017-Q3,181696.888
+Quarterly,USD,US dollar,CN,China,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:CN:N:A:I:B:USD,2017-Q3,508751.544
+Quarterly,USD,US dollar,IN,India,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:IN:N:A:I:B:USD,2017-Q3,103151.719
+Quarterly,USD,US dollar,RU,Russia,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:RU:N:A:I:B:USD,2017-Q3,226637.418
+Quarterly,USD,US dollar,ZA,South Africa,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:ZA:N:A:I:B:USD,2017-Q3,37022.491
+Quarterly,USD,US dollar,3P,All countries excluding residents,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:3P:N:A:I:B:USD,2017-Q4,11114649.647
+Quarterly,USD,US dollar,4T,Emerging market and developing economies,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:4T:N:A:I:B:USD,2017-Q4,4471313.536
+Quarterly,USD,US dollar,BR,Brazil,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:BR:N:A:I:B:USD,2017-Q4,182885.673
+Quarterly,USD,US dollar,CN,China,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:CN:N:A:I:B:USD,2017-Q4,505823.074
+Quarterly,USD,US dollar,IN,India,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:IN:N:A:I:B:USD,2017-Q4,105441.541
+Quarterly,USD,US dollar,RU,Russia,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:RU:N:A:I:B:USD,2017-Q4,214940.852
+Quarterly,USD,US dollar,ZA,South Africa,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:ZA:N:A:I:B:USD,2017-Q4,36745.376
+Quarterly,USD,US dollar,3P,All countries excluding residents,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:3P:N:A:I:B:USD,2018-Q1,11347255.815
+Quarterly,USD,US dollar,4T,Emerging market and developing economies,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:4T:N:A:I:B:USD,2018-Q1,4581367.936
+Quarterly,USD,US dollar,BR,Brazil,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:BR:N:A:I:B:USD,2018-Q1,185177.578
+Quarterly,USD,US dollar,CN,China,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:CN:N:A:I:B:USD,2018-Q1,523101.843
+Quarterly,USD,US dollar,IN,India,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:IN:N:A:I:B:USD,2018-Q1,105108.954
+Quarterly,USD,US dollar,RU,Russia,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:RU:N:A:I:B:USD,2018-Q1,200966.922
+Quarterly,USD,US dollar,ZA,South Africa,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:ZA:N:A:I:B:USD,2018-Q1,36971.583
+Quarterly,USD,US dollar,3P,All countries excluding residents,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:3P:N:A:I:B:USD,2018-Q2,11436176.997
+Quarterly,USD,US dollar,4T,Emerging market and developing economies,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:4T:N:A:I:B:USD,2018-Q2,4608121.247
+Quarterly,USD,US dollar,BR,Brazil,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:BR:N:A:I:B:USD,2018-Q2,182712.18
+Quarterly,USD,US dollar,CN,China,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:CN:N:A:I:B:USD,2018-Q2,510430.499
+Quarterly,USD,US dollar,IN,India,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:IN:N:A:I:B:USD,2018-Q2,102469.571
+Quarterly,USD,US dollar,RU,Russia,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:RU:N:A:I:B:USD,2018-Q2,188139.944
+Quarterly,USD,US dollar,ZA,South Africa,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:ZA:N:A:I:B:USD,2018-Q2,39808.645
+Quarterly,USD,US dollar,3P,All countries excluding residents,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:3P:N:A:I:B:USD,2018-Q3,11448084.482
+Quarterly,USD,US dollar,4T,Emerging market and developing economies,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:4T:N:A:I:B:USD,2018-Q3,4568952.425
+Quarterly,USD,US dollar,BR,Brazil,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:BR:N:A:I:B:USD,2018-Q3,180738.961
+Quarterly,USD,US dollar,CN,China,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:CN:N:A:I:B:USD,2018-Q3,486898.145
+Quarterly,USD,US dollar,IN,India,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:IN:N:A:I:B:USD,2018-Q3,104388.286
+Quarterly,USD,US dollar,RU,Russia,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:RU:N:A:I:B:USD,2018-Q3,180945.208
+Quarterly,USD,US dollar,ZA,South Africa,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:ZA:N:A:I:B:USD,2018-Q3,43532.172
+Quarterly,USD,US dollar,3P,All countries excluding residents,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:3P:N:A:I:B:USD,2018-Q4,11562313.634
+Quarterly,USD,US dollar,4T,Emerging market and developing economies,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:4T:N:A:I:B:USD,2018-Q4,4575598.511
+Quarterly,USD,US dollar,BR,Brazil,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:BR:N:A:I:B:USD,2018-Q4,178265.475
+Quarterly,USD,US dollar,CN,China,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:CN:N:A:I:B:USD,2018-Q4,469653.653
+Quarterly,USD,US dollar,IN,India,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:IN:N:A:I:B:USD,2018-Q4,105357.249
+Quarterly,USD,US dollar,RU,Russia,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:RU:N:A:I:B:USD,2018-Q4,165251.769
+Quarterly,USD,US dollar,ZA,South Africa,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:ZA:N:A:I:B:USD,2018-Q4,43274.315
+Quarterly,USD,US dollar,3P,All countries excluding residents,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:3P:N:A:I:B:USD,2019-Q1,11725154.147
+Quarterly,USD,US dollar,4T,Emerging market and developing economies,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:4T:N:A:I:B:USD,2019-Q1,4624838.235
+Quarterly,USD,US dollar,BR,Brazil,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:BR:N:A:I:B:USD,2019-Q1,179252.915
+Quarterly,USD,US dollar,CN,China,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:CN:N:A:I:B:USD,2019-Q1,477659.777
+Quarterly,USD,US dollar,IN,India,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:IN:N:A:I:B:USD,2019-Q1,110810.354
+Quarterly,USD,US dollar,RU,Russia,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:RU:N:A:I:B:USD,2019-Q1,160480.582
+Quarterly,USD,US dollar,ZA,South Africa,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:ZA:N:A:I:B:USD,2019-Q1,44185.914
+Quarterly,USD,US dollar,3P,All countries excluding residents,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:3P:N:A:I:B:USD,2019-Q2,11818262.667
+Quarterly,USD,US dollar,4T,Emerging market and developing economies,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:4T:N:A:I:B:USD,2019-Q2,4656161.023
+Quarterly,USD,US dollar,BR,Brazil,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:BR:N:A:I:B:USD,2019-Q2,180166.653
+Quarterly,USD,US dollar,CN,China,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:CN:N:A:I:B:USD,2019-Q2,481114.548
+Quarterly,USD,US dollar,IN,India,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:IN:N:A:I:B:USD,2019-Q2,115302.394
+Quarterly,USD,US dollar,RU,Russia,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:RU:N:A:I:B:USD,2019-Q2,155868.276
+Quarterly,USD,US dollar,ZA,South Africa,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:ZA:N:A:I:B:USD,2019-Q2,41848.645
+Quarterly,USD,US dollar,3P,All countries excluding residents,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:3P:N:A:I:B:USD,2019-Q3,11999368.946
+Quarterly,USD,US dollar,4T,Emerging market and developing economies,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:4T:N:A:I:B:USD,2019-Q3,4720414.561
+Quarterly,USD,US dollar,BR,Brazil,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:BR:N:A:I:B:USD,2019-Q3,179477.714
+Quarterly,USD,US dollar,CN,China,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:CN:N:A:I:B:USD,2019-Q3,474482.092
+Quarterly,USD,US dollar,IN,India,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:IN:N:A:I:B:USD,2019-Q3,121868.166
+Quarterly,USD,US dollar,RU,Russia,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:RU:N:A:I:B:USD,2019-Q3,156551.191
+Quarterly,USD,US dollar,ZA,South Africa,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:ZA:N:A:I:B:USD,2019-Q3,47465.841
+Quarterly,USD,US dollar,3P,All countries excluding residents,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:3P:N:A:I:B:USD,2019-Q4,12110381.067
+Quarterly,USD,US dollar,4T,Emerging market and developing economies,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:4T:N:A:I:B:USD,2019-Q4,4794926.322
+Quarterly,USD,US dollar,BR,Brazil,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:BR:N:A:I:B:USD,2019-Q4,175599.599
+Quarterly,USD,US dollar,CN,China,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:CN:N:A:I:B:USD,2019-Q4,483851.173
+Quarterly,USD,US dollar,IN,India,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:IN:N:A:I:B:USD,2019-Q4,128176.577
+Quarterly,USD,US dollar,RU,Russia,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:RU:N:A:I:B:USD,2019-Q4,154002.058
+Quarterly,USD,US dollar,ZA,South Africa,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:ZA:N:A:I:B:USD,2019-Q4,46381.195
+Quarterly,USD,US dollar,3P,All countries excluding residents,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:3P:N:A:I:B:USD,2020-Q1,12568753.629
+Quarterly,USD,US dollar,4T,Emerging market and developing economies,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:4T:N:A:I:B:USD,2020-Q1,4956090.449
+Quarterly,USD,US dollar,BR,Brazil,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:BR:N:A:I:B:USD,2020-Q1,185019.286
+Quarterly,USD,US dollar,CN,China,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:CN:N:A:I:B:USD,2020-Q1,506160.662
+Quarterly,USD,US dollar,IN,India,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:IN:N:A:I:B:USD,2020-Q1,136406.113
+Quarterly,USD,US dollar,RU,Russia,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:RU:N:A:I:B:USD,2020-Q1,155635.283
+Quarterly,USD,US dollar,ZA,South Africa,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:ZA:N:A:I:B:USD,2020-Q1,44569.552
+Quarterly,USD,US dollar,3P,All countries excluding residents,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:3P:N:A:I:B:USD,2020-Q2,12579508.038
+Quarterly,USD,US dollar,4T,Emerging market and developing economies,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:4T:N:A:I:B:USD,2020-Q2,5038453.065
+Quarterly,USD,US dollar,BR,Brazil,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:BR:N:A:I:B:USD,2020-Q2,184173.674
+Quarterly,USD,US dollar,CN,China,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:CN:N:A:I:B:USD,2020-Q2,530078.713
+Quarterly,USD,US dollar,IN,India,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:IN:N:A:I:B:USD,2020-Q2,131905.654
+Quarterly,USD,US dollar,RU,Russia,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:RU:N:A:I:B:USD,2020-Q2,147495.714
+Quarterly,USD,US dollar,ZA,South Africa,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:ZA:N:A:I:B:USD,2020-Q2,44562.279
+Quarterly,USD,US dollar,3P,All countries excluding residents,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:3P:N:A:I:B:USD,2020-Q3,12626699.846
+Quarterly,USD,US dollar,4T,Emerging market and developing economies,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:4T:N:A:I:B:USD,2020-Q3,5027576.842
+Quarterly,USD,US dollar,BR,Brazil,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:BR:N:A:I:B:USD,2020-Q3,174406.574
+Quarterly,USD,US dollar,CN,China,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:CN:N:A:I:B:USD,2020-Q3,527187.213
+Quarterly,USD,US dollar,IN,India,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:IN:N:A:I:B:USD,2020-Q3,124648.29
+Quarterly,USD,US dollar,RU,Russia,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:RU:N:A:I:B:USD,2020-Q3,147331.264
+Quarterly,USD,US dollar,ZA,South Africa,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:ZA:N:A:I:B:USD,2020-Q3,44168.253
+Quarterly,USD,US dollar,3P,All countries excluding residents,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:3P:N:A:I:B:USD,2020-Q4,12721906.359
+Quarterly,USD,US dollar,4T,Emerging market and developing economies,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:4T:N:A:I:B:USD,2020-Q4,5034697.135
+Quarterly,USD,US dollar,BR,Brazil,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:BR:N:A:I:B:USD,2020-Q4,169143.598
+Quarterly,USD,US dollar,CN,China,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:CN:N:A:I:B:USD,2020-Q4,501033.97
+Quarterly,USD,US dollar,IN,India,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:IN:N:A:I:B:USD,2020-Q4,122123.924
+Quarterly,USD,US dollar,RU,Russia,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:RU:N:A:I:B:USD,2020-Q4,142540.538
+Quarterly,USD,US dollar,ZA,South Africa,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:ZA:N:A:I:B:USD,2020-Q4,43680.178
+Quarterly,USD,US dollar,3P,All countries excluding residents,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:3P:N:A:I:B:USD,2021-Q1,13039892.591
+Quarterly,USD,US dollar,4T,Emerging market and developing economies,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:4T:N:A:I:B:USD,2021-Q1,5211043.995
+Quarterly,USD,US dollar,BR,Brazil,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:BR:N:A:I:B:USD,2021-Q1,168403.47
+Quarterly,USD,US dollar,CN,China,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:CN:N:A:I:B:USD,2021-Q1,545273.633
+Quarterly,USD,US dollar,IN,India,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:IN:N:A:I:B:USD,2021-Q1,127560.947
+Quarterly,USD,US dollar,RU,Russia,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:RU:N:A:I:B:USD,2021-Q1,140222.353
+Quarterly,USD,US dollar,ZA,South Africa,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:ZA:N:A:I:B:USD,2021-Q1,40723.608
+Quarterly,USD,US dollar,3P,All countries excluding residents,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:3P:N:A:I:B:USD,2021-Q2,13197669.312
+Quarterly,USD,US dollar,4T,Emerging market and developing economies,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:4T:N:A:I:B:USD,2021-Q2,5286374.068
+Quarterly,USD,US dollar,BR,Brazil,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:BR:N:A:I:B:USD,2021-Q2,172592.732
+Quarterly,USD,US dollar,CN,China,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:CN:N:A:I:B:USD,2021-Q2,555144.495
+Quarterly,USD,US dollar,IN,India,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:IN:N:A:I:B:USD,2021-Q2,128708.981
+Quarterly,USD,US dollar,RU,Russia,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:RU:N:A:I:B:USD,2021-Q2,138861.55
+Quarterly,USD,US dollar,ZA,South Africa,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:ZA:N:A:I:B:USD,2021-Q2,40536.519
+Quarterly,USD,US dollar,3P,All countries excluding residents,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:3P:N:A:I:B:USD,2021-Q3,13414474.981
+Quarterly,USD,US dollar,4T,Emerging market and developing economies,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:4T:N:A:I:B:USD,2021-Q3,5387832.067
+Quarterly,USD,US dollar,BR,Brazil,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:BR:N:A:I:B:USD,2021-Q3,176856.115
+Quarterly,USD,US dollar,CN,China,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:CN:N:A:I:B:USD,2021-Q3,556985.593
+Quarterly,USD,US dollar,IN,India,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:IN:N:A:I:B:USD,2021-Q3,132494.13
+Quarterly,USD,US dollar,RU,Russia,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:RU:N:A:I:B:USD,2021-Q3,143608.066
+Quarterly,USD,US dollar,ZA,South Africa,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:ZA:N:A:I:B:USD,2021-Q3,39459.199
+Quarterly,USD,US dollar,3P,All countries excluding residents,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:3P:N:A:I:B:USD,2021-Q4,13421637.58
+Quarterly,USD,US dollar,4T,Emerging market and developing economies,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:4T:N:A:I:B:USD,2021-Q4,5398968.749
+Quarterly,USD,US dollar,BR,Brazil,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:BR:N:A:I:B:USD,2021-Q4,176396.957
+Quarterly,USD,US dollar,CN,China,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:CN:N:A:I:B:USD,2021-Q4,544828.818
+Quarterly,USD,US dollar,IN,India,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:IN:N:A:I:B:USD,2021-Q4,131789.861
+Quarterly,USD,US dollar,RU,Russia,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:RU:N:A:I:B:USD,2021-Q4,143588.314
+Quarterly,USD,US dollar,ZA,South Africa,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:ZA:N:A:I:B:USD,2021-Q4,39346.798
+Quarterly,USD,US dollar,3P,All countries excluding residents,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:3P:N:A:I:B:USD,2022-Q1,13382372.263
+Quarterly,USD,US dollar,4T,Emerging market and developing economies,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:4T:N:A:I:B:USD,2022-Q1,5406226.592
+Quarterly,USD,US dollar,BR,Brazil,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:BR:N:A:I:B:USD,2022-Q1,180976.802
+Quarterly,USD,US dollar,CN,China,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:CN:N:A:I:B:USD,2022-Q1,566546.106
+Quarterly,USD,US dollar,IN,India,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:IN:N:A:I:B:USD,2022-Q1,135759.62
+Quarterly,USD,US dollar,RU,Russia,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:RU:N:A:I:B:USD,2022-Q1,76396.076
+Quarterly,USD,US dollar,ZA,South Africa,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:ZA:N:A:I:B:USD,2022-Q1,39364.601
+Quarterly,USD,US dollar,3P,All countries excluding residents,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:3P:N:A:I:B:USD,2022-Q2,13265175.558
+Quarterly,USD,US dollar,4T,Emerging market and developing economies,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:4T:N:A:I:B:USD,2022-Q2,5404710.569
+Quarterly,USD,US dollar,BR,Brazil,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:BR:N:A:I:B:USD,2022-Q2,181269.491
+Quarterly,USD,US dollar,CN,China,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:CN:N:A:I:B:USD,2022-Q2,545242.434
+Quarterly,USD,US dollar,IN,India,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:IN:N:A:I:B:USD,2022-Q2,133975.189
+Quarterly,USD,US dollar,RU,Russia,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:RU:N:A:I:B:USD,2022-Q2,72827.639
+Quarterly,USD,US dollar,ZA,South Africa,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:ZA:N:A:I:B:USD,2022-Q2,41340.619
+Quarterly,USD,US dollar,3P,All countries excluding residents,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:3P:N:A:I:B:USD,2022-Q3,13059290.636
+Quarterly,USD,US dollar,4T,Emerging market and developing economies,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:4T:N:A:I:B:USD,2022-Q3,5269433.822
+Quarterly,USD,US dollar,BR,Brazil,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:BR:N:A:I:B:USD,2022-Q3,181729.093
+Quarterly,USD,US dollar,CN,China,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:CN:N:A:I:B:USD,2022-Q3,503807.166
+Quarterly,USD,US dollar,IN,India,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:IN:N:A:I:B:USD,2022-Q3,132984.639
+Quarterly,USD,US dollar,RU,Russia,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:RU:N:A:I:B:USD,2022-Q3,72283.939
+Quarterly,USD,US dollar,ZA,South Africa,"Non-banks, total",All sectors,Credit (loans & debt securities),USD,US dollar,Q:USD:ZA:N:A:I:B:USD,2022-Q3,40535.269

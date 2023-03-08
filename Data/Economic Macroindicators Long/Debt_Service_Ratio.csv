@@ -1,0 +1,1519 @@
+Frequency,BORROWERS_CTY,Borrowers' country,Borrowers,TITLE_TS,Series,Quaterlly_per_year,Debt_Sec_Ratio
+Quarterly,AU,Australia,Households & NPISHs,Australia - Households and NPISHs,Q:AU:H,2017-Q1,15.3
+Quarterly,AU,Australia,Non-financial corporations,Australia - Non-financial corporations,Q:AU:N,2017-Q1,49.0
+Quarterly,AU,Australia,Private non-financial sector,Australia - Private non-financial sector,Q:AU:P,2017-Q1,20.8
+Quarterly,BE,Belgium,Households & NPISHs,Belgium - Households and NPISHs,Q:BE:H,2017-Q1,7.3
+Quarterly,BE,Belgium,Non-financial corporations,Belgium - Non-financial corporations,Q:BE:N,2017-Q1,53.7
+Quarterly,BE,Belgium,Private non-financial sector,Belgium - Private non-financial sector,Q:BE:P,2017-Q1,21.7
+Quarterly,BR,Brazil,Private non-financial sector,Brazil - Private non-financial sector,Q:BR:P,2017-Q1,22.8
+Quarterly,CA,Canada,Households & NPISHs,Canada - Households and NPISHs,Q:CA:H,2017-Q1,13.0
+Quarterly,CA,Canada,Non-financial corporations,Canada - Non-financial corporations,Q:CA:N,2017-Q1,55.4
+Quarterly,CA,Canada,Private non-financial sector,Canada - Private non-financial sector,Q:CA:P,2017-Q1,24.1
+Quarterly,CH,Switzerland,Private non-financial sector,Switzerland - Private non-financial sector,Q:CH:P,2017-Q1,17.7
+Quarterly,CN,China,Private non-financial sector,China - Private non-financial sector,Q:CN:P,2017-Q1,19.7
+Quarterly,CZ,Czechia,Private non-financial sector,Czechia - Private non-financial sector,Q:CZ:P,2017-Q1,7.2
+Quarterly,DE,Germany,Households & NPISHs,Germany - Households and NPISHs,Q:DE:H,2017-Q1,6.3
+Quarterly,DE,Germany,Non-financial corporations,Germany - Non-financial corporations,Q:DE:N,2017-Q1,22.9
+Quarterly,DE,Germany,Private non-financial sector,Germany - Private non-financial sector,Q:DE:P,2017-Q1,10.8
+Quarterly,DK,Denmark,Households & NPISHs,Denmark - Households and NPISHs,Q:DK:H,2017-Q1,15.4
+Quarterly,DK,Denmark,Non-financial corporations,Denmark - Non-financial corporations,Q:DK:N,2017-Q1,40.2
+Quarterly,DK,Denmark,Private non-financial sector,Denmark - Private non-financial sector,Q:DK:P,2017-Q1,24.3
+Quarterly,ES,Spain,Households & NPISHs,Spain - Households and NPISHs,Q:ES:H,2017-Q1,6.7
+Quarterly,ES,Spain,Non-financial corporations,Spain - Non-financial corporations,Q:ES:N,2017-Q1,36.4
+Quarterly,ES,Spain,Private non-financial sector,Spain - Private non-financial sector,Q:ES:P,2017-Q1,14.7
+Quarterly,FI,Finland,Households & NPISHs,Finland - Households and NPISHs,Q:FI:H,2017-Q1,6.9
+Quarterly,FI,Finland,Non-financial corporations,Finland - Non-financial corporations,Q:FI:N,2017-Q1,38.1
+Quarterly,FI,Finland,Private non-financial sector,Finland - Private non-financial sector,Q:FI:P,2017-Q1,16.6
+Quarterly,FR,France,Households & NPISHs,France - Households and NPISHs,Q:FR:H,2017-Q1,6.3
+Quarterly,FR,France,Non-financial corporations,France - Non-financial corporations,Q:FR:N,2017-Q1,54.7
+Quarterly,FR,France,Private non-financial sector,France - Private non-financial sector,Q:FR:P,2017-Q1,19.0
+Quarterly,GB,United Kingdom,Households & NPISHs,United Kingdom - Households and NPISHs,Q:GB:H,2017-Q1,9.3
+Quarterly,GB,United Kingdom,Non-financial corporations,United Kingdom - Non-financial corporations,Q:GB:N,2017-Q1,33.8
+Quarterly,GB,United Kingdom,Private non-financial sector,United Kingdom - Private non-financial sector,Q:GB:P,2017-Q1,14.6
+Quarterly,HK,Hong Kong SAR,Private non-financial sector,Hong Kong SAR - Private non-financial sector,Q:HK:P,2017-Q1,27.3
+Quarterly,HU,Hungary,Private non-financial sector,Hungary - Private non-financial sector,Q:HU:P,2017-Q1,7.9
+Quarterly,ID,Indonesia,Private non-financial sector,Indonesia - Private non-financial sector,Q:ID:P,2017-Q1,4.6
+Quarterly,IN,India,Private non-financial sector,India - Private non-financial sector,Q:IN:P,2017-Q1,11.2
+Quarterly,IT,Italy,Households & NPISHs,Italy - Households and NPISHs,Q:IT:H,2017-Q1,4.4
+Quarterly,IT,Italy,Non-financial corporations,Italy - Non-financial corporations,Q:IT:N,2017-Q1,33.0
+Quarterly,IT,Italy,Private non-financial sector,Italy - Private non-financial sector,Q:IT:P,2017-Q1,10.8
+Quarterly,JP,Japan,Households & NPISHs,Japan - Households and NPISHs,Q:JP:H,2017-Q1,7.1
+Quarterly,JP,Japan,Non-financial corporations,Japan - Non-financial corporations,Q:JP:N,2017-Q1,30.2
+Quarterly,JP,Japan,Private non-financial sector,Japan - Private non-financial sector,Q:JP:P,2017-Q1,13.9
+Quarterly,KR,Korea,Households & NPISHs,Korea - Households and NPISHs,Q:KR:H,2017-Q1,11.4
+Quarterly,KR,Korea,Non-financial corporations,Korea - Non-financial corporations,Q:KR:N,2017-Q1,34.6
+Quarterly,KR,Korea,Private non-financial sector,Korea - Private non-financial sector,Q:KR:P,2017-Q1,18.5
+Quarterly,MX,Mexico,Private non-financial sector,Mexico - Private non-financial sector,Q:MX:P,2017-Q1,4.4
+Quarterly,MY,Malaysia,Private non-financial sector,Malaysia - Private non-financial sector,Q:MY:P,2017-Q1,13.2
+Quarterly,NL,Netherlands,Households & NPISHs,Netherlands - Households and NPISHs,Q:NL:H,2017-Q1,16.6
+Quarterly,NL,Netherlands,Non-financial corporations,Netherlands - Non-financial corporations,Q:NL:N,2017-Q1,53.0
+Quarterly,NL,Netherlands,Private non-financial sector,Netherlands - Private non-financial sector,Q:NL:P,2017-Q1,29.2
+Quarterly,NO,Norway,Households & NPISHs,Norway - Households and NPISHs,Q:NO:H,2017-Q1,14.8
+Quarterly,NO,Norway,Non-financial corporations,Norway - Non-financial corporations,Q:NO:N,2017-Q1,48.8
+Quarterly,NO,Norway,Private non-financial sector,Norway - Private non-financial sector,Q:NO:P,2017-Q1,26.7
+Quarterly,PL,Poland,Private non-financial sector,Poland - Private non-financial sector,Q:PL:P,2017-Q1,7.6
+Quarterly,PT,Portugal,Households & NPISHs,Portugal - Households and NPISHs,Q:PT:H,2017-Q1,6.5
+Quarterly,PT,Portugal,Non-financial corporations,Portugal - Non-financial corporations,Q:PT:N,2017-Q1,46.1
+Quarterly,PT,Portugal,Private non-financial sector,Portugal - Private non-financial sector,Q:PT:P,2017-Q1,15.8
+Quarterly,RU,Russia,Private non-financial sector,Russia - Private non-financial sector,Q:RU:P,2017-Q1,14.1
+Quarterly,SE,Sweden,Households & NPISHs,Sweden - Households and NPISHs,Q:SE:H,2017-Q1,11.4
+Quarterly,SE,Sweden,Non-financial corporations,Sweden - Non-financial corporations,Q:SE:N,2017-Q1,44.4
+Quarterly,SE,Sweden,Private non-financial sector,Sweden - Private non-financial sector,Q:SE:P,2017-Q1,22.7
+Quarterly,TH,Thailand,Private non-financial sector,Thailand - Private non-financial sector,Q:TH:P,2017-Q1,13.3
+Quarterly,TR,Turkey,Private non-financial sector,Turkey - Private non-financial sector,Q:TR:P,2017-Q1,14.4
+Quarterly,US,United States,Households & NPISHs,United States - Households and NPISHs,Q:US:H,2017-Q1,8.1
+Quarterly,US,United States,Non-financial corporations,United States - Non-financial corporations,Q:US:N,2017-Q1,40.9
+Quarterly,US,United States,Private non-financial sector,United States - Private non-financial sector,Q:US:P,2017-Q1,14.6
+Quarterly,ZA,South Africa,Private non-financial sector,South Africa - Private non-financial sector,Q:ZA:P,2017-Q1,9.0
+Quarterly,AU,Australia,Households & NPISHs,Australia - Households and NPISHs,Q:AU:H,2017-Q2,15.4
+Quarterly,AU,Australia,Non-financial corporations,Australia - Non-financial corporations,Q:AU:N,2017-Q2,47.3
+Quarterly,AU,Australia,Private non-financial sector,Australia - Private non-financial sector,Q:AU:P,2017-Q2,20.7
+Quarterly,BE,Belgium,Households & NPISHs,Belgium - Households and NPISHs,Q:BE:H,2017-Q2,7.3
+Quarterly,BE,Belgium,Non-financial corporations,Belgium - Non-financial corporations,Q:BE:N,2017-Q2,53.4
+Quarterly,BE,Belgium,Private non-financial sector,Belgium - Private non-financial sector,Q:BE:P,2017-Q2,21.4
+Quarterly,BR,Brazil,Private non-financial sector,Brazil - Private non-financial sector,Q:BR:P,2017-Q2,20.8
+Quarterly,CA,Canada,Households & NPISHs,Canada - Households and NPISHs,Q:CA:H,2017-Q2,13.1
+Quarterly,CA,Canada,Non-financial corporations,Canada - Non-financial corporations,Q:CA:N,2017-Q2,54.3
+Quarterly,CA,Canada,Private non-financial sector,Canada - Private non-financial sector,Q:CA:P,2017-Q2,24.0
+Quarterly,CH,Switzerland,Private non-financial sector,Switzerland - Private non-financial sector,Q:CH:P,2017-Q2,18.0
+Quarterly,CN,China,Private non-financial sector,China - Private non-financial sector,Q:CN:P,2017-Q2,19.6
+Quarterly,CZ,Czechia,Private non-financial sector,Czechia - Private non-financial sector,Q:CZ:P,2017-Q2,7.2
+Quarterly,DE,Germany,Households & NPISHs,Germany - Households and NPISHs,Q:DE:H,2017-Q2,6.3
+Quarterly,DE,Germany,Non-financial corporations,Germany - Non-financial corporations,Q:DE:N,2017-Q2,23.4
+Quarterly,DE,Germany,Private non-financial sector,Germany - Private non-financial sector,Q:DE:P,2017-Q2,10.8
+Quarterly,DK,Denmark,Households & NPISHs,Denmark - Households and NPISHs,Q:DK:H,2017-Q2,15.3
+Quarterly,DK,Denmark,Non-financial corporations,Denmark - Non-financial corporations,Q:DK:N,2017-Q2,39.0
+Quarterly,DK,Denmark,Private non-financial sector,Denmark - Private non-financial sector,Q:DK:P,2017-Q2,23.9
+Quarterly,ES,Spain,Households & NPISHs,Spain - Households and NPISHs,Q:ES:H,2017-Q2,6.6
+Quarterly,ES,Spain,Non-financial corporations,Spain - Non-financial corporations,Q:ES:N,2017-Q2,36.1
+Quarterly,ES,Spain,Private non-financial sector,Spain - Private non-financial sector,Q:ES:P,2017-Q2,14.6
+Quarterly,FI,Finland,Households & NPISHs,Finland - Households and NPISHs,Q:FI:H,2017-Q2,6.9
+Quarterly,FI,Finland,Non-financial corporations,Finland - Non-financial corporations,Q:FI:N,2017-Q2,38.5
+Quarterly,FI,Finland,Private non-financial sector,Finland - Private non-financial sector,Q:FI:P,2017-Q2,16.9
+Quarterly,FR,France,Households & NPISHs,France - Households and NPISHs,Q:FR:H,2017-Q2,6.2
+Quarterly,FR,France,Non-financial corporations,France - Non-financial corporations,Q:FR:N,2017-Q2,56.2
+Quarterly,FR,France,Private non-financial sector,France - Private non-financial sector,Q:FR:P,2017-Q2,19.2
+Quarterly,GB,United Kingdom,Households & NPISHs,United Kingdom - Households and NPISHs,Q:GB:H,2017-Q2,9.4
+Quarterly,GB,United Kingdom,Non-financial corporations,United Kingdom - Non-financial corporations,Q:GB:N,2017-Q2,32.8
+Quarterly,GB,United Kingdom,Private non-financial sector,United Kingdom - Private non-financial sector,Q:GB:P,2017-Q2,14.5
+Quarterly,HK,Hong Kong SAR,Private non-financial sector,Hong Kong SAR - Private non-financial sector,Q:HK:P,2017-Q2,28.6
+Quarterly,HU,Hungary,Private non-financial sector,Hungary - Private non-financial sector,Q:HU:P,2017-Q2,7.7
+Quarterly,ID,Indonesia,Private non-financial sector,Indonesia - Private non-financial sector,Q:ID:P,2017-Q2,4.6
+Quarterly,IN,India,Private non-financial sector,India - Private non-financial sector,Q:IN:P,2017-Q2,11.3
+Quarterly,IT,Italy,Households & NPISHs,Italy - Households and NPISHs,Q:IT:H,2017-Q2,4.4
+Quarterly,IT,Italy,Non-financial corporations,Italy - Non-financial corporations,Q:IT:N,2017-Q2,32.3
+Quarterly,IT,Italy,Private non-financial sector,Italy - Private non-financial sector,Q:IT:P,2017-Q2,10.6
+Quarterly,JP,Japan,Households & NPISHs,Japan - Households and NPISHs,Q:JP:H,2017-Q2,7.1
+Quarterly,JP,Japan,Non-financial corporations,Japan - Non-financial corporations,Q:JP:N,2017-Q2,29.8
+Quarterly,JP,Japan,Private non-financial sector,Japan - Private non-financial sector,Q:JP:P,2017-Q2,13.8
+Quarterly,KR,Korea,Households & NPISHs,Korea - Households and NPISHs,Q:KR:H,2017-Q2,11.6
+Quarterly,KR,Korea,Non-financial corporations,Korea - Non-financial corporations,Q:KR:N,2017-Q2,34.5
+Quarterly,KR,Korea,Private non-financial sector,Korea - Private non-financial sector,Q:KR:P,2017-Q2,18.6
+Quarterly,MX,Mexico,Private non-financial sector,Mexico - Private non-financial sector,Q:MX:P,2017-Q2,4.5
+Quarterly,MY,Malaysia,Private non-financial sector,Malaysia - Private non-financial sector,Q:MY:P,2017-Q2,13.1
+Quarterly,NL,Netherlands,Households & NPISHs,Netherlands - Households and NPISHs,Q:NL:H,2017-Q2,16.5
+Quarterly,NL,Netherlands,Non-financial corporations,Netherlands - Non-financial corporations,Q:NL:N,2017-Q2,52.0
+Quarterly,NL,Netherlands,Private non-financial sector,Netherlands - Private non-financial sector,Q:NL:P,2017-Q2,28.9
+Quarterly,NO,Norway,Households & NPISHs,Norway - Households and NPISHs,Q:NO:H,2017-Q2,15.0
+Quarterly,NO,Norway,Non-financial corporations,Norway - Non-financial corporations,Q:NO:N,2017-Q2,49.0
+Quarterly,NO,Norway,Private non-financial sector,Norway - Private non-financial sector,Q:NO:P,2017-Q2,26.8
+Quarterly,PL,Poland,Private non-financial sector,Poland - Private non-financial sector,Q:PL:P,2017-Q2,7.5
+Quarterly,PT,Portugal,Households & NPISHs,Portugal - Households and NPISHs,Q:PT:H,2017-Q2,6.5
+Quarterly,PT,Portugal,Non-financial corporations,Portugal - Non-financial corporations,Q:PT:N,2017-Q2,45.6
+Quarterly,PT,Portugal,Private non-financial sector,Portugal - Private non-financial sector,Q:PT:P,2017-Q2,15.6
+Quarterly,RU,Russia,Private non-financial sector,Russia - Private non-financial sector,Q:RU:P,2017-Q2,13.7
+Quarterly,SE,Sweden,Households & NPISHs,Sweden - Households and NPISHs,Q:SE:H,2017-Q2,11.4
+Quarterly,SE,Sweden,Non-financial corporations,Sweden - Non-financial corporations,Q:SE:N,2017-Q2,43.0
+Quarterly,SE,Sweden,Private non-financial sector,Sweden - Private non-financial sector,Q:SE:P,2017-Q2,22.3
+Quarterly,TH,Thailand,Private non-financial sector,Thailand - Private non-financial sector,Q:TH:P,2017-Q2,13.3
+Quarterly,TR,Turkey,Private non-financial sector,Turkey - Private non-financial sector,Q:TR:P,2017-Q2,15.1
+Quarterly,US,United States,Households & NPISHs,United States - Households and NPISHs,Q:US:H,2017-Q2,8.1
+Quarterly,US,United States,Non-financial corporations,United States - Non-financial corporations,Q:US:N,2017-Q2,41.1
+Quarterly,US,United States,Private non-financial sector,United States - Private non-financial sector,Q:US:P,2017-Q2,14.6
+Quarterly,ZA,South Africa,Private non-financial sector,South Africa - Private non-financial sector,Q:ZA:P,2017-Q2,8.9
+Quarterly,AU,Australia,Households & NPISHs,Australia - Households and NPISHs,Q:AU:H,2017-Q3,15.4
+Quarterly,AU,Australia,Non-financial corporations,Australia - Non-financial corporations,Q:AU:N,2017-Q3,45.8
+Quarterly,AU,Australia,Private non-financial sector,Australia - Private non-financial sector,Q:AU:P,2017-Q3,20.6
+Quarterly,BE,Belgium,Households & NPISHs,Belgium - Households and NPISHs,Q:BE:H,2017-Q3,7.3
+Quarterly,BE,Belgium,Non-financial corporations,Belgium - Non-financial corporations,Q:BE:N,2017-Q3,51.5
+Quarterly,BE,Belgium,Private non-financial sector,Belgium - Private non-financial sector,Q:BE:P,2017-Q3,20.9
+Quarterly,BR,Brazil,Private non-financial sector,Brazil - Private non-financial sector,Q:BR:P,2017-Q3,19.8
+Quarterly,CA,Canada,Households & NPISHs,Canada - Households and NPISHs,Q:CA:H,2017-Q3,13.1
+Quarterly,CA,Canada,Non-financial corporations,Canada - Non-financial corporations,Q:CA:N,2017-Q3,54.2
+Quarterly,CA,Canada,Private non-financial sector,Canada - Private non-financial sector,Q:CA:P,2017-Q3,24.0
+Quarterly,CH,Switzerland,Private non-financial sector,Switzerland - Private non-financial sector,Q:CH:P,2017-Q3,18.1
+Quarterly,CN,China,Private non-financial sector,China - Private non-financial sector,Q:CN:P,2017-Q3,19.6
+Quarterly,CZ,Czechia,Private non-financial sector,Czechia - Private non-financial sector,Q:CZ:P,2017-Q3,7.2
+Quarterly,DE,Germany,Households & NPISHs,Germany - Households and NPISHs,Q:DE:H,2017-Q3,6.2
+Quarterly,DE,Germany,Non-financial corporations,Germany - Non-financial corporations,Q:DE:N,2017-Q3,23.3
+Quarterly,DE,Germany,Private non-financial sector,Germany - Private non-financial sector,Q:DE:P,2017-Q3,10.8
+Quarterly,DK,Denmark,Households & NPISHs,Denmark - Households and NPISHs,Q:DK:H,2017-Q3,15.3
+Quarterly,DK,Denmark,Non-financial corporations,Denmark - Non-financial corporations,Q:DK:N,2017-Q3,39.9
+Quarterly,DK,Denmark,Private non-financial sector,Denmark - Private non-financial sector,Q:DK:P,2017-Q3,24.0
+Quarterly,ES,Spain,Households & NPISHs,Spain - Households and NPISHs,Q:ES:H,2017-Q3,6.5
+Quarterly,ES,Spain,Non-financial corporations,Spain - Non-financial corporations,Q:ES:N,2017-Q3,35.7
+Quarterly,ES,Spain,Private non-financial sector,Spain - Private non-financial sector,Q:ES:P,2017-Q3,14.4
+Quarterly,FI,Finland,Households & NPISHs,Finland - Households and NPISHs,Q:FI:H,2017-Q3,7.0
+Quarterly,FI,Finland,Non-financial corporations,Finland - Non-financial corporations,Q:FI:N,2017-Q3,38.6
+Quarterly,FI,Finland,Private non-financial sector,Finland - Private non-financial sector,Q:FI:P,2017-Q3,17.0
+Quarterly,FR,France,Households & NPISHs,France - Households and NPISHs,Q:FR:H,2017-Q3,6.2
+Quarterly,FR,France,Non-financial corporations,France - Non-financial corporations,Q:FR:N,2017-Q3,56.3
+Quarterly,FR,France,Private non-financial sector,France - Private non-financial sector,Q:FR:P,2017-Q3,19.1
+Quarterly,GB,United Kingdom,Households & NPISHs,United Kingdom - Households and NPISHs,Q:GB:H,2017-Q3,9.4
+Quarterly,GB,United Kingdom,Non-financial corporations,United Kingdom - Non-financial corporations,Q:GB:N,2017-Q3,32.0
+Quarterly,GB,United Kingdom,Private non-financial sector,United Kingdom - Private non-financial sector,Q:GB:P,2017-Q3,14.5
+Quarterly,HK,Hong Kong SAR,Private non-financial sector,Hong Kong SAR - Private non-financial sector,Q:HK:P,2017-Q3,29.0
+Quarterly,HU,Hungary,Private non-financial sector,Hungary - Private non-financial sector,Q:HU:P,2017-Q3,7.5
+Quarterly,ID,Indonesia,Private non-financial sector,Indonesia - Private non-financial sector,Q:ID:P,2017-Q3,4.5
+Quarterly,IN,India,Private non-financial sector,India - Private non-financial sector,Q:IN:P,2017-Q3,11.2
+Quarterly,IT,Italy,Households & NPISHs,Italy - Households and NPISHs,Q:IT:H,2017-Q3,4.4
+Quarterly,IT,Italy,Non-financial corporations,Italy - Non-financial corporations,Q:IT:N,2017-Q3,31.6
+Quarterly,IT,Italy,Private non-financial sector,Italy - Private non-financial sector,Q:IT:P,2017-Q3,10.5
+Quarterly,JP,Japan,Households & NPISHs,Japan - Households and NPISHs,Q:JP:H,2017-Q3,7.1
+Quarterly,JP,Japan,Non-financial corporations,Japan - Non-financial corporations,Q:JP:N,2017-Q3,29.6
+Quarterly,JP,Japan,Private non-financial sector,Japan - Private non-financial sector,Q:JP:P,2017-Q3,13.8
+Quarterly,KR,Korea,Households & NPISHs,Korea - Households and NPISHs,Q:KR:H,2017-Q3,11.8
+Quarterly,KR,Korea,Non-financial corporations,Korea - Non-financial corporations,Q:KR:N,2017-Q3,34.0
+Quarterly,KR,Korea,Private non-financial sector,Korea - Private non-financial sector,Q:KR:P,2017-Q3,18.6
+Quarterly,MX,Mexico,Private non-financial sector,Mexico - Private non-financial sector,Q:MX:P,2017-Q3,4.7
+Quarterly,MY,Malaysia,Private non-financial sector,Malaysia - Private non-financial sector,Q:MY:P,2017-Q3,12.9
+Quarterly,NL,Netherlands,Households & NPISHs,Netherlands - Households and NPISHs,Q:NL:H,2017-Q3,16.4
+Quarterly,NL,Netherlands,Non-financial corporations,Netherlands - Non-financial corporations,Q:NL:N,2017-Q3,51.3
+Quarterly,NL,Netherlands,Private non-financial sector,Netherlands - Private non-financial sector,Q:NL:P,2017-Q3,28.7
+Quarterly,NO,Norway,Households & NPISHs,Norway - Households and NPISHs,Q:NO:H,2017-Q3,15.0
+Quarterly,NO,Norway,Non-financial corporations,Norway - Non-financial corporations,Q:NO:N,2017-Q3,48.7
+Quarterly,NO,Norway,Private non-financial sector,Norway - Private non-financial sector,Q:NO:P,2017-Q3,26.6
+Quarterly,PL,Poland,Private non-financial sector,Poland - Private non-financial sector,Q:PL:P,2017-Q3,7.4
+Quarterly,PT,Portugal,Households & NPISHs,Portugal - Households and NPISHs,Q:PT:H,2017-Q3,6.5
+Quarterly,PT,Portugal,Non-financial corporations,Portugal - Non-financial corporations,Q:PT:N,2017-Q3,45.5
+Quarterly,PT,Portugal,Private non-financial sector,Portugal - Private non-financial sector,Q:PT:P,2017-Q3,15.6
+Quarterly,RU,Russia,Private non-financial sector,Russia - Private non-financial sector,Q:RU:P,2017-Q3,13.5
+Quarterly,SE,Sweden,Households & NPISHs,Sweden - Households and NPISHs,Q:SE:H,2017-Q3,11.5
+Quarterly,SE,Sweden,Non-financial corporations,Sweden - Non-financial corporations,Q:SE:N,2017-Q3,41.8
+Quarterly,SE,Sweden,Private non-financial sector,Sweden - Private non-financial sector,Q:SE:P,2017-Q3,22.0
+Quarterly,TH,Thailand,Private non-financial sector,Thailand - Private non-financial sector,Q:TH:P,2017-Q3,13.1
+Quarterly,TR,Turkey,Private non-financial sector,Turkey - Private non-financial sector,Q:TR:P,2017-Q3,15.3
+Quarterly,US,United States,Households & NPISHs,United States - Households and NPISHs,Q:US:H,2017-Q3,8.1
+Quarterly,US,United States,Non-financial corporations,United States - Non-financial corporations,Q:US:N,2017-Q3,40.9
+Quarterly,US,United States,Private non-financial sector,United States - Private non-financial sector,Q:US:P,2017-Q3,14.6
+Quarterly,ZA,South Africa,Private non-financial sector,South Africa - Private non-financial sector,Q:ZA:P,2017-Q3,9.0
+Quarterly,AU,Australia,Households & NPISHs,Australia - Households and NPISHs,Q:AU:H,2017-Q4,15.4
+Quarterly,AU,Australia,Non-financial corporations,Australia - Non-financial corporations,Q:AU:N,2017-Q4,45.7
+Quarterly,AU,Australia,Private non-financial sector,Australia - Private non-financial sector,Q:AU:P,2017-Q4,20.7
+Quarterly,BE,Belgium,Households & NPISHs,Belgium - Households and NPISHs,Q:BE:H,2017-Q4,7.3
+Quarterly,BE,Belgium,Non-financial corporations,Belgium - Non-financial corporations,Q:BE:N,2017-Q4,51.2
+Quarterly,BE,Belgium,Private non-financial sector,Belgium - Private non-financial sector,Q:BE:P,2017-Q4,20.8
+Quarterly,BR,Brazil,Private non-financial sector,Brazil - Private non-financial sector,Q:BR:P,2017-Q4,19.2
+Quarterly,CA,Canada,Households & NPISHs,Canada - Households and NPISHs,Q:CA:H,2017-Q4,13.1
+Quarterly,CA,Canada,Non-financial corporations,Canada - Non-financial corporations,Q:CA:N,2017-Q4,53.9
+Quarterly,CA,Canada,Private non-financial sector,Canada - Private non-financial sector,Q:CA:P,2017-Q4,23.9
+Quarterly,CH,Switzerland,Private non-financial sector,Switzerland - Private non-financial sector,Q:CH:P,2017-Q4,18.2
+Quarterly,CN,China,Private non-financial sector,China - Private non-financial sector,Q:CN:P,2017-Q4,19.4
+Quarterly,CZ,Czechia,Private non-financial sector,Czechia - Private non-financial sector,Q:CZ:P,2017-Q4,7.2
+Quarterly,DE,Germany,Households & NPISHs,Germany - Households and NPISHs,Q:DE:H,2017-Q4,6.2
+Quarterly,DE,Germany,Non-financial corporations,Germany - Non-financial corporations,Q:DE:N,2017-Q4,23.4
+Quarterly,DE,Germany,Private non-financial sector,Germany - Private non-financial sector,Q:DE:P,2017-Q4,10.8
+Quarterly,DK,Denmark,Households & NPISHs,Denmark - Households and NPISHs,Q:DK:H,2017-Q4,15.2
+Quarterly,DK,Denmark,Non-financial corporations,Denmark - Non-financial corporations,Q:DK:N,2017-Q4,40.9
+Quarterly,DK,Denmark,Private non-financial sector,Denmark - Private non-financial sector,Q:DK:P,2017-Q4,24.2
+Quarterly,ES,Spain,Households & NPISHs,Spain - Households and NPISHs,Q:ES:H,2017-Q4,6.5
+Quarterly,ES,Spain,Non-financial corporations,Spain - Non-financial corporations,Q:ES:N,2017-Q4,34.5
+Quarterly,ES,Spain,Private non-financial sector,Spain - Private non-financial sector,Q:ES:P,2017-Q4,14.1
+Quarterly,FI,Finland,Households & NPISHs,Finland - Households and NPISHs,Q:FI:H,2017-Q4,7.0
+Quarterly,FI,Finland,Non-financial corporations,Finland - Non-financial corporations,Q:FI:N,2017-Q4,39.2
+Quarterly,FI,Finland,Private non-financial sector,Finland - Private non-financial sector,Q:FI:P,2017-Q4,17.1
+Quarterly,FR,France,Households & NPISHs,France - Households and NPISHs,Q:FR:H,2017-Q4,6.3
+Quarterly,FR,France,Non-financial corporations,France - Non-financial corporations,Q:FR:N,2017-Q4,56.8
+Quarterly,FR,France,Private non-financial sector,France - Private non-financial sector,Q:FR:P,2017-Q4,19.2
+Quarterly,GB,United Kingdom,Households & NPISHs,United Kingdom - Households and NPISHs,Q:GB:H,2017-Q4,9.3
+Quarterly,GB,United Kingdom,Non-financial corporations,United Kingdom - Non-financial corporations,Q:GB:N,2017-Q4,32.4
+Quarterly,GB,United Kingdom,Private non-financial sector,United Kingdom - Private non-financial sector,Q:GB:P,2017-Q4,14.5
+Quarterly,HK,Hong Kong SAR,Private non-financial sector,Hong Kong SAR - Private non-financial sector,Q:HK:P,2017-Q4,29.9
+Quarterly,HU,Hungary,Private non-financial sector,Hungary - Private non-financial sector,Q:HU:P,2017-Q4,7.3
+Quarterly,ID,Indonesia,Private non-financial sector,Indonesia - Private non-financial sector,Q:ID:P,2017-Q4,4.5
+Quarterly,IN,India,Private non-financial sector,India - Private non-financial sector,Q:IN:P,2017-Q4,11.4
+Quarterly,IT,Italy,Households & NPISHs,Italy - Households and NPISHs,Q:IT:H,2017-Q4,4.3
+Quarterly,IT,Italy,Non-financial corporations,Italy - Non-financial corporations,Q:IT:N,2017-Q4,31.2
+Quarterly,IT,Italy,Private non-financial sector,Italy - Private non-financial sector,Q:IT:P,2017-Q4,10.3
+Quarterly,JP,Japan,Households & NPISHs,Japan - Households and NPISHs,Q:JP:H,2017-Q4,7.1
+Quarterly,JP,Japan,Non-financial corporations,Japan - Non-financial corporations,Q:JP:N,2017-Q4,29.5
+Quarterly,JP,Japan,Private non-financial sector,Japan - Private non-financial sector,Q:JP:P,2017-Q4,13.8
+Quarterly,KR,Korea,Households & NPISHs,Korea - Households and NPISHs,Q:KR:H,2017-Q4,11.9
+Quarterly,KR,Korea,Non-financial corporations,Korea - Non-financial corporations,Q:KR:N,2017-Q4,33.6
+Quarterly,KR,Korea,Private non-financial sector,Korea - Private non-financial sector,Q:KR:P,2017-Q4,18.6
+Quarterly,MX,Mexico,Private non-financial sector,Mexico - Private non-financial sector,Q:MX:P,2017-Q4,5.0
+Quarterly,MY,Malaysia,Private non-financial sector,Malaysia - Private non-financial sector,Q:MY:P,2017-Q4,12.9
+Quarterly,NL,Netherlands,Households & NPISHs,Netherlands - Households and NPISHs,Q:NL:H,2017-Q4,16.3
+Quarterly,NL,Netherlands,Non-financial corporations,Netherlands - Non-financial corporations,Q:NL:N,2017-Q4,50.4
+Quarterly,NL,Netherlands,Private non-financial sector,Netherlands - Private non-financial sector,Q:NL:P,2017-Q4,28.3
+Quarterly,NO,Norway,Households & NPISHs,Norway - Households and NPISHs,Q:NO:H,2017-Q4,15.0
+Quarterly,NO,Norway,Non-financial corporations,Norway - Non-financial corporations,Q:NO:N,2017-Q4,48.4
+Quarterly,NO,Norway,Private non-financial sector,Norway - Private non-financial sector,Q:NO:P,2017-Q4,26.5
+Quarterly,PL,Poland,Private non-financial sector,Poland - Private non-financial sector,Q:PL:P,2017-Q4,7.3
+Quarterly,PT,Portugal,Households & NPISHs,Portugal - Households and NPISHs,Q:PT:H,2017-Q4,6.5
+Quarterly,PT,Portugal,Non-financial corporations,Portugal - Non-financial corporations,Q:PT:N,2017-Q4,44.9
+Quarterly,PT,Portugal,Private non-financial sector,Portugal - Private non-financial sector,Q:PT:P,2017-Q4,15.4
+Quarterly,RU,Russia,Private non-financial sector,Russia - Private non-financial sector,Q:RU:P,2017-Q4,13.1
+Quarterly,SE,Sweden,Households & NPISHs,Sweden - Households and NPISHs,Q:SE:H,2017-Q4,11.5
+Quarterly,SE,Sweden,Non-financial corporations,Sweden - Non-financial corporations,Q:SE:N,2017-Q4,42.6
+Quarterly,SE,Sweden,Private non-financial sector,Sweden - Private non-financial sector,Q:SE:P,2017-Q4,22.3
+Quarterly,TH,Thailand,Private non-financial sector,Thailand - Private non-financial sector,Q:TH:P,2017-Q4,13.1
+Quarterly,TR,Turkey,Private non-financial sector,Turkey - Private non-financial sector,Q:TR:P,2017-Q4,15.7
+Quarterly,US,United States,Households & NPISHs,United States - Households and NPISHs,Q:US:H,2017-Q4,8.1
+Quarterly,US,United States,Non-financial corporations,United States - Non-financial corporations,Q:US:N,2017-Q4,40.5
+Quarterly,US,United States,Private non-financial sector,United States - Private non-financial sector,Q:US:P,2017-Q4,14.6
+Quarterly,ZA,South Africa,Private non-financial sector,South Africa - Private non-financial sector,Q:ZA:P,2017-Q4,8.9
+Quarterly,AU,Australia,Households & NPISHs,Australia - Households and NPISHs,Q:AU:H,2018-Q1,15.4
+Quarterly,AU,Australia,Non-financial corporations,Australia - Non-financial corporations,Q:AU:N,2018-Q1,46.5
+Quarterly,AU,Australia,Private non-financial sector,Australia - Private non-financial sector,Q:AU:P,2018-Q1,20.8
+Quarterly,BE,Belgium,Households & NPISHs,Belgium - Households and NPISHs,Q:BE:H,2018-Q1,7.2
+Quarterly,BE,Belgium,Non-financial corporations,Belgium - Non-financial corporations,Q:BE:N,2018-Q1,51.0
+Quarterly,BE,Belgium,Private non-financial sector,Belgium - Private non-financial sector,Q:BE:P,2018-Q1,20.6
+Quarterly,BR,Brazil,Private non-financial sector,Brazil - Private non-financial sector,Q:BR:P,2018-Q1,18.5
+Quarterly,CA,Canada,Households & NPISHs,Canada - Households and NPISHs,Q:CA:H,2018-Q1,13.1
+Quarterly,CA,Canada,Non-financial corporations,Canada - Non-financial corporations,Q:CA:N,2018-Q1,54.3
+Quarterly,CA,Canada,Private non-financial sector,Canada - Private non-financial sector,Q:CA:P,2018-Q1,23.8
+Quarterly,CH,Switzerland,Private non-financial sector,Switzerland - Private non-financial sector,Q:CH:P,2018-Q1,18.7
+Quarterly,CN,China,Private non-financial sector,China - Private non-financial sector,Q:CN:P,2018-Q1,19.5
+Quarterly,CZ,Czechia,Private non-financial sector,Czechia - Private non-financial sector,Q:CZ:P,2018-Q1,7.3
+Quarterly,DE,Germany,Households & NPISHs,Germany - Households and NPISHs,Q:DE:H,2018-Q1,6.1
+Quarterly,DE,Germany,Non-financial corporations,Germany - Non-financial corporations,Q:DE:N,2018-Q1,23.9
+Quarterly,DE,Germany,Private non-financial sector,Germany - Private non-financial sector,Q:DE:P,2018-Q1,10.8
+Quarterly,DK,Denmark,Households & NPISHs,Denmark - Households and NPISHs,Q:DK:H,2018-Q1,15.0
+Quarterly,DK,Denmark,Non-financial corporations,Denmark - Non-financial corporations,Q:DK:N,2018-Q1,41.0
+Quarterly,DK,Denmark,Private non-financial sector,Denmark - Private non-financial sector,Q:DK:P,2018-Q1,24.1
+Quarterly,ES,Spain,Households & NPISHs,Spain - Households and NPISHs,Q:ES:H,2018-Q1,6.4
+Quarterly,ES,Spain,Non-financial corporations,Spain - Non-financial corporations,Q:ES:N,2018-Q1,34.0
+Quarterly,ES,Spain,Private non-financial sector,Spain - Private non-financial sector,Q:ES:P,2018-Q1,13.9
+Quarterly,FI,Finland,Households & NPISHs,Finland - Households and NPISHs,Q:FI:H,2018-Q1,7.0
+Quarterly,FI,Finland,Non-financial corporations,Finland - Non-financial corporations,Q:FI:N,2018-Q1,40.2
+Quarterly,FI,Finland,Private non-financial sector,Finland - Private non-financial sector,Q:FI:P,2018-Q1,17.3
+Quarterly,FR,France,Households & NPISHs,France - Households and NPISHs,Q:FR:H,2018-Q1,6.3
+Quarterly,FR,France,Non-financial corporations,France - Non-financial corporations,Q:FR:N,2018-Q1,57.3
+Quarterly,FR,France,Private non-financial sector,France - Private non-financial sector,Q:FR:P,2018-Q1,19.4
+Quarterly,GB,United Kingdom,Households & NPISHs,United Kingdom - Households and NPISHs,Q:GB:H,2018-Q1,9.2
+Quarterly,GB,United Kingdom,Non-financial corporations,United Kingdom - Non-financial corporations,Q:GB:N,2018-Q1,32.1
+Quarterly,GB,United Kingdom,Private non-financial sector,United Kingdom - Private non-financial sector,Q:GB:P,2018-Q1,14.4
+Quarterly,HK,Hong Kong SAR,Private non-financial sector,Hong Kong SAR - Private non-financial sector,Q:HK:P,2018-Q1,30.6
+Quarterly,HU,Hungary,Private non-financial sector,Hungary - Private non-financial sector,Q:HU:P,2018-Q1,7.1
+Quarterly,ID,Indonesia,Private non-financial sector,Indonesia - Private non-financial sector,Q:ID:P,2018-Q1,4.4
+Quarterly,IN,India,Private non-financial sector,India - Private non-financial sector,Q:IN:P,2018-Q1,10.9
+Quarterly,IT,Italy,Households & NPISHs,Italy - Households and NPISHs,Q:IT:H,2018-Q1,4.3
+Quarterly,IT,Italy,Non-financial corporations,Italy - Non-financial corporations,Q:IT:N,2018-Q1,30.7
+Quarterly,IT,Italy,Private non-financial sector,Italy - Private non-financial sector,Q:IT:P,2018-Q1,10.3
+Quarterly,JP,Japan,Households & NPISHs,Japan - Households and NPISHs,Q:JP:H,2018-Q1,7.1
+Quarterly,JP,Japan,Non-financial corporations,Japan - Non-financial corporations,Q:JP:N,2018-Q1,29.3
+Quarterly,JP,Japan,Private non-financial sector,Japan - Private non-financial sector,Q:JP:P,2018-Q1,13.8
+Quarterly,KR,Korea,Households & NPISHs,Korea - Households and NPISHs,Q:KR:H,2018-Q1,12.0
+Quarterly,KR,Korea,Non-financial corporations,Korea - Non-financial corporations,Q:KR:N,2018-Q1,34.0
+Quarterly,KR,Korea,Private non-financial sector,Korea - Private non-financial sector,Q:KR:P,2018-Q1,18.7
+Quarterly,MX,Mexico,Private non-financial sector,Mexico - Private non-financial sector,Q:MX:P,2018-Q1,5.0
+Quarterly,MY,Malaysia,Private non-financial sector,Malaysia - Private non-financial sector,Q:MY:P,2018-Q1,13.0
+Quarterly,NL,Netherlands,Households & NPISHs,Netherlands - Households and NPISHs,Q:NL:H,2018-Q1,16.2
+Quarterly,NL,Netherlands,Non-financial corporations,Netherlands - Non-financial corporations,Q:NL:N,2018-Q1,49.7
+Quarterly,NL,Netherlands,Private non-financial sector,Netherlands - Private non-financial sector,Q:NL:P,2018-Q1,27.9
+Quarterly,NO,Norway,Households & NPISHs,Norway - Households and NPISHs,Q:NO:H,2018-Q1,15.0
+Quarterly,NO,Norway,Non-financial corporations,Norway - Non-financial corporations,Q:NO:N,2018-Q1,48.1
+Quarterly,NO,Norway,Private non-financial sector,Norway - Private non-financial sector,Q:NO:P,2018-Q1,26.3
+Quarterly,PL,Poland,Private non-financial sector,Poland - Private non-financial sector,Q:PL:P,2018-Q1,7.3
+Quarterly,PT,Portugal,Households & NPISHs,Portugal - Households and NPISHs,Q:PT:H,2018-Q1,6.5
+Quarterly,PT,Portugal,Non-financial corporations,Portugal - Non-financial corporations,Q:PT:N,2018-Q1,44.3
+Quarterly,PT,Portugal,Private non-financial sector,Portugal - Private non-financial sector,Q:PT:P,2018-Q1,15.2
+Quarterly,RU,Russia,Private non-financial sector,Russia - Private non-financial sector,Q:RU:P,2018-Q1,12.4
+Quarterly,SE,Sweden,Households & NPISHs,Sweden - Households and NPISHs,Q:SE:H,2018-Q1,11.4
+Quarterly,SE,Sweden,Non-financial corporations,Sweden - Non-financial corporations,Q:SE:N,2018-Q1,42.9
+Quarterly,SE,Sweden,Private non-financial sector,Sweden - Private non-financial sector,Q:SE:P,2018-Q1,22.3
+Quarterly,TH,Thailand,Private non-financial sector,Thailand - Private non-financial sector,Q:TH:P,2018-Q1,13.0
+Quarterly,TR,Turkey,Private non-financial sector,Turkey - Private non-financial sector,Q:TR:P,2018-Q1,16.5
+Quarterly,US,United States,Households & NPISHs,United States - Households and NPISHs,Q:US:H,2018-Q1,8.1
+Quarterly,US,United States,Non-financial corporations,United States - Non-financial corporations,Q:US:N,2018-Q1,39.6
+Quarterly,US,United States,Private non-financial sector,United States - Private non-financial sector,Q:US:P,2018-Q1,14.4
+Quarterly,ZA,South Africa,Private non-financial sector,South Africa - Private non-financial sector,Q:ZA:P,2018-Q1,9.0
+Quarterly,AU,Australia,Households & NPISHs,Australia - Households and NPISHs,Q:AU:H,2018-Q2,15.4
+Quarterly,AU,Australia,Non-financial corporations,Australia - Non-financial corporations,Q:AU:N,2018-Q2,46.4
+Quarterly,AU,Australia,Private non-financial sector,Australia - Private non-financial sector,Q:AU:P,2018-Q2,20.8
+Quarterly,BE,Belgium,Households & NPISHs,Belgium - Households and NPISHs,Q:BE:H,2018-Q2,7.3
+Quarterly,BE,Belgium,Non-financial corporations,Belgium - Non-financial corporations,Q:BE:N,2018-Q2,50.1
+Quarterly,BE,Belgium,Private non-financial sector,Belgium - Private non-financial sector,Q:BE:P,2018-Q2,20.5
+Quarterly,BR,Brazil,Private non-financial sector,Brazil - Private non-financial sector,Q:BR:P,2018-Q2,18.1
+Quarterly,CA,Canada,Households & NPISHs,Canada - Households and NPISHs,Q:CA:H,2018-Q2,13.3
+Quarterly,CA,Canada,Non-financial corporations,Canada - Non-financial corporations,Q:CA:N,2018-Q2,55.0
+Quarterly,CA,Canada,Private non-financial sector,Canada - Private non-financial sector,Q:CA:P,2018-Q2,24.2
+Quarterly,CH,Switzerland,Private non-financial sector,Switzerland - Private non-financial sector,Q:CH:P,2018-Q2,18.1
+Quarterly,CN,China,Private non-financial sector,China - Private non-financial sector,Q:CN:P,2018-Q2,19.3
+Quarterly,CZ,Czechia,Private non-financial sector,Czechia - Private non-financial sector,Q:CZ:P,2018-Q2,7.5
+Quarterly,DE,Germany,Households & NPISHs,Germany - Households and NPISHs,Q:DE:H,2018-Q2,6.1
+Quarterly,DE,Germany,Non-financial corporations,Germany - Non-financial corporations,Q:DE:N,2018-Q2,23.8
+Quarterly,DE,Germany,Private non-financial sector,Germany - Private non-financial sector,Q:DE:P,2018-Q2,10.9
+Quarterly,DK,Denmark,Households & NPISHs,Denmark - Households and NPISHs,Q:DK:H,2018-Q2,14.9
+Quarterly,DK,Denmark,Non-financial corporations,Denmark - Non-financial corporations,Q:DK:N,2018-Q2,41.2
+Quarterly,DK,Denmark,Private non-financial sector,Denmark - Private non-financial sector,Q:DK:P,2018-Q2,24.1
+Quarterly,ES,Spain,Households & NPISHs,Spain - Households and NPISHs,Q:ES:H,2018-Q2,6.4
+Quarterly,ES,Spain,Non-financial corporations,Spain - Non-financial corporations,Q:ES:N,2018-Q2,33.6
+Quarterly,ES,Spain,Private non-financial sector,Spain - Private non-financial sector,Q:ES:P,2018-Q2,13.9
+Quarterly,FI,Finland,Households & NPISHs,Finland - Households and NPISHs,Q:FI:H,2018-Q2,7.1
+Quarterly,FI,Finland,Non-financial corporations,Finland - Non-financial corporations,Q:FI:N,2018-Q2,37.5
+Quarterly,FI,Finland,Private non-financial sector,Finland - Private non-financial sector,Q:FI:P,2018-Q2,17.0
+Quarterly,FR,France,Households & NPISHs,France - Households and NPISHs,Q:FR:H,2018-Q2,6.3
+Quarterly,FR,France,Non-financial corporations,France - Non-financial corporations,Q:FR:N,2018-Q2,56.3
+Quarterly,FR,France,Private non-financial sector,France - Private non-financial sector,Q:FR:P,2018-Q2,19.3
+Quarterly,GB,United Kingdom,Households & NPISHs,United Kingdom - Households and NPISHs,Q:GB:H,2018-Q2,9.2
+Quarterly,GB,United Kingdom,Non-financial corporations,United Kingdom - Non-financial corporations,Q:GB:N,2018-Q2,31.6
+Quarterly,GB,United Kingdom,Private non-financial sector,United Kingdom - Private non-financial sector,Q:GB:P,2018-Q2,14.2
+Quarterly,HK,Hong Kong SAR,Private non-financial sector,Hong Kong SAR - Private non-financial sector,Q:HK:P,2018-Q2,30.6
+Quarterly,HU,Hungary,Private non-financial sector,Hungary - Private non-financial sector,Q:HU:P,2018-Q2,7.3
+Quarterly,ID,Indonesia,Private non-financial sector,Indonesia - Private non-financial sector,Q:ID:P,2018-Q2,4.5
+Quarterly,IN,India,Private non-financial sector,India - Private non-financial sector,Q:IN:P,2018-Q2,10.7
+Quarterly,IT,Italy,Households & NPISHs,Italy - Households and NPISHs,Q:IT:H,2018-Q2,4.3
+Quarterly,IT,Italy,Non-financial corporations,Italy - Non-financial corporations,Q:IT:N,2018-Q2,30.6
+Quarterly,IT,Italy,Private non-financial sector,Italy - Private non-financial sector,Q:IT:P,2018-Q2,10.1
+Quarterly,JP,Japan,Households & NPISHs,Japan - Households and NPISHs,Q:JP:H,2018-Q2,7.2
+Quarterly,JP,Japan,Non-financial corporations,Japan - Non-financial corporations,Q:JP:N,2018-Q2,29.5
+Quarterly,JP,Japan,Private non-financial sector,Japan - Private non-financial sector,Q:JP:P,2018-Q2,13.9
+Quarterly,KR,Korea,Households & NPISHs,Korea - Households and NPISHs,Q:KR:H,2018-Q2,12.0
+Quarterly,KR,Korea,Non-financial corporations,Korea - Non-financial corporations,Q:KR:N,2018-Q2,34.5
+Quarterly,KR,Korea,Private non-financial sector,Korea - Private non-financial sector,Q:KR:P,2018-Q2,18.9
+Quarterly,MX,Mexico,Private non-financial sector,Mexico - Private non-financial sector,Q:MX:P,2018-Q2,5.2
+Quarterly,MY,Malaysia,Private non-financial sector,Malaysia - Private non-financial sector,Q:MY:P,2018-Q2,13.4
+Quarterly,NL,Netherlands,Households & NPISHs,Netherlands - Households and NPISHs,Q:NL:H,2018-Q2,15.9
+Quarterly,NL,Netherlands,Non-financial corporations,Netherlands - Non-financial corporations,Q:NL:N,2018-Q2,47.4
+Quarterly,NL,Netherlands,Private non-financial sector,Netherlands - Private non-financial sector,Q:NL:P,2018-Q2,27.1
+Quarterly,NO,Norway,Households & NPISHs,Norway - Households and NPISHs,Q:NO:H,2018-Q2,15.1
+Quarterly,NO,Norway,Non-financial corporations,Norway - Non-financial corporations,Q:NO:N,2018-Q2,47.3
+Quarterly,NO,Norway,Private non-financial sector,Norway - Private non-financial sector,Q:NO:P,2018-Q2,26.2
+Quarterly,PL,Poland,Private non-financial sector,Poland - Private non-financial sector,Q:PL:P,2018-Q2,7.3
+Quarterly,PT,Portugal,Households & NPISHs,Portugal - Households and NPISHs,Q:PT:H,2018-Q2,6.5
+Quarterly,PT,Portugal,Non-financial corporations,Portugal - Non-financial corporations,Q:PT:N,2018-Q2,44.3
+Quarterly,PT,Portugal,Private non-financial sector,Portugal - Private non-financial sector,Q:PT:P,2018-Q2,15.1
+Quarterly,RU,Russia,Private non-financial sector,Russia - Private non-financial sector,Q:RU:P,2018-Q2,12.4
+Quarterly,SE,Sweden,Households & NPISHs,Sweden - Households and NPISHs,Q:SE:H,2018-Q2,11.5
+Quarterly,SE,Sweden,Non-financial corporations,Sweden - Non-financial corporations,Q:SE:N,2018-Q2,44.1
+Quarterly,SE,Sweden,Private non-financial sector,Sweden - Private non-financial sector,Q:SE:P,2018-Q2,22.7
+Quarterly,TH,Thailand,Private non-financial sector,Thailand - Private non-financial sector,Q:TH:P,2018-Q2,13.1
+Quarterly,TR,Turkey,Private non-financial sector,Turkey - Private non-financial sector,Q:TR:P,2018-Q2,17.9
+Quarterly,US,United States,Households & NPISHs,United States - Households and NPISHs,Q:US:H,2018-Q2,8.1
+Quarterly,US,United States,Non-financial corporations,United States - Non-financial corporations,Q:US:N,2018-Q2,39.0
+Quarterly,US,United States,Private non-financial sector,United States - Private non-financial sector,Q:US:P,2018-Q2,14.4
+Quarterly,ZA,South Africa,Private non-financial sector,South Africa - Private non-financial sector,Q:ZA:P,2018-Q2,8.9
+Quarterly,AU,Australia,Households & NPISHs,Australia - Households and NPISHs,Q:AU:H,2018-Q3,15.3
+Quarterly,AU,Australia,Non-financial corporations,Australia - Non-financial corporations,Q:AU:N,2018-Q3,46.6
+Quarterly,AU,Australia,Private non-financial sector,Australia - Private non-financial sector,Q:AU:P,2018-Q3,20.8
+Quarterly,BE,Belgium,Households & NPISHs,Belgium - Households and NPISHs,Q:BE:H,2018-Q3,7.3
+Quarterly,BE,Belgium,Non-financial corporations,Belgium - Non-financial corporations,Q:BE:N,2018-Q3,49.4
+Quarterly,BE,Belgium,Private non-financial sector,Belgium - Private non-financial sector,Q:BE:P,2018-Q3,20.3
+Quarterly,BR,Brazil,Private non-financial sector,Brazil - Private non-financial sector,Q:BR:P,2018-Q3,17.8
+Quarterly,CA,Canada,Households & NPISHs,Canada - Households and NPISHs,Q:CA:H,2018-Q3,13.4
+Quarterly,CA,Canada,Non-financial corporations,Canada - Non-financial corporations,Q:CA:N,2018-Q3,54.1
+Quarterly,CA,Canada,Private non-financial sector,Canada - Private non-financial sector,Q:CA:P,2018-Q3,24.2
+Quarterly,CH,Switzerland,Private non-financial sector,Switzerland - Private non-financial sector,Q:CH:P,2018-Q3,17.9
+Quarterly,CN,China,Private non-financial sector,China - Private non-financial sector,Q:CN:P,2018-Q3,19.1
+Quarterly,CZ,Czechia,Private non-financial sector,Czechia - Private non-financial sector,Q:CZ:P,2018-Q3,7.6
+Quarterly,DE,Germany,Households & NPISHs,Germany - Households and NPISHs,Q:DE:H,2018-Q3,6.0
+Quarterly,DE,Germany,Non-financial corporations,Germany - Non-financial corporations,Q:DE:N,2018-Q3,23.9
+Quarterly,DE,Germany,Private non-financial sector,Germany - Private non-financial sector,Q:DE:P,2018-Q3,10.9
+Quarterly,DK,Denmark,Households & NPISHs,Denmark - Households and NPISHs,Q:DK:H,2018-Q3,14.8
+Quarterly,DK,Denmark,Non-financial corporations,Denmark - Non-financial corporations,Q:DK:N,2018-Q3,41.4
+Quarterly,DK,Denmark,Private non-financial sector,Denmark - Private non-financial sector,Q:DK:P,2018-Q3,24.2
+Quarterly,ES,Spain,Households & NPISHs,Spain - Households and NPISHs,Q:ES:H,2018-Q3,6.3
+Quarterly,ES,Spain,Non-financial corporations,Spain - Non-financial corporations,Q:ES:N,2018-Q3,33.4
+Quarterly,ES,Spain,Private non-financial sector,Spain - Private non-financial sector,Q:ES:P,2018-Q3,13.8
+Quarterly,FI,Finland,Households & NPISHs,Finland - Households and NPISHs,Q:FI:H,2018-Q3,7.1
+Quarterly,FI,Finland,Non-financial corporations,Finland - Non-financial corporations,Q:FI:N,2018-Q3,37.9
+Quarterly,FI,Finland,Private non-financial sector,Finland - Private non-financial sector,Q:FI:P,2018-Q3,17.0
+Quarterly,FR,France,Households & NPISHs,France - Households and NPISHs,Q:FR:H,2018-Q3,6.3
+Quarterly,FR,France,Non-financial corporations,France - Non-financial corporations,Q:FR:N,2018-Q3,56.5
+Quarterly,FR,France,Private non-financial sector,France - Private non-financial sector,Q:FR:P,2018-Q3,19.4
+Quarterly,GB,United Kingdom,Households & NPISHs,United Kingdom - Households and NPISHs,Q:GB:H,2018-Q3,9.2
+Quarterly,GB,United Kingdom,Non-financial corporations,United Kingdom - Non-financial corporations,Q:GB:N,2018-Q3,31.1
+Quarterly,GB,United Kingdom,Private non-financial sector,United Kingdom - Private non-financial sector,Q:GB:P,2018-Q3,14.1
+Quarterly,HK,Hong Kong SAR,Private non-financial sector,Hong Kong SAR - Private non-financial sector,Q:HK:P,2018-Q3,29.8
+Quarterly,HU,Hungary,Private non-financial sector,Hungary - Private non-financial sector,Q:HU:P,2018-Q3,7.1
+Quarterly,ID,Indonesia,Private non-financial sector,Indonesia - Private non-financial sector,Q:ID:P,2018-Q3,4.6
+Quarterly,IN,India,Private non-financial sector,India - Private non-financial sector,Q:IN:P,2018-Q3,10.5
+Quarterly,IT,Italy,Households & NPISHs,Italy - Households and NPISHs,Q:IT:H,2018-Q3,4.3
+Quarterly,IT,Italy,Non-financial corporations,Italy - Non-financial corporations,Q:IT:N,2018-Q3,30.3
+Quarterly,IT,Italy,Private non-financial sector,Italy - Private non-financial sector,Q:IT:P,2018-Q3,10.1
+Quarterly,JP,Japan,Households & NPISHs,Japan - Households and NPISHs,Q:JP:H,2018-Q3,7.2
+Quarterly,JP,Japan,Non-financial corporations,Japan - Non-financial corporations,Q:JP:N,2018-Q3,30.0
+Quarterly,JP,Japan,Private non-financial sector,Japan - Private non-financial sector,Q:JP:P,2018-Q3,14.0
+Quarterly,KR,Korea,Households & NPISHs,Korea - Households and NPISHs,Q:KR:H,2018-Q3,12.1
+Quarterly,KR,Korea,Non-financial corporations,Korea - Non-financial corporations,Q:KR:N,2018-Q3,35.2
+Quarterly,KR,Korea,Private non-financial sector,Korea - Private non-financial sector,Q:KR:P,2018-Q3,19.1
+Quarterly,MX,Mexico,Private non-financial sector,Mexico - Private non-financial sector,Q:MX:P,2018-Q3,5.1
+Quarterly,MY,Malaysia,Private non-financial sector,Malaysia - Private non-financial sector,Q:MY:P,2018-Q3,13.3
+Quarterly,NL,Netherlands,Households & NPISHs,Netherlands - Households and NPISHs,Q:NL:H,2018-Q3,15.8
+Quarterly,NL,Netherlands,Non-financial corporations,Netherlands - Non-financial corporations,Q:NL:N,2018-Q3,46.1
+Quarterly,NL,Netherlands,Private non-financial sector,Netherlands - Private non-financial sector,Q:NL:P,2018-Q3,26.7
+Quarterly,NO,Norway,Households & NPISHs,Norway - Households and NPISHs,Q:NO:H,2018-Q3,15.1
+Quarterly,NO,Norway,Non-financial corporations,Norway - Non-financial corporations,Q:NO:N,2018-Q3,46.5
+Quarterly,NO,Norway,Private non-financial sector,Norway - Private non-financial sector,Q:NO:P,2018-Q3,25.9
+Quarterly,PL,Poland,Private non-financial sector,Poland - Private non-financial sector,Q:PL:P,2018-Q3,7.2
+Quarterly,PT,Portugal,Households & NPISHs,Portugal - Households and NPISHs,Q:PT:H,2018-Q3,6.4
+Quarterly,PT,Portugal,Non-financial corporations,Portugal - Non-financial corporations,Q:PT:N,2018-Q3,45.4
+Quarterly,PT,Portugal,Private non-financial sector,Portugal - Private non-financial sector,Q:PT:P,2018-Q3,15.2
+Quarterly,RU,Russia,Private non-financial sector,Russia - Private non-financial sector,Q:RU:P,2018-Q3,12.4
+Quarterly,SE,Sweden,Households & NPISHs,Sweden - Households and NPISHs,Q:SE:H,2018-Q3,11.5
+Quarterly,SE,Sweden,Non-financial corporations,Sweden - Non-financial corporations,Q:SE:N,2018-Q3,44.8
+Quarterly,SE,Sweden,Private non-financial sector,Sweden - Private non-financial sector,Q:SE:P,2018-Q3,22.7
+Quarterly,TH,Thailand,Private non-financial sector,Thailand - Private non-financial sector,Q:TH:P,2018-Q3,13.1
+Quarterly,TR,Turkey,Private non-financial sector,Turkey - Private non-financial sector,Q:TR:P,2018-Q3,26.9
+Quarterly,US,United States,Households & NPISHs,United States - Households and NPISHs,Q:US:H,2018-Q3,8.1
+Quarterly,US,United States,Non-financial corporations,United States - Non-financial corporations,Q:US:N,2018-Q3,38.1
+Quarterly,US,United States,Private non-financial sector,United States - Private non-financial sector,Q:US:P,2018-Q3,14.3
+Quarterly,ZA,South Africa,Private non-financial sector,South Africa - Private non-financial sector,Q:ZA:P,2018-Q3,9.0
+Quarterly,AU,Australia,Households & NPISHs,Australia - Households and NPISHs,Q:AU:H,2018-Q4,15.4
+Quarterly,AU,Australia,Non-financial corporations,Australia - Non-financial corporations,Q:AU:N,2018-Q4,45.6
+Quarterly,AU,Australia,Private non-financial sector,Australia - Private non-financial sector,Q:AU:P,2018-Q4,20.7
+Quarterly,BE,Belgium,Households & NPISHs,Belgium - Households and NPISHs,Q:BE:H,2018-Q4,7.3
+Quarterly,BE,Belgium,Non-financial corporations,Belgium - Non-financial corporations,Q:BE:N,2018-Q4,49.8
+Quarterly,BE,Belgium,Private non-financial sector,Belgium - Private non-financial sector,Q:BE:P,2018-Q4,20.3
+Quarterly,BR,Brazil,Private non-financial sector,Brazil - Private non-financial sector,Q:BR:P,2018-Q4,17.9
+Quarterly,CA,Canada,Households & NPISHs,Canada - Households and NPISHs,Q:CA:H,2018-Q4,13.6
+Quarterly,CA,Canada,Non-financial corporations,Canada - Non-financial corporations,Q:CA:N,2018-Q4,54.8
+Quarterly,CA,Canada,Private non-financial sector,Canada - Private non-financial sector,Q:CA:P,2018-Q4,24.3
+Quarterly,CH,Switzerland,Private non-financial sector,Switzerland - Private non-financial sector,Q:CH:P,2018-Q4,17.5
+Quarterly,CN,China,Private non-financial sector,China - Private non-financial sector,Q:CN:P,2018-Q4,18.9
+Quarterly,CZ,Czechia,Private non-financial sector,Czechia - Private non-financial sector,Q:CZ:P,2018-Q4,7.8
+Quarterly,DE,Germany,Households & NPISHs,Germany - Households and NPISHs,Q:DE:H,2018-Q4,6.0
+Quarterly,DE,Germany,Non-financial corporations,Germany - Non-financial corporations,Q:DE:N,2018-Q4,23.8
+Quarterly,DE,Germany,Private non-financial sector,Germany - Private non-financial sector,Q:DE:P,2018-Q4,10.8
+Quarterly,DK,Denmark,Households & NPISHs,Denmark - Households and NPISHs,Q:DK:H,2018-Q4,14.7
+Quarterly,DK,Denmark,Non-financial corporations,Denmark - Non-financial corporations,Q:DK:N,2018-Q4,41.0
+Quarterly,DK,Denmark,Private non-financial sector,Denmark - Private non-financial sector,Q:DK:P,2018-Q4,23.9
+Quarterly,ES,Spain,Households & NPISHs,Spain - Households and NPISHs,Q:ES:H,2018-Q4,6.4
+Quarterly,ES,Spain,Non-financial corporations,Spain - Non-financial corporations,Q:ES:N,2018-Q4,33.0
+Quarterly,ES,Spain,Private non-financial sector,Spain - Private non-financial sector,Q:ES:P,2018-Q4,13.7
+Quarterly,FI,Finland,Households & NPISHs,Finland - Households and NPISHs,Q:FI:H,2018-Q4,7.1
+Quarterly,FI,Finland,Non-financial corporations,Finland - Non-financial corporations,Q:FI:N,2018-Q4,37.9
+Quarterly,FI,Finland,Private non-financial sector,Finland - Private non-financial sector,Q:FI:P,2018-Q4,16.8
+Quarterly,FR,France,Households & NPISHs,France - Households and NPISHs,Q:FR:H,2018-Q4,6.4
+Quarterly,FR,France,Non-financial corporations,France - Non-financial corporations,Q:FR:N,2018-Q4,56.1
+Quarterly,FR,France,Private non-financial sector,France - Private non-financial sector,Q:FR:P,2018-Q4,19.3
+Quarterly,GB,United Kingdom,Households & NPISHs,United Kingdom - Households and NPISHs,Q:GB:H,2018-Q4,9.2
+Quarterly,GB,United Kingdom,Non-financial corporations,United Kingdom - Non-financial corporations,Q:GB:N,2018-Q4,30.8
+Quarterly,GB,United Kingdom,Private non-financial sector,United Kingdom - Private non-financial sector,Q:GB:P,2018-Q4,14.0
+Quarterly,HK,Hong Kong SAR,Private non-financial sector,Hong Kong SAR - Private non-financial sector,Q:HK:P,2018-Q4,30.4
+Quarterly,HU,Hungary,Private non-financial sector,Hungary - Private non-financial sector,Q:HU:P,2018-Q4,7.0
+Quarterly,ID,Indonesia,Private non-financial sector,Indonesia - Private non-financial sector,Q:ID:P,2018-Q4,4.7
+Quarterly,IN,India,Private non-financial sector,India - Private non-financial sector,Q:IN:P,2018-Q4,10.4
+Quarterly,IT,Italy,Households & NPISHs,Italy - Households and NPISHs,Q:IT:H,2018-Q4,4.2
+Quarterly,IT,Italy,Non-financial corporations,Italy - Non-financial corporations,Q:IT:N,2018-Q4,30.0
+Quarterly,IT,Italy,Private non-financial sector,Italy - Private non-financial sector,Q:IT:P,2018-Q4,10.0
+Quarterly,JP,Japan,Households & NPISHs,Japan - Households and NPISHs,Q:JP:H,2018-Q4,7.2
+Quarterly,JP,Japan,Non-financial corporations,Japan - Non-financial corporations,Q:JP:N,2018-Q4,30.8
+Quarterly,JP,Japan,Private non-financial sector,Japan - Private non-financial sector,Q:JP:P,2018-Q4,14.2
+Quarterly,KR,Korea,Households & NPISHs,Korea - Households and NPISHs,Q:KR:H,2018-Q4,12.1
+Quarterly,KR,Korea,Non-financial corporations,Korea - Non-financial corporations,Q:KR:N,2018-Q4,35.8
+Quarterly,KR,Korea,Private non-financial sector,Korea - Private non-financial sector,Q:KR:P,2018-Q4,19.3
+Quarterly,MX,Mexico,Private non-financial sector,Mexico - Private non-financial sector,Q:MX:P,2018-Q4,5.2
+Quarterly,MY,Malaysia,Private non-financial sector,Malaysia - Private non-financial sector,Q:MY:P,2018-Q4,13.4
+Quarterly,NL,Netherlands,Households & NPISHs,Netherlands - Households and NPISHs,Q:NL:H,2018-Q4,15.5
+Quarterly,NL,Netherlands,Non-financial corporations,Netherlands - Non-financial corporations,Q:NL:N,2018-Q4,43.5
+Quarterly,NL,Netherlands,Private non-financial sector,Netherlands - Private non-financial sector,Q:NL:P,2018-Q4,25.9
+Quarterly,NO,Norway,Households & NPISHs,Norway - Households and NPISHs,Q:NO:H,2018-Q4,15.2
+Quarterly,NO,Norway,Non-financial corporations,Norway - Non-financial corporations,Q:NO:N,2018-Q4,46.3
+Quarterly,NO,Norway,Private non-financial sector,Norway - Private non-financial sector,Q:NO:P,2018-Q4,25.9
+Quarterly,PL,Poland,Private non-financial sector,Poland - Private non-financial sector,Q:PL:P,2018-Q4,7.2
+Quarterly,PT,Portugal,Households & NPISHs,Portugal - Households and NPISHs,Q:PT:H,2018-Q4,6.4
+Quarterly,PT,Portugal,Non-financial corporations,Portugal - Non-financial corporations,Q:PT:N,2018-Q4,45.0
+Quarterly,PT,Portugal,Private non-financial sector,Portugal - Private non-financial sector,Q:PT:P,2018-Q4,15.0
+Quarterly,RU,Russia,Private non-financial sector,Russia - Private non-financial sector,Q:RU:P,2018-Q4,12.4
+Quarterly,SE,Sweden,Households & NPISHs,Sweden - Households and NPISHs,Q:SE:H,2018-Q4,11.5
+Quarterly,SE,Sweden,Non-financial corporations,Sweden - Non-financial corporations,Q:SE:N,2018-Q4,43.5
+Quarterly,SE,Sweden,Private non-financial sector,Sweden - Private non-financial sector,Q:SE:P,2018-Q4,22.2
+Quarterly,TH,Thailand,Private non-financial sector,Thailand - Private non-financial sector,Q:TH:P,2018-Q4,13.2
+Quarterly,TR,Turkey,Private non-financial sector,Turkey - Private non-financial sector,Q:TR:P,2018-Q4,26.6
+Quarterly,US,United States,Households & NPISHs,United States - Households and NPISHs,Q:US:H,2018-Q4,8.1
+Quarterly,US,United States,Non-financial corporations,United States - Non-financial corporations,Q:US:N,2018-Q4,37.7
+Quarterly,US,United States,Private non-financial sector,United States - Private non-financial sector,Q:US:P,2018-Q4,14.3
+Quarterly,ZA,South Africa,Private non-financial sector,South Africa - Private non-financial sector,Q:ZA:P,2018-Q4,8.9
+Quarterly,AU,Australia,Households & NPISHs,Australia - Households and NPISHs,Q:AU:H,2019-Q1,15.3
+Quarterly,AU,Australia,Non-financial corporations,Australia - Non-financial corporations,Q:AU:N,2019-Q1,44.5
+Quarterly,AU,Australia,Private non-financial sector,Australia - Private non-financial sector,Q:AU:P,2019-Q1,20.6
+Quarterly,BE,Belgium,Households & NPISHs,Belgium - Households and NPISHs,Q:BE:H,2019-Q1,7.3
+Quarterly,BE,Belgium,Non-financial corporations,Belgium - Non-financial corporations,Q:BE:N,2019-Q1,48.3
+Quarterly,BE,Belgium,Private non-financial sector,Belgium - Private non-financial sector,Q:BE:P,2019-Q1,20.1
+Quarterly,BR,Brazil,Private non-financial sector,Brazil - Private non-financial sector,Q:BR:P,2019-Q1,18.5
+Quarterly,CA,Canada,Households & NPISHs,Canada - Households and NPISHs,Q:CA:H,2019-Q1,13.6
+Quarterly,CA,Canada,Non-financial corporations,Canada - Non-financial corporations,Q:CA:N,2019-Q1,55.2
+Quarterly,CA,Canada,Private non-financial sector,Canada - Private non-financial sector,Q:CA:P,2019-Q1,24.4
+Quarterly,CH,Switzerland,Private non-financial sector,Switzerland - Private non-financial sector,Q:CH:P,2019-Q1,17.8
+Quarterly,CN,China,Private non-financial sector,China - Private non-financial sector,Q:CN:P,2019-Q1,19.3
+Quarterly,CZ,Czechia,Private non-financial sector,Czechia - Private non-financial sector,Q:CZ:P,2019-Q1,7.8
+Quarterly,DE,Germany,Households & NPISHs,Germany - Households and NPISHs,Q:DE:H,2019-Q1,6.0
+Quarterly,DE,Germany,Non-financial corporations,Germany - Non-financial corporations,Q:DE:N,2019-Q1,24.1
+Quarterly,DE,Germany,Private non-financial sector,Germany - Private non-financial sector,Q:DE:P,2019-Q1,10.9
+Quarterly,DK,Denmark,Households & NPISHs,Denmark - Households and NPISHs,Q:DK:H,2019-Q1,14.6
+Quarterly,DK,Denmark,Non-financial corporations,Denmark - Non-financial corporations,Q:DK:N,2019-Q1,42.5
+Quarterly,DK,Denmark,Private non-financial sector,Denmark - Private non-financial sector,Q:DK:P,2019-Q1,24.4
+Quarterly,ES,Spain,Households & NPISHs,Spain - Households and NPISHs,Q:ES:H,2019-Q1,6.2
+Quarterly,ES,Spain,Non-financial corporations,Spain - Non-financial corporations,Q:ES:N,2019-Q1,33.3
+Quarterly,ES,Spain,Private non-financial sector,Spain - Private non-financial sector,Q:ES:P,2019-Q1,13.6
+Quarterly,FI,Finland,Households & NPISHs,Finland - Households and NPISHs,Q:FI:H,2019-Q1,7.1
+Quarterly,FI,Finland,Non-financial corporations,Finland - Non-financial corporations,Q:FI:N,2019-Q1,37.9
+Quarterly,FI,Finland,Private non-financial sector,Finland - Private non-financial sector,Q:FI:P,2019-Q1,16.9
+Quarterly,FR,France,Households & NPISHs,France - Households and NPISHs,Q:FR:H,2019-Q1,6.3
+Quarterly,FR,France,Non-financial corporations,France - Non-financial corporations,Q:FR:N,2019-Q1,56.5
+Quarterly,FR,France,Private non-financial sector,France - Private non-financial sector,Q:FR:P,2019-Q1,19.4
+Quarterly,GB,United Kingdom,Households & NPISHs,United Kingdom - Households and NPISHs,Q:GB:H,2019-Q1,9.0
+Quarterly,GB,United Kingdom,Non-financial corporations,United Kingdom - Non-financial corporations,Q:GB:N,2019-Q1,30.0
+Quarterly,GB,United Kingdom,Private non-financial sector,United Kingdom - Private non-financial sector,Q:GB:P,2019-Q1,13.7
+Quarterly,HK,Hong Kong SAR,Private non-financial sector,Hong Kong SAR - Private non-financial sector,Q:HK:P,2019-Q1,30.5
+Quarterly,HU,Hungary,Private non-financial sector,Hungary - Private non-financial sector,Q:HU:P,2019-Q1,6.9
+Quarterly,ID,Indonesia,Private non-financial sector,Indonesia - Private non-financial sector,Q:ID:P,2019-Q1,4.7
+Quarterly,IN,India,Private non-financial sector,India - Private non-financial sector,Q:IN:P,2019-Q1,10.5
+Quarterly,IT,Italy,Households & NPISHs,Italy - Households and NPISHs,Q:IT:H,2019-Q1,4.3
+Quarterly,IT,Italy,Non-financial corporations,Italy - Non-financial corporations,Q:IT:N,2019-Q1,29.9
+Quarterly,IT,Italy,Private non-financial sector,Italy - Private non-financial sector,Q:IT:P,2019-Q1,10.0
+Quarterly,JP,Japan,Households & NPISHs,Japan - Households and NPISHs,Q:JP:H,2019-Q1,7.2
+Quarterly,JP,Japan,Non-financial corporations,Japan - Non-financial corporations,Q:JP:N,2019-Q1,31.3
+Quarterly,JP,Japan,Private non-financial sector,Japan - Private non-financial sector,Q:JP:P,2019-Q1,14.3
+Quarterly,KR,Korea,Households & NPISHs,Korea - Households and NPISHs,Q:KR:H,2019-Q1,12.1
+Quarterly,KR,Korea,Non-financial corporations,Korea - Non-financial corporations,Q:KR:N,2019-Q1,36.7
+Quarterly,KR,Korea,Private non-financial sector,Korea - Private non-financial sector,Q:KR:P,2019-Q1,19.5
+Quarterly,MX,Mexico,Private non-financial sector,Mexico - Private non-financial sector,Q:MX:P,2019-Q1,5.3
+Quarterly,MY,Malaysia,Private non-financial sector,Malaysia - Private non-financial sector,Q:MY:P,2019-Q1,13.4
+Quarterly,NL,Netherlands,Households & NPISHs,Netherlands - Households and NPISHs,Q:NL:H,2019-Q1,15.4
+Quarterly,NL,Netherlands,Non-financial corporations,Netherlands - Non-financial corporations,Q:NL:N,2019-Q1,44.6
+Quarterly,NL,Netherlands,Private non-financial sector,Netherlands - Private non-financial sector,Q:NL:P,2019-Q1,26.0
+Quarterly,NO,Norway,Households & NPISHs,Norway - Households and NPISHs,Q:NO:H,2019-Q1,15.3
+Quarterly,NO,Norway,Non-financial corporations,Norway - Non-financial corporations,Q:NO:N,2019-Q1,47.2
+Quarterly,NO,Norway,Private non-financial sector,Norway - Private non-financial sector,Q:NO:P,2019-Q1,26.2
+Quarterly,PL,Poland,Private non-financial sector,Poland - Private non-financial sector,Q:PL:P,2019-Q1,7.1
+Quarterly,PT,Portugal,Households & NPISHs,Portugal - Households and NPISHs,Q:PT:H,2019-Q1,6.3
+Quarterly,PT,Portugal,Non-financial corporations,Portugal - Non-financial corporations,Q:PT:N,2019-Q1,45.4
+Quarterly,PT,Portugal,Private non-financial sector,Portugal - Private non-financial sector,Q:PT:P,2019-Q1,14.9
+Quarterly,RU,Russia,Private non-financial sector,Russia - Private non-financial sector,Q:RU:P,2019-Q1,12.3
+Quarterly,SE,Sweden,Households & NPISHs,Sweden - Households and NPISHs,Q:SE:H,2019-Q1,11.5
+Quarterly,SE,Sweden,Non-financial corporations,Sweden - Non-financial corporations,Q:SE:N,2019-Q1,44.0
+Quarterly,SE,Sweden,Private non-financial sector,Sweden - Private non-financial sector,Q:SE:P,2019-Q1,22.9
+Quarterly,TH,Thailand,Private non-financial sector,Thailand - Private non-financial sector,Q:TH:P,2019-Q1,13.2
+Quarterly,TR,Turkey,Private non-financial sector,Turkey - Private non-financial sector,Q:TR:P,2019-Q1,21.5
+Quarterly,US,United States,Households & NPISHs,United States - Households and NPISHs,Q:US:H,2019-Q1,8.0
+Quarterly,US,United States,Non-financial corporations,United States - Non-financial corporations,Q:US:N,2019-Q1,38.3
+Quarterly,US,United States,Private non-financial sector,United States - Private non-financial sector,Q:US:P,2019-Q1,14.3
+Quarterly,ZA,South Africa,Private non-financial sector,South Africa - Private non-financial sector,Q:ZA:P,2019-Q1,9.1
+Quarterly,AU,Australia,Households & NPISHs,Australia - Households and NPISHs,Q:AU:H,2019-Q2,15.2
+Quarterly,AU,Australia,Non-financial corporations,Australia - Non-financial corporations,Q:AU:N,2019-Q2,43.3
+Quarterly,AU,Australia,Private non-financial sector,Australia - Private non-financial sector,Q:AU:P,2019-Q2,20.4
+Quarterly,BE,Belgium,Households & NPISHs,Belgium - Households and NPISHs,Q:BE:H,2019-Q2,7.3
+Quarterly,BE,Belgium,Non-financial corporations,Belgium - Non-financial corporations,Q:BE:N,2019-Q2,46.1
+Quarterly,BE,Belgium,Private non-financial sector,Belgium - Private non-financial sector,Q:BE:P,2019-Q2,19.6
+Quarterly,BR,Brazil,Private non-financial sector,Brazil - Private non-financial sector,Q:BR:P,2019-Q2,18.8
+Quarterly,CA,Canada,Households & NPISHs,Canada - Households and NPISHs,Q:CA:H,2019-Q2,13.6
+Quarterly,CA,Canada,Non-financial corporations,Canada - Non-financial corporations,Q:CA:N,2019-Q2,55.7
+Quarterly,CA,Canada,Private non-financial sector,Canada - Private non-financial sector,Q:CA:P,2019-Q2,24.4
+Quarterly,CH,Switzerland,Private non-financial sector,Switzerland - Private non-financial sector,Q:CH:P,2019-Q2,18.1
+Quarterly,CN,China,Private non-financial sector,China - Private non-financial sector,Q:CN:P,2019-Q2,19.3
+Quarterly,CZ,Czechia,Private non-financial sector,Czechia - Private non-financial sector,Q:CZ:P,2019-Q2,7.8
+Quarterly,DE,Germany,Households & NPISHs,Germany - Households and NPISHs,Q:DE:H,2019-Q2,6.0
+Quarterly,DE,Germany,Non-financial corporations,Germany - Non-financial corporations,Q:DE:N,2019-Q2,24.5
+Quarterly,DE,Germany,Private non-financial sector,Germany - Private non-financial sector,Q:DE:P,2019-Q2,11.0
+Quarterly,DK,Denmark,Households & NPISHs,Denmark - Households and NPISHs,Q:DK:H,2019-Q2,14.5
+Quarterly,DK,Denmark,Non-financial corporations,Denmark - Non-financial corporations,Q:DK:N,2019-Q2,44.3
+Quarterly,DK,Denmark,Private non-financial sector,Denmark - Private non-financial sector,Q:DK:P,2019-Q2,24.9
+Quarterly,ES,Spain,Households & NPISHs,Spain - Households and NPISHs,Q:ES:H,2019-Q2,6.1
+Quarterly,ES,Spain,Non-financial corporations,Spain - Non-financial corporations,Q:ES:N,2019-Q2,32.8
+Quarterly,ES,Spain,Private non-financial sector,Spain - Private non-financial sector,Q:ES:P,2019-Q2,13.4
+Quarterly,FI,Finland,Households & NPISHs,Finland - Households and NPISHs,Q:FI:H,2019-Q2,7.1
+Quarterly,FI,Finland,Non-financial corporations,Finland - Non-financial corporations,Q:FI:N,2019-Q2,38.1
+Quarterly,FI,Finland,Private non-financial sector,Finland - Private non-financial sector,Q:FI:P,2019-Q2,16.8
+Quarterly,FR,France,Households & NPISHs,France - Households and NPISHs,Q:FR:H,2019-Q2,6.3
+Quarterly,FR,France,Non-financial corporations,France - Non-financial corporations,Q:FR:N,2019-Q2,55.1
+Quarterly,FR,France,Private non-financial sector,France - Private non-financial sector,Q:FR:P,2019-Q2,19.4
+Quarterly,GB,United Kingdom,Households & NPISHs,United Kingdom - Households and NPISHs,Q:GB:H,2019-Q2,9.0
+Quarterly,GB,United Kingdom,Non-financial corporations,United Kingdom - Non-financial corporations,Q:GB:N,2019-Q2,30.1
+Quarterly,GB,United Kingdom,Private non-financial sector,United Kingdom - Private non-financial sector,Q:GB:P,2019-Q2,13.8
+Quarterly,HK,Hong Kong SAR,Private non-financial sector,Hong Kong SAR - Private non-financial sector,Q:HK:P,2019-Q2,31.3
+Quarterly,HU,Hungary,Private non-financial sector,Hungary - Private non-financial sector,Q:HU:P,2019-Q2,7.0
+Quarterly,ID,Indonesia,Private non-financial sector,Indonesia - Private non-financial sector,Q:ID:P,2019-Q2,4.8
+Quarterly,IN,India,Private non-financial sector,India - Private non-financial sector,Q:IN:P,2019-Q2,10.6
+Quarterly,IT,Italy,Households & NPISHs,Italy - Households and NPISHs,Q:IT:H,2019-Q2,4.3
+Quarterly,IT,Italy,Non-financial corporations,Italy - Non-financial corporations,Q:IT:N,2019-Q2,29.4
+Quarterly,IT,Italy,Private non-financial sector,Italy - Private non-financial sector,Q:IT:P,2019-Q2,9.9
+Quarterly,JP,Japan,Households & NPISHs,Japan - Households and NPISHs,Q:JP:H,2019-Q2,7.2
+Quarterly,JP,Japan,Non-financial corporations,Japan - Non-financial corporations,Q:JP:N,2019-Q2,31.9
+Quarterly,JP,Japan,Private non-financial sector,Japan - Private non-financial sector,Q:JP:P,2019-Q2,14.3
+Quarterly,KR,Korea,Households & NPISHs,Korea - Households and NPISHs,Q:KR:H,2019-Q2,12.2
+Quarterly,KR,Korea,Non-financial corporations,Korea - Non-financial corporations,Q:KR:N,2019-Q2,37.6
+Quarterly,KR,Korea,Private non-financial sector,Korea - Private non-financial sector,Q:KR:P,2019-Q2,19.7
+Quarterly,MX,Mexico,Private non-financial sector,Mexico - Private non-financial sector,Q:MX:P,2019-Q2,5.4
+Quarterly,MY,Malaysia,Private non-financial sector,Malaysia - Private non-financial sector,Q:MY:P,2019-Q2,13.3
+Quarterly,NL,Netherlands,Households & NPISHs,Netherlands - Households and NPISHs,Q:NL:H,2019-Q2,15.2
+Quarterly,NL,Netherlands,Non-financial corporations,Netherlands - Non-financial corporations,Q:NL:N,2019-Q2,45.9
+Quarterly,NL,Netherlands,Private non-financial sector,Netherlands - Private non-financial sector,Q:NL:P,2019-Q2,26.0
+Quarterly,NO,Norway,Households & NPISHs,Norway - Households and NPISHs,Q:NO:H,2019-Q2,15.4
+Quarterly,NO,Norway,Non-financial corporations,Norway - Non-financial corporations,Q:NO:N,2019-Q2,49.5
+Quarterly,NO,Norway,Private non-financial sector,Norway - Private non-financial sector,Q:NO:P,2019-Q2,26.9
+Quarterly,PL,Poland,Private non-financial sector,Poland - Private non-financial sector,Q:PL:P,2019-Q2,7.0
+Quarterly,PT,Portugal,Households & NPISHs,Portugal - Households and NPISHs,Q:PT:H,2019-Q2,6.2
+Quarterly,PT,Portugal,Non-financial corporations,Portugal - Non-financial corporations,Q:PT:N,2019-Q2,45.5
+Quarterly,PT,Portugal,Private non-financial sector,Portugal - Private non-financial sector,Q:PT:P,2019-Q2,14.8
+Quarterly,RU,Russia,Private non-financial sector,Russia - Private non-financial sector,Q:RU:P,2019-Q2,12.1
+Quarterly,SE,Sweden,Households & NPISHs,Sweden - Households and NPISHs,Q:SE:H,2019-Q2,11.6
+Quarterly,SE,Sweden,Non-financial corporations,Sweden - Non-financial corporations,Q:SE:N,2019-Q2,47.4
+Quarterly,SE,Sweden,Private non-financial sector,Sweden - Private non-financial sector,Q:SE:P,2019-Q2,23.5
+Quarterly,TH,Thailand,Private non-financial sector,Thailand - Private non-financial sector,Q:TH:P,2019-Q2,13.2
+Quarterly,TR,Turkey,Private non-financial sector,Turkey - Private non-financial sector,Q:TR:P,2019-Q2,22.4
+Quarterly,US,United States,Households & NPISHs,United States - Households and NPISHs,Q:US:H,2019-Q2,8.0
+Quarterly,US,United States,Non-financial corporations,United States - Non-financial corporations,Q:US:N,2019-Q2,38.9
+Quarterly,US,United States,Private non-financial sector,United States - Private non-financial sector,Q:US:P,2019-Q2,14.4
+Quarterly,ZA,South Africa,Private non-financial sector,South Africa - Private non-financial sector,Q:ZA:P,2019-Q2,9.0
+Quarterly,AU,Australia,Households & NPISHs,Australia - Households and NPISHs,Q:AU:H,2019-Q3,14.8
+Quarterly,AU,Australia,Non-financial corporations,Australia - Non-financial corporations,Q:AU:N,2019-Q3,42.1
+Quarterly,AU,Australia,Private non-financial sector,Australia - Private non-financial sector,Q:AU:P,2019-Q3,19.9
+Quarterly,BE,Belgium,Households & NPISHs,Belgium - Households and NPISHs,Q:BE:H,2019-Q3,7.3
+Quarterly,BE,Belgium,Non-financial corporations,Belgium - Non-financial corporations,Q:BE:N,2019-Q3,45.2
+Quarterly,BE,Belgium,Private non-financial sector,Belgium - Private non-financial sector,Q:BE:P,2019-Q3,19.6
+Quarterly,BR,Brazil,Private non-financial sector,Brazil - Private non-financial sector,Q:BR:P,2019-Q3,18.8
+Quarterly,CA,Canada,Households & NPISHs,Canada - Households and NPISHs,Q:CA:H,2019-Q3,13.7
+Quarterly,CA,Canada,Non-financial corporations,Canada - Non-financial corporations,Q:CA:N,2019-Q3,56.2
+Quarterly,CA,Canada,Private non-financial sector,Canada - Private non-financial sector,Q:CA:P,2019-Q3,24.5
+Quarterly,CH,Switzerland,Private non-financial sector,Switzerland - Private non-financial sector,Q:CH:P,2019-Q3,18.6
+Quarterly,CN,China,Private non-financial sector,China - Private non-financial sector,Q:CN:P,2019-Q3,19.4
+Quarterly,CZ,Czechia,Private non-financial sector,Czechia - Private non-financial sector,Q:CZ:P,2019-Q3,7.7
+Quarterly,DE,Germany,Households & NPISHs,Germany - Households and NPISHs,Q:DE:H,2019-Q3,6.1
+Quarterly,DE,Germany,Non-financial corporations,Germany - Non-financial corporations,Q:DE:N,2019-Q3,24.7
+Quarterly,DE,Germany,Private non-financial sector,Germany - Private non-financial sector,Q:DE:P,2019-Q3,11.0
+Quarterly,DK,Denmark,Households & NPISHs,Denmark - Households and NPISHs,Q:DK:H,2019-Q3,14.5
+Quarterly,DK,Denmark,Non-financial corporations,Denmark - Non-financial corporations,Q:DK:N,2019-Q3,44.7
+Quarterly,DK,Denmark,Private non-financial sector,Denmark - Private non-financial sector,Q:DK:P,2019-Q3,25.0
+Quarterly,ES,Spain,Households & NPISHs,Spain - Households and NPISHs,Q:ES:H,2019-Q3,6.1
+Quarterly,ES,Spain,Non-financial corporations,Spain - Non-financial corporations,Q:ES:N,2019-Q3,33.2
+Quarterly,ES,Spain,Private non-financial sector,Spain - Private non-financial sector,Q:ES:P,2019-Q3,13.3
+Quarterly,FI,Finland,Households & NPISHs,Finland - Households and NPISHs,Q:FI:H,2019-Q3,7.0
+Quarterly,FI,Finland,Non-financial corporations,Finland - Non-financial corporations,Q:FI:N,2019-Q3,37.6
+Quarterly,FI,Finland,Private non-financial sector,Finland - Private non-financial sector,Q:FI:P,2019-Q3,16.6
+Quarterly,FR,France,Households & NPISHs,France - Households and NPISHs,Q:FR:H,2019-Q3,6.4
+Quarterly,FR,France,Non-financial corporations,France - Non-financial corporations,Q:FR:N,2019-Q3,55.2
+Quarterly,FR,France,Private non-financial sector,France - Private non-financial sector,Q:FR:P,2019-Q3,19.5
+Quarterly,GB,United Kingdom,Households & NPISHs,United Kingdom - Households and NPISHs,Q:GB:H,2019-Q3,9.1
+Quarterly,GB,United Kingdom,Non-financial corporations,United Kingdom - Non-financial corporations,Q:GB:N,2019-Q3,30.6
+Quarterly,GB,United Kingdom,Private non-financial sector,United Kingdom - Private non-financial sector,Q:GB:P,2019-Q3,14.0
+Quarterly,HK,Hong Kong SAR,Private non-financial sector,Hong Kong SAR - Private non-financial sector,Q:HK:P,2019-Q3,32.0
+Quarterly,HU,Hungary,Private non-financial sector,Hungary - Private non-financial sector,Q:HU:P,2019-Q3,6.9
+Quarterly,ID,Indonesia,Private non-financial sector,Indonesia - Private non-financial sector,Q:ID:P,2019-Q3,4.8
+Quarterly,IN,India,Private non-financial sector,India - Private non-financial sector,Q:IN:P,2019-Q3,10.9
+Quarterly,IT,Italy,Households & NPISHs,Italy - Households and NPISHs,Q:IT:H,2019-Q3,4.3
+Quarterly,IT,Italy,Non-financial corporations,Italy - Non-financial corporations,Q:IT:N,2019-Q3,29.5
+Quarterly,IT,Italy,Private non-financial sector,Italy - Private non-financial sector,Q:IT:P,2019-Q3,10.0
+Quarterly,JP,Japan,Households & NPISHs,Japan - Households and NPISHs,Q:JP:H,2019-Q3,7.3
+Quarterly,JP,Japan,Non-financial corporations,Japan - Non-financial corporations,Q:JP:N,2019-Q3,32.6
+Quarterly,JP,Japan,Private non-financial sector,Japan - Private non-financial sector,Q:JP:P,2019-Q3,14.5
+Quarterly,KR,Korea,Households & NPISHs,Korea - Households and NPISHs,Q:KR:H,2019-Q3,12.2
+Quarterly,KR,Korea,Non-financial corporations,Korea - Non-financial corporations,Q:KR:N,2019-Q3,38.2
+Quarterly,KR,Korea,Private non-financial sector,Korea - Private non-financial sector,Q:KR:P,2019-Q3,19.8
+Quarterly,MX,Mexico,Private non-financial sector,Mexico - Private non-financial sector,Q:MX:P,2019-Q3,5.5
+Quarterly,MY,Malaysia,Private non-financial sector,Malaysia - Private non-financial sector,Q:MY:P,2019-Q3,13.3
+Quarterly,NL,Netherlands,Households & NPISHs,Netherlands - Households and NPISHs,Q:NL:H,2019-Q3,15.1
+Quarterly,NL,Netherlands,Non-financial corporations,Netherlands - Non-financial corporations,Q:NL:N,2019-Q3,46.3
+Quarterly,NL,Netherlands,Private non-financial sector,Netherlands - Private non-financial sector,Q:NL:P,2019-Q3,26.0
+Quarterly,NO,Norway,Households & NPISHs,Norway - Households and NPISHs,Q:NO:H,2019-Q3,15.4
+Quarterly,NO,Norway,Non-financial corporations,Norway - Non-financial corporations,Q:NO:N,2019-Q3,52.0
+Quarterly,NO,Norway,Private non-financial sector,Norway - Private non-financial sector,Q:NO:P,2019-Q3,27.5
+Quarterly,PL,Poland,Private non-financial sector,Poland - Private non-financial sector,Q:PL:P,2019-Q3,7.0
+Quarterly,PT,Portugal,Households & NPISHs,Portugal - Households and NPISHs,Q:PT:H,2019-Q3,6.2
+Quarterly,PT,Portugal,Non-financial corporations,Portugal - Non-financial corporations,Q:PT:N,2019-Q3,45.3
+Quarterly,PT,Portugal,Private non-financial sector,Portugal - Private non-financial sector,Q:PT:P,2019-Q3,14.6
+Quarterly,RU,Russia,Private non-financial sector,Russia - Private non-financial sector,Q:RU:P,2019-Q3,11.9
+Quarterly,SE,Sweden,Households & NPISHs,Sweden - Households and NPISHs,Q:SE:H,2019-Q3,11.6
+Quarterly,SE,Sweden,Non-financial corporations,Sweden - Non-financial corporations,Q:SE:N,2019-Q3,47.3
+Quarterly,SE,Sweden,Private non-financial sector,Sweden - Private non-financial sector,Q:SE:P,2019-Q3,23.6
+Quarterly,TH,Thailand,Private non-financial sector,Thailand - Private non-financial sector,Q:TH:P,2019-Q3,13.2
+Quarterly,TR,Turkey,Private non-financial sector,Turkey - Private non-financial sector,Q:TR:P,2019-Q3,17.8
+Quarterly,US,United States,Households & NPISHs,United States - Households and NPISHs,Q:US:H,2019-Q3,7.9
+Quarterly,US,United States,Non-financial corporations,United States - Non-financial corporations,Q:US:N,2019-Q3,39.6
+Quarterly,US,United States,Private non-financial sector,United States - Private non-financial sector,Q:US:P,2019-Q3,14.4
+Quarterly,ZA,South Africa,Private non-financial sector,South Africa - Private non-financial sector,Q:ZA:P,2019-Q3,9.1
+Quarterly,AU,Australia,Households & NPISHs,Australia - Households and NPISHs,Q:AU:H,2019-Q4,14.6
+Quarterly,AU,Australia,Non-financial corporations,Australia - Non-financial corporations,Q:AU:N,2019-Q4,40.7
+Quarterly,AU,Australia,Private non-financial sector,Australia - Private non-financial sector,Q:AU:P,2019-Q4,19.6
+Quarterly,BE,Belgium,Households & NPISHs,Belgium - Households and NPISHs,Q:BE:H,2019-Q4,7.3
+Quarterly,BE,Belgium,Non-financial corporations,Belgium - Non-financial corporations,Q:BE:N,2019-Q4,43.0
+Quarterly,BE,Belgium,Private non-financial sector,Belgium - Private non-financial sector,Q:BE:P,2019-Q4,19.2
+Quarterly,BR,Brazil,Private non-financial sector,Brazil - Private non-financial sector,Q:BR:P,2019-Q4,18.1
+Quarterly,CA,Canada,Households & NPISHs,Canada - Households and NPISHs,Q:CA:H,2019-Q4,13.6
+Quarterly,CA,Canada,Non-financial corporations,Canada - Non-financial corporations,Q:CA:N,2019-Q4,55.7
+Quarterly,CA,Canada,Private non-financial sector,Canada - Private non-financial sector,Q:CA:P,2019-Q4,24.5
+Quarterly,CH,Switzerland,Private non-financial sector,Switzerland - Private non-financial sector,Q:CH:P,2019-Q4,19.1
+Quarterly,CN,China,Private non-financial sector,China - Private non-financial sector,Q:CN:P,2019-Q4,19.3
+Quarterly,CZ,Czechia,Private non-financial sector,Czechia - Private non-financial sector,Q:CZ:P,2019-Q4,7.6
+Quarterly,DE,Germany,Households & NPISHs,Germany - Households and NPISHs,Q:DE:H,2019-Q4,6.0
+Quarterly,DE,Germany,Non-financial corporations,Germany - Non-financial corporations,Q:DE:N,2019-Q4,24.7
+Quarterly,DE,Germany,Private non-financial sector,Germany - Private non-financial sector,Q:DE:P,2019-Q4,11.0
+Quarterly,DK,Denmark,Households & NPISHs,Denmark - Households and NPISHs,Q:DK:H,2019-Q4,14.2
+Quarterly,DK,Denmark,Non-financial corporations,Denmark - Non-financial corporations,Q:DK:N,2019-Q4,46.1
+Quarterly,DK,Denmark,Private non-financial sector,Denmark - Private non-financial sector,Q:DK:P,2019-Q4,25.3
+Quarterly,ES,Spain,Households & NPISHs,Spain - Households and NPISHs,Q:ES:H,2019-Q4,6.1
+Quarterly,ES,Spain,Non-financial corporations,Spain - Non-financial corporations,Q:ES:N,2019-Q4,32.4
+Quarterly,ES,Spain,Private non-financial sector,Spain - Private non-financial sector,Q:ES:P,2019-Q4,13.2
+Quarterly,FI,Finland,Households & NPISHs,Finland - Households and NPISHs,Q:FI:H,2019-Q4,7.1
+Quarterly,FI,Finland,Non-financial corporations,Finland - Non-financial corporations,Q:FI:N,2019-Q4,36.8
+Quarterly,FI,Finland,Private non-financial sector,Finland - Private non-financial sector,Q:FI:P,2019-Q4,16.5
+Quarterly,FR,France,Households & NPISHs,France - Households and NPISHs,Q:FR:H,2019-Q4,6.4
+Quarterly,FR,France,Non-financial corporations,France - Non-financial corporations,Q:FR:N,2019-Q4,54.8
+Quarterly,FR,France,Private non-financial sector,France - Private non-financial sector,Q:FR:P,2019-Q4,19.5
+Quarterly,GB,United Kingdom,Households & NPISHs,United Kingdom - Households and NPISHs,Q:GB:H,2019-Q4,9.1
+Quarterly,GB,United Kingdom,Non-financial corporations,United Kingdom - Non-financial corporations,Q:GB:N,2019-Q4,29.9
+Quarterly,GB,United Kingdom,Private non-financial sector,United Kingdom - Private non-financial sector,Q:GB:P,2019-Q4,13.8
+Quarterly,HK,Hong Kong SAR,Private non-financial sector,Hong Kong SAR - Private non-financial sector,Q:HK:P,2019-Q4,32.5
+Quarterly,HU,Hungary,Private non-financial sector,Hungary - Private non-financial sector,Q:HU:P,2019-Q4,6.9
+Quarterly,ID,Indonesia,Private non-financial sector,Indonesia - Private non-financial sector,Q:ID:P,2019-Q4,4.8
+Quarterly,IN,India,Private non-financial sector,India - Private non-financial sector,Q:IN:P,2019-Q4,11.2
+Quarterly,IT,Italy,Households & NPISHs,Italy - Households and NPISHs,Q:IT:H,2019-Q4,4.3
+Quarterly,IT,Italy,Non-financial corporations,Italy - Non-financial corporations,Q:IT:N,2019-Q4,29.2
+Quarterly,IT,Italy,Private non-financial sector,Italy - Private non-financial sector,Q:IT:P,2019-Q4,9.9
+Quarterly,JP,Japan,Households & NPISHs,Japan - Households and NPISHs,Q:JP:H,2019-Q4,7.3
+Quarterly,JP,Japan,Non-financial corporations,Japan - Non-financial corporations,Q:JP:N,2019-Q4,33.5
+Quarterly,JP,Japan,Private non-financial sector,Japan - Private non-financial sector,Q:JP:P,2019-Q4,14.7
+Quarterly,KR,Korea,Households & NPISHs,Korea - Households and NPISHs,Q:KR:H,2019-Q4,12.2
+Quarterly,KR,Korea,Non-financial corporations,Korea - Non-financial corporations,Q:KR:N,2019-Q4,38.3
+Quarterly,KR,Korea,Private non-financial sector,Korea - Private non-financial sector,Q:KR:P,2019-Q4,19.9
+Quarterly,MX,Mexico,Private non-financial sector,Mexico - Private non-financial sector,Q:MX:P,2019-Q4,5.3
+Quarterly,MY,Malaysia,Private non-financial sector,Malaysia - Private non-financial sector,Q:MY:P,2019-Q4,13.3
+Quarterly,NL,Netherlands,Households & NPISHs,Netherlands - Households and NPISHs,Q:NL:H,2019-Q4,14.8
+Quarterly,NL,Netherlands,Non-financial corporations,Netherlands - Non-financial corporations,Q:NL:N,2019-Q4,47.7
+Quarterly,NL,Netherlands,Private non-financial sector,Netherlands - Private non-financial sector,Q:NL:P,2019-Q4,25.9
+Quarterly,NO,Norway,Households & NPISHs,Norway - Households and NPISHs,Q:NO:H,2019-Q4,15.3
+Quarterly,NO,Norway,Non-financial corporations,Norway - Non-financial corporations,Q:NO:N,2019-Q4,53.8
+Quarterly,NO,Norway,Private non-financial sector,Norway - Private non-financial sector,Q:NO:P,2019-Q4,27.7
+Quarterly,PL,Poland,Private non-financial sector,Poland - Private non-financial sector,Q:PL:P,2019-Q4,6.9
+Quarterly,PT,Portugal,Households & NPISHs,Portugal - Households and NPISHs,Q:PT:H,2019-Q4,6.1
+Quarterly,PT,Portugal,Non-financial corporations,Portugal - Non-financial corporations,Q:PT:N,2019-Q4,45.3
+Quarterly,PT,Portugal,Private non-financial sector,Portugal - Private non-financial sector,Q:PT:P,2019-Q4,14.4
+Quarterly,RU,Russia,Private non-financial sector,Russia - Private non-financial sector,Q:RU:P,2019-Q4,11.4
+Quarterly,SE,Sweden,Households & NPISHs,Sweden - Households and NPISHs,Q:SE:H,2019-Q4,11.6
+Quarterly,SE,Sweden,Non-financial corporations,Sweden - Non-financial corporations,Q:SE:N,2019-Q4,46.8
+Quarterly,SE,Sweden,Private non-financial sector,Sweden - Private non-financial sector,Q:SE:P,2019-Q4,23.6
+Quarterly,TH,Thailand,Private non-financial sector,Thailand - Private non-financial sector,Q:TH:P,2019-Q4,13.2
+Quarterly,TR,Turkey,Private non-financial sector,Turkey - Private non-financial sector,Q:TR:P,2019-Q4,13.7
+Quarterly,US,United States,Households & NPISHs,United States - Households and NPISHs,Q:US:H,2019-Q4,7.9
+Quarterly,US,United States,Non-financial corporations,United States - Non-financial corporations,Q:US:N,2019-Q4,40.1
+Quarterly,US,United States,Private non-financial sector,United States - Private non-financial sector,Q:US:P,2019-Q4,14.4
+Quarterly,ZA,South Africa,Private non-financial sector,South Africa - Private non-financial sector,Q:ZA:P,2019-Q4,8.9
+Quarterly,AU,Australia,Households & NPISHs,Australia - Households and NPISHs,Q:AU:H,2020-Q1,14.5
+Quarterly,AU,Australia,Non-financial corporations,Australia - Non-financial corporations,Q:AU:N,2020-Q1,41.6
+Quarterly,AU,Australia,Private non-financial sector,Australia - Private non-financial sector,Q:AU:P,2020-Q1,19.7
+Quarterly,BE,Belgium,Households & NPISHs,Belgium - Households and NPISHs,Q:BE:H,2020-Q1,7.2
+Quarterly,BE,Belgium,Non-financial corporations,Belgium - Non-financial corporations,Q:BE:N,2020-Q1,42.6
+Quarterly,BE,Belgium,Private non-financial sector,Belgium - Private non-financial sector,Q:BE:P,2020-Q1,19.0
+Quarterly,BR,Brazil,Private non-financial sector,Brazil - Private non-financial sector,Q:BR:P,2020-Q1,19.0
+Quarterly,CA,Canada,Households & NPISHs,Canada - Households and NPISHs,Q:CA:H,2020-Q1,13.4
+Quarterly,CA,Canada,Non-financial corporations,Canada - Non-financial corporations,Q:CA:N,2020-Q1,57.4
+Quarterly,CA,Canada,Private non-financial sector,Canada - Private non-financial sector,Q:CA:P,2020-Q1,24.4
+Quarterly,CH,Switzerland,Private non-financial sector,Switzerland - Private non-financial sector,Q:CH:P,2020-Q1,19.1
+Quarterly,CN,China,Private non-financial sector,China - Private non-financial sector,Q:CN:P,2020-Q1,20.4
+Quarterly,CZ,Czechia,Private non-financial sector,Czechia - Private non-financial sector,Q:CZ:P,2020-Q1,7.7
+Quarterly,DE,Germany,Households & NPISHs,Germany - Households and NPISHs,Q:DE:H,2020-Q1,6.0
+Quarterly,DE,Germany,Non-financial corporations,Germany - Non-financial corporations,Q:DE:N,2020-Q1,25.2
+Quarterly,DE,Germany,Private non-financial sector,Germany - Private non-financial sector,Q:DE:P,2020-Q1,11.0
+Quarterly,DK,Denmark,Households & NPISHs,Denmark - Households and NPISHs,Q:DK:H,2020-Q1,13.8
+Quarterly,DK,Denmark,Non-financial corporations,Denmark - Non-financial corporations,Q:DK:N,2020-Q1,42.5
+Quarterly,DK,Denmark,Private non-financial sector,Denmark - Private non-financial sector,Q:DK:P,2020-Q1,24.2
+Quarterly,ES,Spain,Households & NPISHs,Spain - Households and NPISHs,Q:ES:H,2020-Q1,5.9
+Quarterly,ES,Spain,Non-financial corporations,Spain - Non-financial corporations,Q:ES:N,2020-Q1,33.6
+Quarterly,ES,Spain,Private non-financial sector,Spain - Private non-financial sector,Q:ES:P,2020-Q1,13.1
+Quarterly,FI,Finland,Households & NPISHs,Finland - Households and NPISHs,Q:FI:H,2020-Q1,7.1
+Quarterly,FI,Finland,Non-financial corporations,Finland - Non-financial corporations,Q:FI:N,2020-Q1,36.8
+Quarterly,FI,Finland,Private non-financial sector,Finland - Private non-financial sector,Q:FI:P,2020-Q1,16.5
+Quarterly,FR,France,Households & NPISHs,France - Households and NPISHs,Q:FR:H,2020-Q1,6.4
+Quarterly,FR,France,Non-financial corporations,France - Non-financial corporations,Q:FR:N,2020-Q1,56.7
+Quarterly,FR,France,Private non-financial sector,France - Private non-financial sector,Q:FR:P,2020-Q1,19.8
+Quarterly,GB,United Kingdom,Households & NPISHs,United Kingdom - Households and NPISHs,Q:GB:H,2020-Q1,9.0
+Quarterly,GB,United Kingdom,Non-financial corporations,United Kingdom - Non-financial corporations,Q:GB:N,2020-Q1,31.9
+Quarterly,GB,United Kingdom,Private non-financial sector,United Kingdom - Private non-financial sector,Q:GB:P,2020-Q1,14.1
+Quarterly,HK,Hong Kong SAR,Private non-financial sector,Hong Kong SAR - Private non-financial sector,Q:HK:P,2020-Q1,34.3
+Quarterly,HU,Hungary,Private non-financial sector,Hungary - Private non-financial sector,Q:HU:P,2020-Q1,7.3
+Quarterly,ID,Indonesia,Private non-financial sector,Indonesia - Private non-financial sector,Q:ID:P,2020-Q1,4.9
+Quarterly,IN,India,Private non-financial sector,India - Private non-financial sector,Q:IN:P,2020-Q1,11.3
+Quarterly,IT,Italy,Households & NPISHs,Italy - Households and NPISHs,Q:IT:H,2020-Q1,4.3
+Quarterly,IT,Italy,Non-financial corporations,Italy - Non-financial corporations,Q:IT:N,2020-Q1,30.3
+Quarterly,IT,Italy,Private non-financial sector,Italy - Private non-financial sector,Q:IT:P,2020-Q1,10.1
+Quarterly,JP,Japan,Households & NPISHs,Japan - Households and NPISHs,Q:JP:H,2020-Q1,7.3
+Quarterly,JP,Japan,Non-financial corporations,Japan - Non-financial corporations,Q:JP:N,2020-Q1,34.2
+Quarterly,JP,Japan,Private non-financial sector,Japan - Private non-financial sector,Q:JP:P,2020-Q1,14.7
+Quarterly,KR,Korea,Households & NPISHs,Korea - Households and NPISHs,Q:KR:H,2020-Q1,12.1
+Quarterly,KR,Korea,Non-financial corporations,Korea - Non-financial corporations,Q:KR:N,2020-Q1,38.8
+Quarterly,KR,Korea,Private non-financial sector,Korea - Private non-financial sector,Q:KR:P,2020-Q1,19.9
+Quarterly,MX,Mexico,Private non-financial sector,Mexico - Private non-financial sector,Q:MX:P,2020-Q1,5.8
+Quarterly,MY,Malaysia,Private non-financial sector,Malaysia - Private non-financial sector,Q:MY:P,2020-Q1,13.3
+Quarterly,NL,Netherlands,Households & NPISHs,Netherlands - Households and NPISHs,Q:NL:H,2020-Q1,14.6
+Quarterly,NL,Netherlands,Non-financial corporations,Netherlands - Non-financial corporations,Q:NL:N,2020-Q1,48.9
+Quarterly,NL,Netherlands,Private non-financial sector,Netherlands - Private non-financial sector,Q:NL:P,2020-Q1,26.0
+Quarterly,NO,Norway,Households & NPISHs,Norway - Households and NPISHs,Q:NO:H,2020-Q1,15.1
+Quarterly,NO,Norway,Non-financial corporations,Norway - Non-financial corporations,Q:NO:N,2020-Q1,56.1
+Quarterly,NO,Norway,Private non-financial sector,Norway - Private non-financial sector,Q:NO:P,2020-Q1,28.0
+Quarterly,PL,Poland,Private non-financial sector,Poland - Private non-financial sector,Q:PL:P,2020-Q1,7.1
+Quarterly,PT,Portugal,Households & NPISHs,Portugal - Households and NPISHs,Q:PT:H,2020-Q1,6.1
+Quarterly,PT,Portugal,Non-financial corporations,Portugal - Non-financial corporations,Q:PT:N,2020-Q1,45.8
+Quarterly,PT,Portugal,Private non-financial sector,Portugal - Private non-financial sector,Q:PT:P,2020-Q1,14.4
+Quarterly,RU,Russia,Private non-financial sector,Russia - Private non-financial sector,Q:RU:P,2020-Q1,12.1
+Quarterly,SE,Sweden,Households & NPISHs,Sweden - Households and NPISHs,Q:SE:H,2020-Q1,11.7
+Quarterly,SE,Sweden,Non-financial corporations,Sweden - Non-financial corporations,Q:SE:N,2020-Q1,50.2
+Quarterly,SE,Sweden,Private non-financial sector,Sweden - Private non-financial sector,Q:SE:P,2020-Q1,24.5
+Quarterly,TH,Thailand,Private non-financial sector,Thailand - Private non-financial sector,Q:TH:P,2020-Q1,13.5
+Quarterly,TR,Turkey,Private non-financial sector,Turkey - Private non-financial sector,Q:TR:P,2020-Q1,12.6
+Quarterly,US,United States,Households & NPISHs,United States - Households and NPISHs,Q:US:H,2020-Q1,7.7
+Quarterly,US,United States,Non-financial corporations,United States - Non-financial corporations,Q:US:N,2020-Q1,41.4
+Quarterly,US,United States,Private non-financial sector,United States - Private non-financial sector,Q:US:P,2020-Q1,14.5
+Quarterly,ZA,South Africa,Private non-financial sector,South Africa - Private non-financial sector,Q:ZA:P,2020-Q1,9.1
+Quarterly,AU,Australia,Households & NPISHs,Australia - Households and NPISHs,Q:AU:H,2020-Q2,14.0
+Quarterly,AU,Australia,Non-financial corporations,Australia - Non-financial corporations,Q:AU:N,2020-Q2,37.9
+Quarterly,AU,Australia,Private non-financial sector,Australia - Private non-financial sector,Q:AU:P,2020-Q2,18.7
+Quarterly,BE,Belgium,Households & NPISHs,Belgium - Households and NPISHs,Q:BE:H,2020-Q2,7.3
+Quarterly,BE,Belgium,Non-financial corporations,Belgium - Non-financial corporations,Q:BE:N,2020-Q2,44.2
+Quarterly,BE,Belgium,Private non-financial sector,Belgium - Private non-financial sector,Q:BE:P,2020-Q2,19.2
+Quarterly,BR,Brazil,Private non-financial sector,Brazil - Private non-financial sector,Q:BR:P,2020-Q2,17.9
+Quarterly,CA,Canada,Households & NPISHs,Canada - Households and NPISHs,Q:CA:H,2020-Q2,12.8
+Quarterly,CA,Canada,Non-financial corporations,Canada - Non-financial corporations,Q:CA:N,2020-Q2,60.0
+Quarterly,CA,Canada,Private non-financial sector,Canada - Private non-financial sector,Q:CA:P,2020-Q2,24.3
+Quarterly,CH,Switzerland,Private non-financial sector,Switzerland - Private non-financial sector,Q:CH:P,2020-Q2,19.7
+Quarterly,CN,China,Private non-financial sector,China - Private non-financial sector,Q:CN:P,2020-Q2,20.9
+Quarterly,CZ,Czechia,Private non-financial sector,Czechia - Private non-financial sector,Q:CZ:P,2020-Q2,7.7
+Quarterly,DE,Germany,Households & NPISHs,Germany - Households and NPISHs,Q:DE:H,2020-Q2,6.0
+Quarterly,DE,Germany,Non-financial corporations,Germany - Non-financial corporations,Q:DE:N,2020-Q2,26.7
+Quarterly,DE,Germany,Private non-financial sector,Germany - Private non-financial sector,Q:DE:P,2020-Q2,11.3
+Quarterly,DK,Denmark,Households & NPISHs,Denmark - Households and NPISHs,Q:DK:H,2020-Q2,13.9
+Quarterly,DK,Denmark,Non-financial corporations,Denmark - Non-financial corporations,Q:DK:N,2020-Q2,44.1
+Quarterly,DK,Denmark,Private non-financial sector,Denmark - Private non-financial sector,Q:DK:P,2020-Q2,24.7
+Quarterly,ES,Spain,Households & NPISHs,Spain - Households and NPISHs,Q:ES:H,2020-Q2,6.1
+Quarterly,ES,Spain,Non-financial corporations,Spain - Non-financial corporations,Q:ES:N,2020-Q2,40.1
+Quarterly,ES,Spain,Private non-financial sector,Spain - Private non-financial sector,Q:ES:P,2020-Q2,14.2
+Quarterly,FI,Finland,Households & NPISHs,Finland - Households and NPISHs,Q:FI:H,2020-Q2,7.2
+Quarterly,FI,Finland,Non-financial corporations,Finland - Non-financial corporations,Q:FI:N,2020-Q2,39.7
+Quarterly,FI,Finland,Private non-financial sector,Finland - Private non-financial sector,Q:FI:P,2020-Q2,17.1
+Quarterly,FR,France,Households & NPISHs,France - Households and NPISHs,Q:FR:H,2020-Q2,6.5
+Quarterly,FR,France,Non-financial corporations,France - Non-financial corporations,Q:FR:N,2020-Q2,66.0
+Quarterly,FR,France,Private non-financial sector,France - Private non-financial sector,Q:FR:P,2020-Q2,21.1
+Quarterly,GB,United Kingdom,Households & NPISHs,United Kingdom - Households and NPISHs,Q:GB:H,2020-Q2,8.9
+Quarterly,GB,United Kingdom,Non-financial corporations,United Kingdom - Non-financial corporations,Q:GB:N,2020-Q2,35.0
+Quarterly,GB,United Kingdom,Private non-financial sector,United Kingdom - Private non-financial sector,Q:GB:P,2020-Q2,14.4
+Quarterly,HK,Hong Kong SAR,Private non-financial sector,Hong Kong SAR - Private non-financial sector,Q:HK:P,2020-Q2,34.4
+Quarterly,HU,Hungary,Private non-financial sector,Hungary - Private non-financial sector,Q:HU:P,2020-Q2,7.5
+Quarterly,ID,Indonesia,Private non-financial sector,Indonesia - Private non-financial sector,Q:ID:P,2020-Q2,4.8
+Quarterly,IN,India,Private non-financial sector,India - Private non-financial sector,Q:IN:P,2020-Q2,11.6
+Quarterly,IT,Italy,Households & NPISHs,Italy - Households and NPISHs,Q:IT:H,2020-Q2,4.4
+Quarterly,IT,Italy,Non-financial corporations,Italy - Non-financial corporations,Q:IT:N,2020-Q2,32.7
+Quarterly,IT,Italy,Private non-financial sector,Italy - Private non-financial sector,Q:IT:P,2020-Q2,10.4
+Quarterly,JP,Japan,Households & NPISHs,Japan - Households and NPISHs,Q:JP:H,2020-Q2,7.1
+Quarterly,JP,Japan,Non-financial corporations,Japan - Non-financial corporations,Q:JP:N,2020-Q2,38.4
+Quarterly,JP,Japan,Private non-financial sector,Japan - Private non-financial sector,Q:JP:P,2020-Q2,15.3
+Quarterly,KR,Korea,Households & NPISHs,Korea - Households and NPISHs,Q:KR:H,2020-Q2,12.2
+Quarterly,KR,Korea,Non-financial corporations,Korea - Non-financial corporations,Q:KR:N,2020-Q2,39.2
+Quarterly,KR,Korea,Private non-financial sector,Korea - Private non-financial sector,Q:KR:P,2020-Q2,20.1
+Quarterly,MX,Mexico,Private non-financial sector,Mexico - Private non-financial sector,Q:MX:P,2020-Q2,5.9
+Quarterly,MY,Malaysia,Private non-financial sector,Malaysia - Private non-financial sector,Q:MY:P,2020-Q2,13.8
+Quarterly,NL,Netherlands,Households & NPISHs,Netherlands - Households and NPISHs,Q:NL:H,2020-Q2,14.6
+Quarterly,NL,Netherlands,Non-financial corporations,Netherlands - Non-financial corporations,Q:NL:N,2020-Q2,49.5
+Quarterly,NL,Netherlands,Private non-financial sector,Netherlands - Private non-financial sector,Q:NL:P,2020-Q2,26.0
+Quarterly,NO,Norway,Households & NPISHs,Norway - Households and NPISHs,Q:NO:H,2020-Q2,14.9
+Quarterly,NO,Norway,Non-financial corporations,Norway - Non-financial corporations,Q:NO:N,2020-Q2,58.9
+Quarterly,NO,Norway,Private non-financial sector,Norway - Private non-financial sector,Q:NO:P,2020-Q2,28.3
+Quarterly,PL,Poland,Private non-financial sector,Poland - Private non-financial sector,Q:PL:P,2020-Q2,7.0
+Quarterly,PT,Portugal,Households & NPISHs,Portugal - Households and NPISHs,Q:PT:H,2020-Q2,6.2
+Quarterly,PT,Portugal,Non-financial corporations,Portugal - Non-financial corporations,Q:PT:N,2020-Q2,51.4
+Quarterly,PT,Portugal,Private non-financial sector,Portugal - Private non-financial sector,Q:PT:P,2020-Q2,15.0
+Quarterly,RU,Russia,Private non-financial sector,Russia - Private non-financial sector,Q:RU:P,2020-Q2,12.1
+Quarterly,SE,Sweden,Households & NPISHs,Sweden - Households and NPISHs,Q:SE:H,2020-Q2,12.0
+Quarterly,SE,Sweden,Non-financial corporations,Sweden - Non-financial corporations,Q:SE:N,2020-Q2,51.5
+Quarterly,SE,Sweden,Private non-financial sector,Sweden - Private non-financial sector,Q:SE:P,2020-Q2,25.1
+Quarterly,TH,Thailand,Private non-financial sector,Thailand - Private non-financial sector,Q:TH:P,2020-Q2,13.9
+Quarterly,TR,Turkey,Private non-financial sector,Turkey - Private non-financial sector,Q:TR:P,2020-Q2,12.6
+Quarterly,US,United States,Households & NPISHs,United States - Households and NPISHs,Q:US:H,2020-Q2,7.4
+Quarterly,US,United States,Non-financial corporations,United States - Non-financial corporations,Q:US:N,2020-Q2,42.8
+Quarterly,US,United States,Private non-financial sector,United States - Private non-financial sector,Q:US:P,2020-Q2,14.3
+Quarterly,ZA,South Africa,Private non-financial sector,South Africa - Private non-financial sector,Q:ZA:P,2020-Q2,8.9
+Quarterly,AU,Australia,Households & NPISHs,Australia - Households and NPISHs,Q:AU:H,2020-Q3,13.7
+Quarterly,AU,Australia,Non-financial corporations,Australia - Non-financial corporations,Q:AU:N,2020-Q3,34.3
+Quarterly,AU,Australia,Private non-financial sector,Australia - Private non-financial sector,Q:AU:P,2020-Q3,17.9
+Quarterly,BE,Belgium,Households & NPISHs,Belgium - Households and NPISHs,Q:BE:H,2020-Q3,7.3
+Quarterly,BE,Belgium,Non-financial corporations,Belgium - Non-financial corporations,Q:BE:N,2020-Q3,45.6
+Quarterly,BE,Belgium,Private non-financial sector,Belgium - Private non-financial sector,Q:BE:P,2020-Q3,19.2
+Quarterly,BR,Brazil,Private non-financial sector,Brazil - Private non-financial sector,Q:BR:P,2020-Q3,16.9
+Quarterly,CA,Canada,Households & NPISHs,Canada - Households and NPISHs,Q:CA:H,2020-Q3,12.6
+Quarterly,CA,Canada,Non-financial corporations,Canada - Non-financial corporations,Q:CA:N,2020-Q3,59.1
+Quarterly,CA,Canada,Private non-financial sector,Canada - Private non-financial sector,Q:CA:P,2020-Q3,23.7
+Quarterly,CH,Switzerland,Private non-financial sector,Switzerland - Private non-financial sector,Q:CH:P,2020-Q3,20.1
+Quarterly,CN,China,Private non-financial sector,China - Private non-financial sector,Q:CN:P,2020-Q3,21.1
+Quarterly,CZ,Czechia,Private non-financial sector,Czechia - Private non-financial sector,Q:CZ:P,2020-Q3,7.7
+Quarterly,DE,Germany,Households & NPISHs,Germany - Households and NPISHs,Q:DE:H,2020-Q3,6.1
+Quarterly,DE,Germany,Non-financial corporations,Germany - Non-financial corporations,Q:DE:N,2020-Q3,26.5
+Quarterly,DE,Germany,Private non-financial sector,Germany - Private non-financial sector,Q:DE:P,2020-Q3,11.3
+Quarterly,DK,Denmark,Households & NPISHs,Denmark - Households and NPISHs,Q:DK:H,2020-Q3,13.9
+Quarterly,DK,Denmark,Non-financial corporations,Denmark - Non-financial corporations,Q:DK:N,2020-Q3,42.1
+Quarterly,DK,Denmark,Private non-financial sector,Denmark - Private non-financial sector,Q:DK:P,2020-Q3,24.0
+Quarterly,ES,Spain,Households & NPISHs,Spain - Households and NPISHs,Q:ES:H,2020-Q3,6.0
+Quarterly,ES,Spain,Non-financial corporations,Spain - Non-financial corporations,Q:ES:N,2020-Q3,40.7
+Quarterly,ES,Spain,Private non-financial sector,Spain - Private non-financial sector,Q:ES:P,2020-Q3,14.1
+Quarterly,FI,Finland,Households & NPISHs,Finland - Households and NPISHs,Q:FI:H,2020-Q3,7.3
+Quarterly,FI,Finland,Non-financial corporations,Finland - Non-financial corporations,Q:FI:N,2020-Q3,39.0
+Quarterly,FI,Finland,Private non-financial sector,Finland - Private non-financial sector,Q:FI:P,2020-Q3,17.0
+Quarterly,FR,France,Households & NPISHs,France - Households and NPISHs,Q:FR:H,2020-Q3,6.5
+Quarterly,FR,France,Non-financial corporations,France - Non-financial corporations,Q:FR:N,2020-Q3,68.3
+Quarterly,FR,France,Private non-financial sector,France - Private non-financial sector,Q:FR:P,2020-Q3,21.5
+Quarterly,GB,United Kingdom,Households & NPISHs,United Kingdom - Households and NPISHs,Q:GB:H,2020-Q3,8.9
+Quarterly,GB,United Kingdom,Non-financial corporations,United Kingdom - Non-financial corporations,Q:GB:N,2020-Q3,35.8
+Quarterly,GB,United Kingdom,Private non-financial sector,United Kingdom - Private non-financial sector,Q:GB:P,2020-Q3,14.5
+Quarterly,HK,Hong Kong SAR,Private non-financial sector,Hong Kong SAR - Private non-financial sector,Q:HK:P,2020-Q3,35.7
+Quarterly,HU,Hungary,Private non-financial sector,Hungary - Private non-financial sector,Q:HU:P,2020-Q3,7.7
+Quarterly,ID,Indonesia,Private non-financial sector,Indonesia - Private non-financial sector,Q:ID:P,2020-Q3,4.8
+Quarterly,IN,India,Private non-financial sector,India - Private non-financial sector,Q:IN:P,2020-Q3,11.5
+Quarterly,IT,Italy,Households & NPISHs,Italy - Households and NPISHs,Q:IT:H,2020-Q3,4.4
+Quarterly,IT,Italy,Non-financial corporations,Italy - Non-financial corporations,Q:IT:N,2020-Q3,33.8
+Quarterly,IT,Italy,Private non-financial sector,Italy - Private non-financial sector,Q:IT:P,2020-Q3,10.6
+Quarterly,JP,Japan,Households & NPISHs,Japan - Households and NPISHs,Q:JP:H,2020-Q3,7.1
+Quarterly,JP,Japan,Non-financial corporations,Japan - Non-financial corporations,Q:JP:N,2020-Q3,39.4
+Quarterly,JP,Japan,Private non-financial sector,Japan - Private non-financial sector,Q:JP:P,2020-Q3,15.4
+Quarterly,KR,Korea,Households & NPISHs,Korea - Households and NPISHs,Q:KR:H,2020-Q3,12.3
+Quarterly,KR,Korea,Non-financial corporations,Korea - Non-financial corporations,Q:KR:N,2020-Q3,39.1
+Quarterly,KR,Korea,Private non-financial sector,Korea - Private non-financial sector,Q:KR:P,2020-Q3,20.2
+Quarterly,MX,Mexico,Private non-financial sector,Mexico - Private non-financial sector,Q:MX:P,2020-Q3,5.7
+Quarterly,MY,Malaysia,Private non-financial sector,Malaysia - Private non-financial sector,Q:MY:P,2020-Q3,13.8
+Quarterly,NL,Netherlands,Households & NPISHs,Netherlands - Households and NPISHs,Q:NL:H,2020-Q3,14.4
+Quarterly,NL,Netherlands,Non-financial corporations,Netherlands - Non-financial corporations,Q:NL:N,2020-Q3,51.2
+Quarterly,NL,Netherlands,Private non-financial sector,Netherlands - Private non-financial sector,Q:NL:P,2020-Q3,26.1
+Quarterly,NO,Norway,Households & NPISHs,Norway - Households and NPISHs,Q:NO:H,2020-Q3,14.8
+Quarterly,NO,Norway,Non-financial corporations,Norway - Non-financial corporations,Q:NO:N,2020-Q3,60.1
+Quarterly,NO,Norway,Private non-financial sector,Norway - Private non-financial sector,Q:NO:P,2020-Q3,28.5
+Quarterly,PL,Poland,Private non-financial sector,Poland - Private non-financial sector,Q:PL:P,2020-Q3,6.8
+Quarterly,PT,Portugal,Households & NPISHs,Portugal - Households and NPISHs,Q:PT:H,2020-Q3,6.2
+Quarterly,PT,Portugal,Non-financial corporations,Portugal - Non-financial corporations,Q:PT:N,2020-Q3,50.6
+Quarterly,PT,Portugal,Private non-financial sector,Portugal - Private non-financial sector,Q:PT:P,2020-Q3,15.0
+Quarterly,RU,Russia,Private non-financial sector,Russia - Private non-financial sector,Q:RU:P,2020-Q3,11.9
+Quarterly,SE,Sweden,Households & NPISHs,Sweden - Households and NPISHs,Q:SE:H,2020-Q3,12.1
+Quarterly,SE,Sweden,Non-financial corporations,Sweden - Non-financial corporations,Q:SE:N,2020-Q3,50.6
+Quarterly,SE,Sweden,Private non-financial sector,Sweden - Private non-financial sector,Q:SE:P,2020-Q3,25.1
+Quarterly,TH,Thailand,Private non-financial sector,Thailand - Private non-financial sector,Q:TH:P,2020-Q3,14.2
+Quarterly,TR,Turkey,Private non-financial sector,Turkey - Private non-financial sector,Q:TR:P,2020-Q3,14.6
+Quarterly,US,United States,Households & NPISHs,United States - Households and NPISHs,Q:US:H,2020-Q3,7.3
+Quarterly,US,United States,Non-financial corporations,United States - Non-financial corporations,Q:US:N,2020-Q3,42.5
+Quarterly,US,United States,Private non-financial sector,United States - Private non-financial sector,Q:US:P,2020-Q3,14.0
+Quarterly,ZA,South Africa,Private non-financial sector,South Africa - Private non-financial sector,Q:ZA:P,2020-Q3,8.4
+Quarterly,AU,Australia,Households & NPISHs,Australia - Households and NPISHs,Q:AU:H,2020-Q4,13.5
+Quarterly,AU,Australia,Non-financial corporations,Australia - Non-financial corporations,Q:AU:N,2020-Q4,32.1
+Quarterly,AU,Australia,Private non-financial sector,Australia - Private non-financial sector,Q:AU:P,2020-Q4,17.3
+Quarterly,BE,Belgium,Households & NPISHs,Belgium - Households and NPISHs,Q:BE:H,2020-Q4,7.3
+Quarterly,BE,Belgium,Non-financial corporations,Belgium - Non-financial corporations,Q:BE:N,2020-Q4,48.1
+Quarterly,BE,Belgium,Private non-financial sector,Belgium - Private non-financial sector,Q:BE:P,2020-Q4,19.7
+Quarterly,BR,Brazil,Private non-financial sector,Brazil - Private non-financial sector,Q:BR:P,2020-Q4,16.7
+Quarterly,CA,Canada,Households & NPISHs,Canada - Households and NPISHs,Q:CA:H,2020-Q4,12.6
+Quarterly,CA,Canada,Non-financial corporations,Canada - Non-financial corporations,Q:CA:N,2020-Q4,58.3
+Quarterly,CA,Canada,Private non-financial sector,Canada - Private non-financial sector,Q:CA:P,2020-Q4,23.6
+Quarterly,CH,Switzerland,Private non-financial sector,Switzerland - Private non-financial sector,Q:CH:P,2020-Q4,19.8
+Quarterly,CN,China,Private non-financial sector,China - Private non-financial sector,Q:CN:P,2020-Q4,20.8
+Quarterly,CZ,Czechia,Private non-financial sector,Czechia - Private non-financial sector,Q:CZ:P,2020-Q4,7.6
+Quarterly,DE,Germany,Households & NPISHs,Germany - Households and NPISHs,Q:DE:H,2020-Q4,6.1
+Quarterly,DE,Germany,Non-financial corporations,Germany - Non-financial corporations,Q:DE:N,2020-Q4,26.2
+Quarterly,DE,Germany,Private non-financial sector,Germany - Private non-financial sector,Q:DE:P,2020-Q4,11.3
+Quarterly,DK,Denmark,Households & NPISHs,Denmark - Households and NPISHs,Q:DK:H,2020-Q4,14.2
+Quarterly,DK,Denmark,Non-financial corporations,Denmark - Non-financial corporations,Q:DK:N,2020-Q4,42.2
+Quarterly,DK,Denmark,Private non-financial sector,Denmark - Private non-financial sector,Q:DK:P,2020-Q4,24.3
+Quarterly,ES,Spain,Households & NPISHs,Spain - Households and NPISHs,Q:ES:H,2020-Q4,6.3
+Quarterly,ES,Spain,Non-financial corporations,Spain - Non-financial corporations,Q:ES:N,2020-Q4,43.0
+Quarterly,ES,Spain,Private non-financial sector,Spain - Private non-financial sector,Q:ES:P,2020-Q4,14.7
+Quarterly,FI,Finland,Households & NPISHs,Finland - Households and NPISHs,Q:FI:H,2020-Q4,7.3
+Quarterly,FI,Finland,Non-financial corporations,Finland - Non-financial corporations,Q:FI:N,2020-Q4,38.1
+Quarterly,FI,Finland,Private non-financial sector,Finland - Private non-financial sector,Q:FI:P,2020-Q4,16.9
+Quarterly,FR,France,Households & NPISHs,France - Households and NPISHs,Q:FR:H,2020-Q4,6.6
+Quarterly,FR,France,Non-financial corporations,France - Non-financial corporations,Q:FR:N,2020-Q4,68.1
+Quarterly,FR,France,Private non-financial sector,France - Private non-financial sector,Q:FR:P,2020-Q4,21.6
+Quarterly,GB,United Kingdom,Households & NPISHs,United Kingdom - Households and NPISHs,Q:GB:H,2020-Q4,9.1
+Quarterly,GB,United Kingdom,Non-financial corporations,United Kingdom - Non-financial corporations,Q:GB:N,2020-Q4,36.3
+Quarterly,GB,United Kingdom,Private non-financial sector,United Kingdom - Private non-financial sector,Q:GB:P,2020-Q4,14.7
+Quarterly,HK,Hong Kong SAR,Private non-financial sector,Hong Kong SAR - Private non-financial sector,Q:HK:P,2020-Q4,34.4
+Quarterly,HU,Hungary,Private non-financial sector,Hungary - Private non-financial sector,Q:HU:P,2020-Q4,7.9
+Quarterly,ID,Indonesia,Private non-financial sector,Indonesia - Private non-financial sector,Q:ID:P,2020-Q4,4.6
+Quarterly,IN,India,Private non-financial sector,India - Private non-financial sector,Q:IN:P,2020-Q4,11.2
+Quarterly,IT,Italy,Households & NPISHs,Italy - Households and NPISHs,Q:IT:H,2020-Q4,4.4
+Quarterly,IT,Italy,Non-financial corporations,Italy - Non-financial corporations,Q:IT:N,2020-Q4,34.2
+Quarterly,IT,Italy,Private non-financial sector,Italy - Private non-financial sector,Q:IT:P,2020-Q4,10.6
+Quarterly,JP,Japan,Households & NPISHs,Japan - Households and NPISHs,Q:JP:H,2020-Q4,7.2
+Quarterly,JP,Japan,Non-financial corporations,Japan - Non-financial corporations,Q:JP:N,2020-Q4,39.6
+Quarterly,JP,Japan,Private non-financial sector,Japan - Private non-financial sector,Q:JP:P,2020-Q4,15.5
+Quarterly,KR,Korea,Households & NPISHs,Korea - Households and NPISHs,Q:KR:H,2020-Q4,12.5
+Quarterly,KR,Korea,Non-financial corporations,Korea - Non-financial corporations,Q:KR:N,2020-Q4,38.6
+Quarterly,KR,Korea,Private non-financial sector,Korea - Private non-financial sector,Q:KR:P,2020-Q4,20.2
+Quarterly,MX,Mexico,Private non-financial sector,Mexico - Private non-financial sector,Q:MX:P,2020-Q4,5.3
+Quarterly,MY,Malaysia,Private non-financial sector,Malaysia - Private non-financial sector,Q:MY:P,2020-Q4,13.9
+Quarterly,NL,Netherlands,Households & NPISHs,Netherlands - Households and NPISHs,Q:NL:H,2020-Q4,14.3
+Quarterly,NL,Netherlands,Non-financial corporations,Netherlands - Non-financial corporations,Q:NL:N,2020-Q4,49.6
+Quarterly,NL,Netherlands,Private non-financial sector,Netherlands - Private non-financial sector,Q:NL:P,2020-Q4,25.4
+Quarterly,NO,Norway,Households & NPISHs,Norway - Households and NPISHs,Q:NO:H,2020-Q4,14.8
+Quarterly,NO,Norway,Non-financial corporations,Norway - Non-financial corporations,Q:NO:N,2020-Q4,60.8
+Quarterly,NO,Norway,Private non-financial sector,Norway - Private non-financial sector,Q:NO:P,2020-Q4,28.7
+Quarterly,PL,Poland,Private non-financial sector,Poland - Private non-financial sector,Q:PL:P,2020-Q4,6.7
+Quarterly,PT,Portugal,Households & NPISHs,Portugal - Households and NPISHs,Q:PT:H,2020-Q4,6.3
+Quarterly,PT,Portugal,Non-financial corporations,Portugal - Non-financial corporations,Q:PT:N,2020-Q4,51.6
+Quarterly,PT,Portugal,Private non-financial sector,Portugal - Private non-financial sector,Q:PT:P,2020-Q4,15.1
+Quarterly,RU,Russia,Private non-financial sector,Russia - Private non-financial sector,Q:RU:P,2020-Q4,12.1
+Quarterly,SE,Sweden,Households & NPISHs,Sweden - Households and NPISHs,Q:SE:H,2020-Q4,12.2
+Quarterly,SE,Sweden,Non-financial corporations,Sweden - Non-financial corporations,Q:SE:N,2020-Q4,47.2
+Quarterly,SE,Sweden,Private non-financial sector,Sweden - Private non-financial sector,Q:SE:P,2020-Q4,24.5
+Quarterly,TH,Thailand,Private non-financial sector,Thailand - Private non-financial sector,Q:TH:P,2020-Q4,14.5
+Quarterly,TR,Turkey,Private non-financial sector,Turkey - Private non-financial sector,Q:TR:P,2020-Q4,17.4
+Quarterly,US,United States,Households & NPISHs,United States - Households and NPISHs,Q:US:H,2020-Q4,7.3
+Quarterly,US,United States,Non-financial corporations,United States - Non-financial corporations,Q:US:N,2020-Q4,42.5
+Quarterly,US,United States,Private non-financial sector,United States - Private non-financial sector,Q:US:P,2020-Q4,13.9
+Quarterly,ZA,South Africa,Private non-financial sector,South Africa - Private non-financial sector,Q:ZA:P,2020-Q4,8.1
+Quarterly,AU,Australia,Households & NPISHs,Australia - Households and NPISHs,Q:AU:H,2021-Q1,13.3
+Quarterly,AU,Australia,Non-financial corporations,Australia - Non-financial corporations,Q:AU:N,2021-Q1,30.9
+Quarterly,AU,Australia,Private non-financial sector,Australia - Private non-financial sector,Q:AU:P,2021-Q1,17.0
+Quarterly,BE,Belgium,Households & NPISHs,Belgium - Households and NPISHs,Q:BE:H,2021-Q1,7.4
+Quarterly,BE,Belgium,Non-financial corporations,Belgium - Non-financial corporations,Q:BE:N,2021-Q1,49.0
+Quarterly,BE,Belgium,Private non-financial sector,Belgium - Private non-financial sector,Q:BE:P,2021-Q1,19.9
+Quarterly,BR,Brazil,Private non-financial sector,Brazil - Private non-financial sector,Q:BR:P,2021-Q1,17.9
+Quarterly,CA,Canada,Households & NPISHs,Canada - Households and NPISHs,Q:CA:H,2021-Q1,12.4
+Quarterly,CA,Canada,Non-financial corporations,Canada - Non-financial corporations,Q:CA:N,2021-Q1,55.2
+Quarterly,CA,Canada,Private non-financial sector,Canada - Private non-financial sector,Q:CA:P,2021-Q1,23.0
+Quarterly,CH,Switzerland,Private non-financial sector,Switzerland - Private non-financial sector,Q:CH:P,2021-Q1,20.9
+Quarterly,CN,China,Private non-financial sector,China - Private non-financial sector,Q:CN:P,2021-Q1,20.7
+Quarterly,CZ,Czechia,Private non-financial sector,Czechia - Private non-financial sector,Q:CZ:P,2021-Q1,7.6
+Quarterly,DE,Germany,Households & NPISHs,Germany - Households and NPISHs,Q:DE:H,2021-Q1,6.1
+Quarterly,DE,Germany,Non-financial corporations,Germany - Non-financial corporations,Q:DE:N,2021-Q1,26.1
+Quarterly,DE,Germany,Private non-financial sector,Germany - Private non-financial sector,Q:DE:P,2021-Q1,11.3
+Quarterly,DK,Denmark,Households & NPISHs,Denmark - Households and NPISHs,Q:DK:H,2021-Q1,14.3
+Quarterly,DK,Denmark,Non-financial corporations,Denmark - Non-financial corporations,Q:DK:N,2021-Q1,44.4
+Quarterly,DK,Denmark,Private non-financial sector,Denmark - Private non-financial sector,Q:DK:P,2021-Q1,25.0
+Quarterly,ES,Spain,Households & NPISHs,Spain - Households and NPISHs,Q:ES:H,2021-Q1,6.0
+Quarterly,ES,Spain,Non-financial corporations,Spain - Non-financial corporations,Q:ES:N,2021-Q1,43.9
+Quarterly,ES,Spain,Private non-financial sector,Spain - Private non-financial sector,Q:ES:P,2021-Q1,14.5
+Quarterly,FI,Finland,Households & NPISHs,Finland - Households and NPISHs,Q:FI:H,2021-Q1,7.2
+Quarterly,FI,Finland,Non-financial corporations,Finland - Non-financial corporations,Q:FI:N,2021-Q1,38.5
+Quarterly,FI,Finland,Private non-financial sector,Finland - Private non-financial sector,Q:FI:P,2021-Q1,17.0
+Quarterly,FR,France,Households & NPISHs,France - Households and NPISHs,Q:FR:H,2021-Q1,6.6
+Quarterly,FR,France,Non-financial corporations,France - Non-financial corporations,Q:FR:N,2021-Q1,64.6
+Quarterly,FR,France,Private non-financial sector,France - Private non-financial sector,Q:FR:P,2021-Q1,21.3
+Quarterly,GB,United Kingdom,Households & NPISHs,United Kingdom - Households and NPISHs,Q:GB:H,2021-Q1,9.2
+Quarterly,GB,United Kingdom,Non-financial corporations,United Kingdom - Non-financial corporations,Q:GB:N,2021-Q1,36.6
+Quarterly,GB,United Kingdom,Private non-financial sector,United Kingdom - Private non-financial sector,Q:GB:P,2021-Q1,14.8
+Quarterly,HK,Hong Kong SAR,Private non-financial sector,Hong Kong SAR - Private non-financial sector,Q:HK:P,2021-Q1,34.4
+Quarterly,HU,Hungary,Private non-financial sector,Hungary - Private non-financial sector,Q:HU:P,2021-Q1,8.3
+Quarterly,ID,Indonesia,Private non-financial sector,Indonesia - Private non-financial sector,Q:ID:P,2021-Q1,4.6
+Quarterly,IN,India,Private non-financial sector,India - Private non-financial sector,Q:IN:P,2021-Q1,11.1
+Quarterly,IT,Italy,Households & NPISHs,Italy - Households and NPISHs,Q:IT:H,2021-Q1,4.5
+Quarterly,IT,Italy,Non-financial corporations,Italy - Non-financial corporations,Q:IT:N,2021-Q1,33.7
+Quarterly,IT,Italy,Private non-financial sector,Italy - Private non-financial sector,Q:IT:P,2021-Q1,10.6
+Quarterly,JP,Japan,Households & NPISHs,Japan - Households and NPISHs,Q:JP:H,2021-Q1,7.2
+Quarterly,JP,Japan,Non-financial corporations,Japan - Non-financial corporations,Q:JP:N,2021-Q1,39.1
+Quarterly,JP,Japan,Private non-financial sector,Japan - Private non-financial sector,Q:JP:P,2021-Q1,15.4
+Quarterly,KR,Korea,Households & NPISHs,Korea - Households and NPISHs,Q:KR:H,2021-Q1,12.7
+Quarterly,KR,Korea,Non-financial corporations,Korea - Non-financial corporations,Q:KR:N,2021-Q1,38.6
+Quarterly,KR,Korea,Private non-financial sector,Korea - Private non-financial sector,Q:KR:P,2021-Q1,20.4
+Quarterly,MX,Mexico,Private non-financial sector,Mexico - Private non-financial sector,Q:MX:P,2021-Q1,5.2
+Quarterly,MY,Malaysia,Private non-financial sector,Malaysia - Private non-financial sector,Q:MY:P,2021-Q1,13.8
+Quarterly,NL,Netherlands,Households & NPISHs,Netherlands - Households and NPISHs,Q:NL:H,2021-Q1,14.1
+Quarterly,NL,Netherlands,Non-financial corporations,Netherlands - Non-financial corporations,Q:NL:N,2021-Q1,49.3
+Quarterly,NL,Netherlands,Private non-financial sector,Netherlands - Private non-financial sector,Q:NL:P,2021-Q1,25.2
+Quarterly,NO,Norway,Households & NPISHs,Norway - Households and NPISHs,Q:NO:H,2021-Q1,14.7
+Quarterly,NO,Norway,Non-financial corporations,Norway - Non-financial corporations,Q:NO:N,2021-Q1,59.5
+Quarterly,NO,Norway,Private non-financial sector,Norway - Private non-financial sector,Q:NO:P,2021-Q1,28.6
+Quarterly,PL,Poland,Private non-financial sector,Poland - Private non-financial sector,Q:PL:P,2021-Q1,6.6
+Quarterly,PT,Portugal,Households & NPISHs,Portugal - Households and NPISHs,Q:PT:H,2021-Q1,6.2
+Quarterly,PT,Portugal,Non-financial corporations,Portugal - Non-financial corporations,Q:PT:N,2021-Q1,51.7
+Quarterly,PT,Portugal,Private non-financial sector,Portugal - Private non-financial sector,Q:PT:P,2021-Q1,15.1
+Quarterly,RU,Russia,Private non-financial sector,Russia - Private non-financial sector,Q:RU:P,2021-Q1,11.9
+Quarterly,SE,Sweden,Households & NPISHs,Sweden - Households and NPISHs,Q:SE:H,2021-Q1,12.2
+Quarterly,SE,Sweden,Non-financial corporations,Sweden - Non-financial corporations,Q:SE:N,2021-Q1,49.0
+Quarterly,SE,Sweden,Private non-financial sector,Sweden - Private non-financial sector,Q:SE:P,2021-Q1,25.0
+Quarterly,TH,Thailand,Private non-financial sector,Thailand - Private non-financial sector,Q:TH:P,2021-Q1,14.7
+Quarterly,TR,Turkey,Private non-financial sector,Turkey - Private non-financial sector,Q:TR:P,2021-Q1,19.5
+Quarterly,US,United States,Households & NPISHs,United States - Households and NPISHs,Q:US:H,2021-Q1,7.1
+Quarterly,US,United States,Non-financial corporations,United States - Non-financial corporations,Q:US:N,2021-Q1,42.5
+Quarterly,US,United States,Private non-financial sector,United States - Private non-financial sector,Q:US:P,2021-Q1,13.6
+Quarterly,ZA,South Africa,Private non-financial sector,South Africa - Private non-financial sector,Q:ZA:P,2021-Q1,7.9
+Quarterly,AU,Australia,Households & NPISHs,Australia - Households and NPISHs,Q:AU:H,2021-Q2,13.4
+Quarterly,AU,Australia,Non-financial corporations,Australia - Non-financial corporations,Q:AU:N,2021-Q2,31.6
+Quarterly,AU,Australia,Private non-financial sector,Australia - Private non-financial sector,Q:AU:P,2021-Q2,17.2
+Quarterly,BE,Belgium,Households & NPISHs,Belgium - Households and NPISHs,Q:BE:H,2021-Q2,7.3
+Quarterly,BE,Belgium,Non-financial corporations,Belgium - Non-financial corporations,Q:BE:N,2021-Q2,47.5
+Quarterly,BE,Belgium,Private non-financial sector,Belgium - Private non-financial sector,Q:BE:P,2021-Q2,19.6
+Quarterly,BR,Brazil,Private non-financial sector,Brazil - Private non-financial sector,Q:BR:P,2021-Q2,17.2
+Quarterly,CA,Canada,Households & NPISHs,Canada - Households and NPISHs,Q:CA:H,2021-Q2,12.6
+Quarterly,CA,Canada,Non-financial corporations,Canada - Non-financial corporations,Q:CA:N,2021-Q2,52.5
+Quarterly,CA,Canada,Private non-financial sector,Canada - Private non-financial sector,Q:CA:P,2021-Q2,22.8
+Quarterly,CH,Switzerland,Private non-financial sector,Switzerland - Private non-financial sector,Q:CH:P,2021-Q2,20.7
+Quarterly,CN,China,Private non-financial sector,China - Private non-financial sector,Q:CN:P,2021-Q2,20.5
+Quarterly,CZ,Czechia,Private non-financial sector,Czechia - Private non-financial sector,Q:CZ:P,2021-Q2,7.3
+Quarterly,DE,Germany,Households & NPISHs,Germany - Households and NPISHs,Q:DE:H,2021-Q2,6.1
+Quarterly,DE,Germany,Non-financial corporations,Germany - Non-financial corporations,Q:DE:N,2021-Q2,24.6
+Quarterly,DE,Germany,Private non-financial sector,Germany - Private non-financial sector,Q:DE:P,2021-Q2,11.1
+Quarterly,DK,Denmark,Households & NPISHs,Denmark - Households and NPISHs,Q:DK:H,2021-Q2,14.3
+Quarterly,DK,Denmark,Non-financial corporations,Denmark - Non-financial corporations,Q:DK:N,2021-Q2,44.6
+Quarterly,DK,Denmark,Private non-financial sector,Denmark - Private non-financial sector,Q:DK:P,2021-Q2,25.2
+Quarterly,ES,Spain,Households & NPISHs,Spain - Households and NPISHs,Q:ES:H,2021-Q2,6.0
+Quarterly,ES,Spain,Non-financial corporations,Spain - Non-financial corporations,Q:ES:N,2021-Q2,42.9
+Quarterly,ES,Spain,Private non-financial sector,Spain - Private non-financial sector,Q:ES:P,2021-Q2,14.6
+Quarterly,FI,Finland,Households & NPISHs,Finland - Households and NPISHs,Q:FI:H,2021-Q2,7.3
+Quarterly,FI,Finland,Non-financial corporations,Finland - Non-financial corporations,Q:FI:N,2021-Q2,36.9
+Quarterly,FI,Finland,Private non-financial sector,Finland - Private non-financial sector,Q:FI:P,2021-Q2,16.9
+Quarterly,FR,France,Households & NPISHs,France - Households and NPISHs,Q:FR:H,2021-Q2,6.6
+Quarterly,FR,France,Non-financial corporations,France - Non-financial corporations,Q:FR:N,2021-Q2,57.0
+Quarterly,FR,France,Private non-financial sector,France - Private non-financial sector,Q:FR:P,2021-Q2,20.5
+Quarterly,GB,United Kingdom,Households & NPISHs,United Kingdom - Households and NPISHs,Q:GB:H,2021-Q2,9.0
+Quarterly,GB,United Kingdom,Non-financial corporations,United Kingdom - Non-financial corporations,Q:GB:N,2021-Q2,35.5
+Quarterly,GB,United Kingdom,Private non-financial sector,United Kingdom - Private non-financial sector,Q:GB:P,2021-Q2,14.4
+Quarterly,HK,Hong Kong SAR,Private non-financial sector,Hong Kong SAR - Private non-financial sector,Q:HK:P,2021-Q2,34.7
+Quarterly,HU,Hungary,Private non-financial sector,Hungary - Private non-financial sector,Q:HU:P,2021-Q2,8.1
+Quarterly,ID,Indonesia,Private non-financial sector,Indonesia - Private non-financial sector,Q:ID:P,2021-Q2,4.4
+Quarterly,IN,India,Private non-financial sector,India - Private non-financial sector,Q:IN:P,2021-Q2,10.2
+Quarterly,IT,Italy,Households & NPISHs,Italy - Households and NPISHs,Q:IT:H,2021-Q2,4.4
+Quarterly,IT,Italy,Non-financial corporations,Italy - Non-financial corporations,Q:IT:N,2021-Q2,31.4
+Quarterly,IT,Italy,Private non-financial sector,Italy - Private non-financial sector,Q:IT:P,2021-Q2,10.3
+Quarterly,JP,Japan,Households & NPISHs,Japan - Households and NPISHs,Q:JP:H,2021-Q2,7.4
+Quarterly,JP,Japan,Non-financial corporations,Japan - Non-financial corporations,Q:JP:N,2021-Q2,37.3
+Quarterly,JP,Japan,Private non-financial sector,Japan - Private non-financial sector,Q:JP:P,2021-Q2,15.6
+Quarterly,KR,Korea,Households & NPISHs,Korea - Households and NPISHs,Q:KR:H,2021-Q2,12.8
+Quarterly,KR,Korea,Non-financial corporations,Korea - Non-financial corporations,Q:KR:N,2021-Q2,38.6
+Quarterly,KR,Korea,Private non-financial sector,Korea - Private non-financial sector,Q:KR:P,2021-Q2,20.5
+Quarterly,MX,Mexico,Private non-financial sector,Mexico - Private non-financial sector,Q:MX:P,2021-Q2,4.8
+Quarterly,MY,Malaysia,Private non-financial sector,Malaysia - Private non-financial sector,Q:MY:P,2021-Q2,13.1
+Quarterly,NL,Netherlands,Households & NPISHs,Netherlands - Households and NPISHs,Q:NL:H,2021-Q2,13.8
+Quarterly,NL,Netherlands,Non-financial corporations,Netherlands - Non-financial corporations,Q:NL:N,2021-Q2,47.9
+Quarterly,NL,Netherlands,Private non-financial sector,Netherlands - Private non-financial sector,Q:NL:P,2021-Q2,24.7
+Quarterly,NO,Norway,Households & NPISHs,Norway - Households and NPISHs,Q:NO:H,2021-Q2,14.6
+Quarterly,NO,Norway,Non-financial corporations,Norway - Non-financial corporations,Q:NO:N,2021-Q2,56.9
+Quarterly,NO,Norway,Private non-financial sector,Norway - Private non-financial sector,Q:NO:P,2021-Q2,28.1
+Quarterly,PL,Poland,Private non-financial sector,Poland - Private non-financial sector,Q:PL:P,2021-Q2,6.4
+Quarterly,PT,Portugal,Households & NPISHs,Portugal - Households and NPISHs,Q:PT:H,2021-Q2,6.2
+Quarterly,PT,Portugal,Non-financial corporations,Portugal - Non-financial corporations,Q:PT:N,2021-Q2,46.7
+Quarterly,PT,Portugal,Private non-financial sector,Portugal - Private non-financial sector,Q:PT:P,2021-Q2,14.6
+Quarterly,RU,Russia,Private non-financial sector,Russia - Private non-financial sector,Q:RU:P,2021-Q2,11.7
+Quarterly,SE,Sweden,Households & NPISHs,Sweden - Households and NPISHs,Q:SE:H,2021-Q2,12.2
+Quarterly,SE,Sweden,Non-financial corporations,Sweden - Non-financial corporations,Q:SE:N,2021-Q2,46.7
+Quarterly,SE,Sweden,Private non-financial sector,Sweden - Private non-financial sector,Q:SE:P,2021-Q2,24.5
+Quarterly,TH,Thailand,Private non-financial sector,Thailand - Private non-financial sector,Q:TH:P,2021-Q2,14.4
+Quarterly,TR,Turkey,Private non-financial sector,Turkey - Private non-financial sector,Q:TR:P,2021-Q2,19.4
+Quarterly,US,United States,Households & NPISHs,United States - Households and NPISHs,Q:US:H,2021-Q2,7.2
+Quarterly,US,United States,Non-financial corporations,United States - Non-financial corporations,Q:US:N,2021-Q2,41.3
+Quarterly,US,United States,Private non-financial sector,United States - Private non-financial sector,Q:US:P,2021-Q2,13.6
+Quarterly,ZA,South Africa,Private non-financial sector,South Africa - Private non-financial sector,Q:ZA:P,2021-Q2,7.2
+Quarterly,AU,Australia,Households & NPISHs,Australia - Households and NPISHs,Q:AU:H,2021-Q3,13.5
+Quarterly,AU,Australia,Non-financial corporations,Australia - Non-financial corporations,Q:AU:N,2021-Q3,33.0
+Quarterly,AU,Australia,Private non-financial sector,Australia - Private non-financial sector,Q:AU:P,2021-Q3,17.3
+Quarterly,BE,Belgium,Households & NPISHs,Belgium - Households and NPISHs,Q:BE:H,2021-Q3,7.3
+Quarterly,BE,Belgium,Non-financial corporations,Belgium - Non-financial corporations,Q:BE:N,2021-Q3,47.7
+Quarterly,BE,Belgium,Private non-financial sector,Belgium - Private non-financial sector,Q:BE:P,2021-Q3,19.7
+Quarterly,BR,Brazil,Private non-financial sector,Brazil - Private non-financial sector,Q:BR:P,2021-Q3,18.2
+Quarterly,CA,Canada,Households & NPISHs,Canada - Households and NPISHs,Q:CA:H,2021-Q3,12.6
+Quarterly,CA,Canada,Non-financial corporations,Canada - Non-financial corporations,Q:CA:N,2021-Q3,53.1
+Quarterly,CA,Canada,Private non-financial sector,Canada - Private non-financial sector,Q:CA:P,2021-Q3,23.3
+Quarterly,CH,Switzerland,Private non-financial sector,Switzerland - Private non-financial sector,Q:CH:P,2021-Q3,20.6
+Quarterly,CN,China,Private non-financial sector,China - Private non-financial sector,Q:CN:P,2021-Q3,20.3
+Quarterly,CZ,Czechia,Private non-financial sector,Czechia - Private non-financial sector,Q:CZ:P,2021-Q3,7.2
+Quarterly,DE,Germany,Households & NPISHs,Germany - Households and NPISHs,Q:DE:H,2021-Q3,6.1
+Quarterly,DE,Germany,Non-financial corporations,Germany - Non-financial corporations,Q:DE:N,2021-Q3,24.6
+Quarterly,DE,Germany,Private non-financial sector,Germany - Private non-financial sector,Q:DE:P,2021-Q3,11.1
+Quarterly,DK,Denmark,Households & NPISHs,Denmark - Households and NPISHs,Q:DK:H,2021-Q3,14.2
+Quarterly,DK,Denmark,Non-financial corporations,Denmark - Non-financial corporations,Q:DK:N,2021-Q3,45.5
+Quarterly,DK,Denmark,Private non-financial sector,Denmark - Private non-financial sector,Q:DK:P,2021-Q3,25.6
+Quarterly,ES,Spain,Households & NPISHs,Spain - Households and NPISHs,Q:ES:H,2021-Q3,5.9
+Quarterly,ES,Spain,Non-financial corporations,Spain - Non-financial corporations,Q:ES:N,2021-Q3,42.9
+Quarterly,ES,Spain,Private non-financial sector,Spain - Private non-financial sector,Q:ES:P,2021-Q3,14.4
+Quarterly,FI,Finland,Households & NPISHs,Finland - Households and NPISHs,Q:FI:H,2021-Q3,7.2
+Quarterly,FI,Finland,Non-financial corporations,Finland - Non-financial corporations,Q:FI:N,2021-Q3,37.1
+Quarterly,FI,Finland,Private non-financial sector,Finland - Private non-financial sector,Q:FI:P,2021-Q3,16.9
+Quarterly,FR,France,Households & NPISHs,France - Households and NPISHs,Q:FR:H,2021-Q3,6.6
+Quarterly,FR,France,Non-financial corporations,France - Non-financial corporations,Q:FR:N,2021-Q3,55.4
+Quarterly,FR,France,Private non-financial sector,France - Private non-financial sector,Q:FR:P,2021-Q3,20.4
+Quarterly,GB,United Kingdom,Households & NPISHs,United Kingdom - Households and NPISHs,Q:GB:H,2021-Q3,8.9
+Quarterly,GB,United Kingdom,Non-financial corporations,United Kingdom - Non-financial corporations,Q:GB:N,2021-Q3,34.7
+Quarterly,GB,United Kingdom,Private non-financial sector,United Kingdom - Private non-financial sector,Q:GB:P,2021-Q3,14.2
+Quarterly,HK,Hong Kong SAR,Private non-financial sector,Hong Kong SAR - Private non-financial sector,Q:HK:P,2021-Q3,32.9
+Quarterly,HU,Hungary,Private non-financial sector,Hungary - Private non-financial sector,Q:HU:P,2021-Q3,8.4
+Quarterly,ID,Indonesia,Private non-financial sector,Indonesia - Private non-financial sector,Q:ID:P,2021-Q3,4.2
+Quarterly,IN,India,Private non-financial sector,India - Private non-financial sector,Q:IN:P,2021-Q3,9.7
+Quarterly,IT,Italy,Households & NPISHs,Italy - Households and NPISHs,Q:IT:H,2021-Q3,4.4
+Quarterly,IT,Italy,Non-financial corporations,Italy - Non-financial corporations,Q:IT:N,2021-Q3,30.9
+Quarterly,IT,Italy,Private non-financial sector,Italy - Private non-financial sector,Q:IT:P,2021-Q3,10.2
+Quarterly,JP,Japan,Households & NPISHs,Japan - Households and NPISHs,Q:JP:H,2021-Q3,7.5
+Quarterly,JP,Japan,Non-financial corporations,Japan - Non-financial corporations,Q:JP:N,2021-Q3,36.3
+Quarterly,JP,Japan,Private non-financial sector,Japan - Private non-financial sector,Q:JP:P,2021-Q3,15.5
+Quarterly,KR,Korea,Households & NPISHs,Korea - Households and NPISHs,Q:KR:H,2021-Q3,12.9
+Quarterly,KR,Korea,Non-financial corporations,Korea - Non-financial corporations,Q:KR:N,2021-Q3,38.9
+Quarterly,KR,Korea,Private non-financial sector,Korea - Private non-financial sector,Q:KR:P,2021-Q3,20.7
+Quarterly,MX,Mexico,Private non-financial sector,Mexico - Private non-financial sector,Q:MX:P,2021-Q3,4.7
+Quarterly,MY,Malaysia,Private non-financial sector,Malaysia - Private non-financial sector,Q:MY:P,2021-Q3,13.0
+Quarterly,NL,Netherlands,Households & NPISHs,Netherlands - Households and NPISHs,Q:NL:H,2021-Q3,13.7
+Quarterly,NL,Netherlands,Non-financial corporations,Netherlands - Non-financial corporations,Q:NL:N,2021-Q3,46.3
+Quarterly,NL,Netherlands,Private non-financial sector,Netherlands - Private non-financial sector,Q:NL:P,2021-Q3,24.3
+Quarterly,NO,Norway,Households & NPISHs,Norway - Households and NPISHs,Q:NO:H,2021-Q3,14.5
+Quarterly,NO,Norway,Non-financial corporations,Norway - Non-financial corporations,Q:NO:N,2021-Q3,54.3
+Quarterly,NO,Norway,Private non-financial sector,Norway - Private non-financial sector,Q:NO:P,2021-Q3,27.6
+Quarterly,PL,Poland,Private non-financial sector,Poland - Private non-financial sector,Q:PL:P,2021-Q3,6.3
+Quarterly,PT,Portugal,Households & NPISHs,Portugal - Households and NPISHs,Q:PT:H,2021-Q3,6.1
+Quarterly,PT,Portugal,Non-financial corporations,Portugal - Non-financial corporations,Q:PT:N,2021-Q3,47.1
+Quarterly,PT,Portugal,Private non-financial sector,Portugal - Private non-financial sector,Q:PT:P,2021-Q3,14.6
+Quarterly,RU,Russia,Private non-financial sector,Russia - Private non-financial sector,Q:RU:P,2021-Q3,12.3
+Quarterly,SE,Sweden,Households & NPISHs,Sweden - Households and NPISHs,Q:SE:H,2021-Q3,12.2
+Quarterly,SE,Sweden,Non-financial corporations,Sweden - Non-financial corporations,Q:SE:N,2021-Q3,45.8
+Quarterly,SE,Sweden,Private non-financial sector,Sweden - Private non-financial sector,Q:SE:P,2021-Q3,24.4
+Quarterly,TH,Thailand,Private non-financial sector,Thailand - Private non-financial sector,Q:TH:P,2021-Q3,14.6
+Quarterly,TR,Turkey,Private non-financial sector,Turkey - Private non-financial sector,Q:TR:P,2021-Q3,18.2
+Quarterly,US,United States,Households & NPISHs,United States - Households and NPISHs,Q:US:H,2021-Q3,7.2
+Quarterly,US,United States,Non-financial corporations,United States - Non-financial corporations,Q:US:N,2021-Q3,40.7
+Quarterly,US,United States,Private non-financial sector,United States - Private non-financial sector,Q:US:P,2021-Q3,13.5
+Quarterly,ZA,South Africa,Private non-financial sector,South Africa - Private non-financial sector,Q:ZA:P,2021-Q3,7.1
+Quarterly,AU,Australia,Households & NPISHs,Australia - Households and NPISHs,Q:AU:H,2021-Q4,13.4
+Quarterly,AU,Australia,Non-financial corporations,Australia - Non-financial corporations,Q:AU:N,2021-Q4,33.7
+Quarterly,AU,Australia,Private non-financial sector,Australia - Private non-financial sector,Q:AU:P,2021-Q4,17.4
+Quarterly,BE,Belgium,Households & NPISHs,Belgium - Households and NPISHs,Q:BE:H,2021-Q4,7.4
+Quarterly,BE,Belgium,Non-financial corporations,Belgium - Non-financial corporations,Q:BE:N,2021-Q4,46.7
+Quarterly,BE,Belgium,Private non-financial sector,Belgium - Private non-financial sector,Q:BE:P,2021-Q4,19.5
+Quarterly,BR,Brazil,Private non-financial sector,Brazil - Private non-financial sector,Q:BR:P,2021-Q4,20.7
+Quarterly,CA,Canada,Households & NPISHs,Canada - Households and NPISHs,Q:CA:H,2021-Q4,12.7
+Quarterly,CA,Canada,Non-financial corporations,Canada - Non-financial corporations,Q:CA:N,2021-Q4,52.3
+Quarterly,CA,Canada,Private non-financial sector,Canada - Private non-financial sector,Q:CA:P,2021-Q4,23.1
+Quarterly,CH,Switzerland,Private non-financial sector,Switzerland - Private non-financial sector,Q:CH:P,2021-Q4,20.1
+Quarterly,CN,China,Private non-financial sector,China - Private non-financial sector,Q:CN:P,2021-Q4,19.9
+Quarterly,CZ,Czechia,Private non-financial sector,Czechia - Private non-financial sector,Q:CZ:P,2021-Q4,7.4
+Quarterly,DE,Germany,Households & NPISHs,Germany - Households and NPISHs,Q:DE:H,2021-Q4,6.1
+Quarterly,DE,Germany,Non-financial corporations,Germany - Non-financial corporations,Q:DE:N,2021-Q4,24.8
+Quarterly,DE,Germany,Private non-financial sector,Germany - Private non-financial sector,Q:DE:P,2021-Q4,11.2
+Quarterly,DK,Denmark,Households & NPISHs,Denmark - Households and NPISHs,Q:DK:H,2021-Q4,14.0
+Quarterly,DK,Denmark,Non-financial corporations,Denmark - Non-financial corporations,Q:DK:N,2021-Q4,43.8
+Quarterly,DK,Denmark,Private non-financial sector,Denmark - Private non-financial sector,Q:DK:P,2021-Q4,24.9
+Quarterly,ES,Spain,Households & NPISHs,Spain - Households and NPISHs,Q:ES:H,2021-Q4,6.0
+Quarterly,ES,Spain,Non-financial corporations,Spain - Non-financial corporations,Q:ES:N,2021-Q4,42.4
+Quarterly,ES,Spain,Private non-financial sector,Spain - Private non-financial sector,Q:ES:P,2021-Q4,14.4
+Quarterly,FI,Finland,Households & NPISHs,Finland - Households and NPISHs,Q:FI:H,2021-Q4,7.3
+Quarterly,FI,Finland,Non-financial corporations,Finland - Non-financial corporations,Q:FI:N,2021-Q4,37.3
+Quarterly,FI,Finland,Private non-financial sector,Finland - Private non-financial sector,Q:FI:P,2021-Q4,17.0
+Quarterly,FR,France,Households & NPISHs,France - Households and NPISHs,Q:FR:H,2021-Q4,6.6
+Quarterly,FR,France,Non-financial corporations,France - Non-financial corporations,Q:FR:N,2021-Q4,55.7
+Quarterly,FR,France,Private non-financial sector,France - Private non-financial sector,Q:FR:P,2021-Q4,20.5
+Quarterly,GB,United Kingdom,Households & NPISHs,United Kingdom - Households and NPISHs,Q:GB:H,2021-Q4,8.6
+Quarterly,GB,United Kingdom,Non-financial corporations,United Kingdom - Non-financial corporations,Q:GB:N,2021-Q4,34.1
+Quarterly,GB,United Kingdom,Private non-financial sector,United Kingdom - Private non-financial sector,Q:GB:P,2021-Q4,13.9
+Quarterly,HK,Hong Kong SAR,Private non-financial sector,Hong Kong SAR - Private non-financial sector,Q:HK:P,2021-Q4,31.5
+Quarterly,HU,Hungary,Private non-financial sector,Hungary - Private non-financial sector,Q:HU:P,2021-Q4,8.9
+Quarterly,ID,Indonesia,Private non-financial sector,Indonesia - Private non-financial sector,Q:ID:P,2021-Q4,4.1
+Quarterly,IN,India,Private non-financial sector,India - Private non-financial sector,Q:IN:P,2021-Q4,9.4
+Quarterly,IT,Italy,Households & NPISHs,Italy - Households and NPISHs,Q:IT:H,2021-Q4,4.3
+Quarterly,IT,Italy,Non-financial corporations,Italy - Non-financial corporations,Q:IT:N,2021-Q4,30.9
+Quarterly,IT,Italy,Private non-financial sector,Italy - Private non-financial sector,Q:IT:P,2021-Q4,10.1
+Quarterly,JP,Japan,Households & NPISHs,Japan - Households and NPISHs,Q:JP:H,2021-Q4,7.5
+Quarterly,JP,Japan,Non-financial corporations,Japan - Non-financial corporations,Q:JP:N,2021-Q4,36.1
+Quarterly,JP,Japan,Private non-financial sector,Japan - Private non-financial sector,Q:JP:P,2021-Q4,15.6
+Quarterly,KR,Korea,Households & NPISHs,Korea - Households and NPISHs,Q:KR:H,2021-Q4,12.9
+Quarterly,KR,Korea,Non-financial corporations,Korea - Non-financial corporations,Q:KR:N,2021-Q4,39.0
+Quarterly,KR,Korea,Private non-financial sector,Korea - Private non-financial sector,Q:KR:P,2021-Q4,20.8
+Quarterly,MX,Mexico,Private non-financial sector,Mexico - Private non-financial sector,Q:MX:P,2021-Q4,4.7
+Quarterly,MY,Malaysia,Private non-financial sector,Malaysia - Private non-financial sector,Q:MY:P,2021-Q4,12.8
+Quarterly,NL,Netherlands,Households & NPISHs,Netherlands - Households and NPISHs,Q:NL:H,2021-Q4,13.6
+Quarterly,NL,Netherlands,Non-financial corporations,Netherlands - Non-financial corporations,Q:NL:N,2021-Q4,45.8
+Quarterly,NL,Netherlands,Private non-financial sector,Netherlands - Private non-financial sector,Q:NL:P,2021-Q4,24.1
+Quarterly,NO,Norway,Households & NPISHs,Norway - Households and NPISHs,Q:NO:H,2021-Q4,14.3
+Quarterly,NO,Norway,Non-financial corporations,Norway - Non-financial corporations,Q:NO:N,2021-Q4,50.2
+Quarterly,NO,Norway,Private non-financial sector,Norway - Private non-financial sector,Q:NO:P,2021-Q4,26.5
+Quarterly,PL,Poland,Private non-financial sector,Poland - Private non-financial sector,Q:PL:P,2021-Q4,6.3
+Quarterly,PT,Portugal,Households & NPISHs,Portugal - Households and NPISHs,Q:PT:H,2021-Q4,6.1
+Quarterly,PT,Portugal,Non-financial corporations,Portugal - Non-financial corporations,Q:PT:N,2021-Q4,46.0
+Quarterly,PT,Portugal,Private non-financial sector,Portugal - Private non-financial sector,Q:PT:P,2021-Q4,14.4
+Quarterly,RU,Russia,Private non-financial sector,Russia - Private non-financial sector,Q:RU:P,2021-Q4,12.5
+Quarterly,SE,Sweden,Households & NPISHs,Sweden - Households and NPISHs,Q:SE:H,2021-Q4,12.2
+Quarterly,SE,Sweden,Non-financial corporations,Sweden - Non-financial corporations,Q:SE:N,2021-Q4,45.8
+Quarterly,SE,Sweden,Private non-financial sector,Sweden - Private non-financial sector,Q:SE:P,2021-Q4,24.8
+Quarterly,TH,Thailand,Private non-financial sector,Thailand - Private non-financial sector,Q:TH:P,2021-Q4,14.5
+Quarterly,TR,Turkey,Private non-financial sector,Turkey - Private non-financial sector,Q:TR:P,2021-Q4,19.7
+Quarterly,US,United States,Households & NPISHs,United States - Households and NPISHs,Q:US:H,2021-Q4,7.2
+Quarterly,US,United States,Non-financial corporations,United States - Non-financial corporations,Q:US:N,2021-Q4,40.1
+Quarterly,US,United States,Private non-financial sector,United States - Private non-financial sector,Q:US:P,2021-Q4,13.5
+Quarterly,ZA,South Africa,Private non-financial sector,South Africa - Private non-financial sector,Q:ZA:P,2021-Q4,6.8
+Quarterly,AU,Australia,Households & NPISHs,Australia - Households and NPISHs,Q:AU:H,2022-Q1,13.4
+Quarterly,AU,Australia,Non-financial corporations,Australia - Non-financial corporations,Q:AU:N,2022-Q1,33.7
+Quarterly,AU,Australia,Private non-financial sector,Australia - Private non-financial sector,Q:AU:P,2022-Q1,17.3
+Quarterly,BE,Belgium,Households & NPISHs,Belgium - Households and NPISHs,Q:BE:H,2022-Q1,7.3
+Quarterly,BE,Belgium,Non-financial corporations,Belgium - Non-financial corporations,Q:BE:N,2022-Q1,45.4
+Quarterly,BE,Belgium,Private non-financial sector,Belgium - Private non-financial sector,Q:BE:P,2022-Q1,19.2
+Quarterly,BR,Brazil,Private non-financial sector,Brazil - Private non-financial sector,Q:BR:P,2022-Q1,21.7
+Quarterly,CA,Canada,Households & NPISHs,Canada - Households and NPISHs,Q:CA:H,2022-Q1,12.7
+Quarterly,CA,Canada,Non-financial corporations,Canada - Non-financial corporations,Q:CA:N,2022-Q1,51.6
+Quarterly,CA,Canada,Private non-financial sector,Canada - Private non-financial sector,Q:CA:P,2022-Q1,23.0
+Quarterly,CH,Switzerland,Private non-financial sector,Switzerland - Private non-financial sector,Q:CH:P,2022-Q1,20.4
+Quarterly,CN,China,Private non-financial sector,China - Private non-financial sector,Q:CN:P,2022-Q1,20.4
+Quarterly,CZ,Czechia,Private non-financial sector,Czechia - Private non-financial sector,Q:CZ:P,2022-Q1,7.7
+Quarterly,DE,Germany,Households & NPISHs,Germany - Households and NPISHs,Q:DE:H,2022-Q1,6.1
+Quarterly,DE,Germany,Non-financial corporations,Germany - Non-financial corporations,Q:DE:N,2022-Q1,24.7
+Quarterly,DE,Germany,Private non-financial sector,Germany - Private non-financial sector,Q:DE:P,2022-Q1,11.1
+Quarterly,DK,Denmark,Households & NPISHs,Denmark - Households and NPISHs,Q:DK:H,2022-Q1,13.0
+Quarterly,DK,Denmark,Non-financial corporations,Denmark - Non-financial corporations,Q:DK:N,2022-Q1,40.7
+Quarterly,DK,Denmark,Private non-financial sector,Denmark - Private non-financial sector,Q:DK:P,2022-Q1,23.3
+Quarterly,ES,Spain,Households & NPISHs,Spain - Households and NPISHs,Q:ES:H,2022-Q1,5.8
+Quarterly,ES,Spain,Non-financial corporations,Spain - Non-financial corporations,Q:ES:N,2022-Q1,40.4
+Quarterly,ES,Spain,Private non-financial sector,Spain - Private non-financial sector,Q:ES:P,2022-Q1,14.0
+Quarterly,FI,Finland,Households & NPISHs,Finland - Households and NPISHs,Q:FI:H,2022-Q1,7.3
+Quarterly,FI,Finland,Non-financial corporations,Finland - Non-financial corporations,Q:FI:N,2022-Q1,35.6
+Quarterly,FI,Finland,Private non-financial sector,Finland - Private non-financial sector,Q:FI:P,2022-Q1,16.5
+Quarterly,FR,France,Households & NPISHs,France - Households and NPISHs,Q:FR:H,2022-Q1,6.6
+Quarterly,FR,France,Non-financial corporations,France - Non-financial corporations,Q:FR:N,2022-Q1,56.3
+Quarterly,FR,France,Private non-financial sector,France - Private non-financial sector,Q:FR:P,2022-Q1,20.5
+Quarterly,GB,United Kingdom,Households & NPISHs,United Kingdom - Households and NPISHs,Q:GB:H,2022-Q1,8.5
+Quarterly,GB,United Kingdom,Non-financial corporations,United Kingdom - Non-financial corporations,Q:GB:N,2022-Q1,32.3
+Quarterly,GB,United Kingdom,Private non-financial sector,United Kingdom - Private non-financial sector,Q:GB:P,2022-Q1,13.4
+Quarterly,HK,Hong Kong SAR,Private non-financial sector,Hong Kong SAR - Private non-financial sector,Q:HK:P,2022-Q1,32.5
+Quarterly,HU,Hungary,Private non-financial sector,Hungary - Private non-financial sector,Q:HU:P,2022-Q1,9.4
+Quarterly,ID,Indonesia,Private non-financial sector,Indonesia - Private non-financial sector,Q:ID:P,2022-Q1,4.0
+Quarterly,IN,India,Private non-financial sector,India - Private non-financial sector,Q:IN:P,2022-Q1,9.6
+Quarterly,IT,Italy,Households & NPISHs,Italy - Households and NPISHs,Q:IT:H,2022-Q1,4.3
+Quarterly,IT,Italy,Non-financial corporations,Italy - Non-financial corporations,Q:IT:N,2022-Q1,30.6
+Quarterly,IT,Italy,Private non-financial sector,Italy - Private non-financial sector,Q:IT:P,2022-Q1,10.0
+Quarterly,JP,Japan,Households & NPISHs,Japan - Households and NPISHs,Q:JP:H,2022-Q1,7.5
+Quarterly,JP,Japan,Non-financial corporations,Japan - Non-financial corporations,Q:JP:N,2022-Q1,35.9
+Quarterly,JP,Japan,Private non-financial sector,Japan - Private non-financial sector,Q:JP:P,2022-Q1,15.5
+Quarterly,KR,Korea,Households & NPISHs,Korea - Households and NPISHs,Q:KR:H,2022-Q1,13.1
+Quarterly,KR,Korea,Non-financial corporations,Korea - Non-financial corporations,Q:KR:N,2022-Q1,39.7
+Quarterly,KR,Korea,Private non-financial sector,Korea - Private non-financial sector,Q:KR:P,2022-Q1,21.1
+Quarterly,MX,Mexico,Private non-financial sector,Mexico - Private non-financial sector,Q:MX:P,2022-Q1,4.7
+Quarterly,MY,Malaysia,Private non-financial sector,Malaysia - Private non-financial sector,Q:MY:P,2022-Q1,12.4
+Quarterly,NL,Netherlands,Households & NPISHs,Netherlands - Households and NPISHs,Q:NL:H,2022-Q1,13.5
+Quarterly,NL,Netherlands,Non-financial corporations,Netherlands - Non-financial corporations,Q:NL:N,2022-Q1,46.1
+Quarterly,NL,Netherlands,Private non-financial sector,Netherlands - Private non-financial sector,Q:NL:P,2022-Q1,24.0
+Quarterly,NO,Norway,Households & NPISHs,Norway - Households and NPISHs,Q:NO:H,2022-Q1,13.4
+Quarterly,NO,Norway,Non-financial corporations,Norway - Non-financial corporations,Q:NO:N,2022-Q1,46.9
+Quarterly,NO,Norway,Private non-financial sector,Norway - Private non-financial sector,Q:NO:P,2022-Q1,24.8
+Quarterly,PL,Poland,Private non-financial sector,Poland - Private non-financial sector,Q:PL:P,2022-Q1,6.3
+Quarterly,PT,Portugal,Households & NPISHs,Portugal - Households and NPISHs,Q:PT:H,2022-Q1,6.1
+Quarterly,PT,Portugal,Non-financial corporations,Portugal - Non-financial corporations,Q:PT:N,2022-Q1,44.7
+Quarterly,PT,Portugal,Private non-financial sector,Portugal - Private non-financial sector,Q:PT:P,2022-Q1,14.3
+Quarterly,RU,Russia,Private non-financial sector,Russia - Private non-financial sector,Q:RU:P,2022-Q1,15.8
+Quarterly,SE,Sweden,Households & NPISHs,Sweden - Households and NPISHs,Q:SE:H,2022-Q1,12.2
+Quarterly,SE,Sweden,Non-financial corporations,Sweden - Non-financial corporations,Q:SE:N,2022-Q1,46.1
+Quarterly,SE,Sweden,Private non-financial sector,Sweden - Private non-financial sector,Q:SE:P,2022-Q1,25.0
+Quarterly,TH,Thailand,Private non-financial sector,Thailand - Private non-financial sector,Q:TH:P,2022-Q1,14.4
+Quarterly,TR,Turkey,Private non-financial sector,Turkey - Private non-financial sector,Q:TR:P,2022-Q1,21.2
+Quarterly,US,United States,Households & NPISHs,United States - Households and NPISHs,Q:US:H,2022-Q1,7.4
+Quarterly,US,United States,Non-financial corporations,United States - Non-financial corporations,Q:US:N,2022-Q1,40.1
+Quarterly,US,United States,Private non-financial sector,United States - Private non-financial sector,Q:US:P,2022-Q1,13.9
+Quarterly,ZA,South Africa,Private non-financial sector,South Africa - Private non-financial sector,Q:ZA:P,2022-Q1,6.8
+Quarterly,AU,Australia,Households & NPISHs,Australia - Households and NPISHs,Q:AU:H,2022-Q2,13.7
+Quarterly,AU,Australia,Non-financial corporations,Australia - Non-financial corporations,Q:AU:N,2022-Q2,33.4
+Quarterly,AU,Australia,Private non-financial sector,Australia - Private non-financial sector,Q:AU:P,2022-Q2,17.7
+Quarterly,BE,Belgium,Households & NPISHs,Belgium - Households and NPISHs,Q:BE:H,2022-Q2,7.3
+Quarterly,BE,Belgium,Non-financial corporations,Belgium - Non-financial corporations,Q:BE:N,2022-Q2,44.5
+Quarterly,BE,Belgium,Private non-financial sector,Belgium - Private non-financial sector,Q:BE:P,2022-Q2,19.0
+Quarterly,BR,Brazil,Private non-financial sector,Brazil - Private non-financial sector,Q:BR:P,2022-Q2,23.7
+Quarterly,CA,Canada,Households & NPISHs,Canada - Households and NPISHs,Q:CA:H,2022-Q2,13.0
+Quarterly,CA,Canada,Non-financial corporations,Canada - Non-financial corporations,Q:CA:N,2022-Q2,49.1
+Quarterly,CA,Canada,Private non-financial sector,Canada - Private non-financial sector,Q:CA:P,2022-Q2,22.4
+Quarterly,CH,Switzerland,Private non-financial sector,Switzerland - Private non-financial sector,Q:CH:P,2022-Q2,20.5
+Quarterly,CN,China,Private non-financial sector,China - Private non-financial sector,Q:CN:P,2022-Q2,20.6
+Quarterly,CZ,Czechia,Private non-financial sector,Czechia - Private non-financial sector,Q:CZ:P,2022-Q2,8.0
+Quarterly,DE,Germany,Households & NPISHs,Germany - Households and NPISHs,Q:DE:H,2022-Q2,6.1
+Quarterly,DE,Germany,Non-financial corporations,Germany - Non-financial corporations,Q:DE:N,2022-Q2,24.8
+Quarterly,DE,Germany,Private non-financial sector,Germany - Private non-financial sector,Q:DE:P,2022-Q2,11.1
+Quarterly,DK,Denmark,Households & NPISHs,Denmark - Households and NPISHs,Q:DK:H,2022-Q2,12.4
+Quarterly,DK,Denmark,Non-financial corporations,Denmark - Non-financial corporations,Q:DK:N,2022-Q2,37.1
+Quarterly,DK,Denmark,Private non-financial sector,Denmark - Private non-financial sector,Q:DK:P,2022-Q2,22.0
+Quarterly,ES,Spain,Households & NPISHs,Spain - Households and NPISHs,Q:ES:H,2022-Q2,5.8
+Quarterly,ES,Spain,Non-financial corporations,Spain - Non-financial corporations,Q:ES:N,2022-Q2,37.5
+Quarterly,ES,Spain,Private non-financial sector,Spain - Private non-financial sector,Q:ES:P,2022-Q2,13.7
+Quarterly,FI,Finland,Households & NPISHs,Finland - Households and NPISHs,Q:FI:H,2022-Q2,7.3
+Quarterly,FI,Finland,Non-financial corporations,Finland - Non-financial corporations,Q:FI:N,2022-Q2,33.3
+Quarterly,FI,Finland,Private non-financial sector,Finland - Private non-financial sector,Q:FI:P,2022-Q2,16.2
+Quarterly,FR,France,Households & NPISHs,France - Households and NPISHs,Q:FR:H,2022-Q2,6.6
+Quarterly,FR,France,Non-financial corporations,France - Non-financial corporations,Q:FR:N,2022-Q2,57.4
+Quarterly,FR,France,Private non-financial sector,France - Private non-financial sector,Q:FR:P,2022-Q2,20.6
+Quarterly,GB,United Kingdom,Households & NPISHs,United Kingdom - Households and NPISHs,Q:GB:H,2022-Q2,8.5
+Quarterly,GB,United Kingdom,Non-financial corporations,United Kingdom - Non-financial corporations,Q:GB:N,2022-Q2,31.9
+Quarterly,GB,United Kingdom,Private non-financial sector,United Kingdom - Private non-financial sector,Q:GB:P,2022-Q2,13.3
+Quarterly,HK,Hong Kong SAR,Private non-financial sector,Hong Kong SAR - Private non-financial sector,Q:HK:P,2022-Q2,32.9
+Quarterly,HU,Hungary,Private non-financial sector,Hungary - Private non-financial sector,Q:HU:P,2022-Q2,10.3
+Quarterly,ID,Indonesia,Private non-financial sector,Indonesia - Private non-financial sector,Q:ID:P,2022-Q2,4.1
+Quarterly,IN,India,Private non-financial sector,India - Private non-financial sector,Q:IN:P,2022-Q2,9.3
+Quarterly,IT,Italy,Households & NPISHs,Italy - Households and NPISHs,Q:IT:H,2022-Q2,4.3
+Quarterly,IT,Italy,Non-financial corporations,Italy - Non-financial corporations,Q:IT:N,2022-Q2,30.2
+Quarterly,IT,Italy,Private non-financial sector,Italy - Private non-financial sector,Q:IT:P,2022-Q2,9.9
+Quarterly,JP,Japan,Households & NPISHs,Japan - Households and NPISHs,Q:JP:H,2022-Q2,7.5
+Quarterly,JP,Japan,Non-financial corporations,Japan - Non-financial corporations,Q:JP:N,2022-Q2,36.0
+Quarterly,JP,Japan,Private non-financial sector,Japan - Private non-financial sector,Q:JP:P,2022-Q2,15.6
+Quarterly,KR,Korea,Households & NPISHs,Korea - Households and NPISHs,Q:KR:H,2022-Q2,13.4
+Quarterly,KR,Korea,Non-financial corporations,Korea - Non-financial corporations,Q:KR:N,2022-Q2,40.2
+Quarterly,KR,Korea,Private non-financial sector,Korea - Private non-financial sector,Q:KR:P,2022-Q2,21.6
+Quarterly,MX,Mexico,Private non-financial sector,Mexico - Private non-financial sector,Q:MX:P,2022-Q2,4.8
+Quarterly,MY,Malaysia,Private non-financial sector,Malaysia - Private non-financial sector,Q:MY:P,2022-Q2,12.0
+Quarterly,NL,Netherlands,Households & NPISHs,Netherlands - Households and NPISHs,Q:NL:H,2022-Q2,13.3
+Quarterly,NL,Netherlands,Non-financial corporations,Netherlands - Non-financial corporations,Q:NL:N,2022-Q2,48.1
+Quarterly,NL,Netherlands,Private non-financial sector,Netherlands - Private non-financial sector,Q:NL:P,2022-Q2,24.1
+Quarterly,NO,Norway,Households & NPISHs,Norway - Households and NPISHs,Q:NO:H,2022-Q2,12.7
+Quarterly,NO,Norway,Non-financial corporations,Norway - Non-financial corporations,Q:NO:N,2022-Q2,45.2
+Quarterly,NO,Norway,Private non-financial sector,Norway - Private non-financial sector,Q:NO:P,2022-Q2,23.9
+Quarterly,PL,Poland,Private non-financial sector,Poland - Private non-financial sector,Q:PL:P,2022-Q2,6.6
+Quarterly,PT,Portugal,Households & NPISHs,Portugal - Households and NPISHs,Q:PT:H,2022-Q2,6.1
+Quarterly,PT,Portugal,Non-financial corporations,Portugal - Non-financial corporations,Q:PT:N,2022-Q2,44.2
+Quarterly,PT,Portugal,Private non-financial sector,Portugal - Private non-financial sector,Q:PT:P,2022-Q2,14.3
+Quarterly,RU,Russia,Private non-financial sector,Russia - Private non-financial sector,Q:RU:P,2022-Q2,14.4
+Quarterly,SE,Sweden,Households & NPISHs,Sweden - Households and NPISHs,Q:SE:H,2022-Q2,12.2
+Quarterly,SE,Sweden,Non-financial corporations,Sweden - Non-financial corporations,Q:SE:N,2022-Q2,46.2
+Quarterly,SE,Sweden,Private non-financial sector,Sweden - Private non-financial sector,Q:SE:P,2022-Q2,24.8
+Quarterly,TH,Thailand,Private non-financial sector,Thailand - Private non-financial sector,Q:TH:P,2022-Q2,14.3
+Quarterly,TR,Turkey,Private non-financial sector,Turkey - Private non-financial sector,Q:TR:P,2022-Q2,19.9
+Quarterly,US,United States,Households & NPISHs,United States - Households and NPISHs,Q:US:H,2022-Q2,7.6
+Quarterly,US,United States,Non-financial corporations,United States - Non-financial corporations,Q:US:N,2022-Q2,40.0
+Quarterly,US,United States,Private non-financial sector,United States - Private non-financial sector,Q:US:P,2022-Q2,14.1
+Quarterly,ZA,South Africa,Private non-financial sector,South Africa - Private non-financial sector,Q:ZA:P,2022-Q2,6.9
+Quarterly,AU,Australia,Households & NPISHs,Australia - Households and NPISHs,Q:AU:H,2022-Q3,14.9
+Quarterly,AU,Australia,Non-financial corporations,Australia - Non-financial corporations,Q:AU:N,2022-Q3,34.4
+Quarterly,AU,Australia,Private non-financial sector,Australia - Private non-financial sector,Q:AU:P,2022-Q3,19.0
+Quarterly,BE,Belgium,Households & NPISHs,Belgium - Households and NPISHs,Q:BE:H,2022-Q3,7.3
+Quarterly,BE,Belgium,Non-financial corporations,Belgium - Non-financial corporations,Q:BE:N,2022-Q3,43.5
+Quarterly,BE,Belgium,Private non-financial sector,Belgium - Private non-financial sector,Q:BE:P,2022-Q3,18.9
+Quarterly,BR,Brazil,Private non-financial sector,Brazil - Private non-financial sector,Q:BR:P,2022-Q3,25.1
+Quarterly,CA,Canada,Households & NPISHs,Canada - Households and NPISHs,Q:CA:H,2022-Q3,13.5
+Quarterly,CA,Canada,Non-financial corporations,Canada - Non-financial corporations,Q:CA:N,2022-Q3,47.8
+Quarterly,CA,Canada,Private non-financial sector,Canada - Private non-financial sector,Q:CA:P,2022-Q3,22.4
+Quarterly,CH,Switzerland,Private non-financial sector,Switzerland - Private non-financial sector,Q:CH:P,2022-Q3,20.4
+Quarterly,CN,China,Private non-financial sector,China - Private non-financial sector,Q:CN:P,2022-Q3,20.6
+Quarterly,CZ,Czechia,Private non-financial sector,Czechia - Private non-financial sector,Q:CZ:P,2022-Q3,8.6
+Quarterly,DE,Germany,Households & NPISHs,Germany - Households and NPISHs,Q:DE:H,2022-Q3,6.0
+Quarterly,DE,Germany,Non-financial corporations,Germany - Non-financial corporations,Q:DE:N,2022-Q3,25.3
+Quarterly,DE,Germany,Private non-financial sector,Germany - Private non-financial sector,Q:DE:P,2022-Q3,11.2
+Quarterly,DK,Denmark,Households & NPISHs,Denmark - Households and NPISHs,Q:DK:H,2022-Q3,12.0
+Quarterly,DK,Denmark,Non-financial corporations,Denmark - Non-financial corporations,Q:DK:N,2022-Q3,35.6
+Quarterly,DK,Denmark,Private non-financial sector,Denmark - Private non-financial sector,Q:DK:P,2022-Q3,21.5
+Quarterly,ES,Spain,Households & NPISHs,Spain - Households and NPISHs,Q:ES:H,2022-Q3,5.7
+Quarterly,ES,Spain,Non-financial corporations,Spain - Non-financial corporations,Q:ES:N,2022-Q3,36.5
+Quarterly,ES,Spain,Private non-financial sector,Spain - Private non-financial sector,Q:ES:P,2022-Q3,13.6
+Quarterly,FI,Finland,Households & NPISHs,Finland - Households and NPISHs,Q:FI:H,2022-Q3,7.5
+Quarterly,FI,Finland,Non-financial corporations,Finland - Non-financial corporations,Q:FI:N,2022-Q3,32.9
+Quarterly,FI,Finland,Private non-financial sector,Finland - Private non-financial sector,Q:FI:P,2022-Q3,16.2
+Quarterly,FR,France,Households & NPISHs,France - Households and NPISHs,Q:FR:H,2022-Q3,6.5
+Quarterly,FR,France,Non-financial corporations,France - Non-financial corporations,Q:FR:N,2022-Q3,57.8
+Quarterly,FR,France,Private non-financial sector,France - Private non-financial sector,Q:FR:P,2022-Q3,20.5
+Quarterly,GB,United Kingdom,Households & NPISHs,United Kingdom - Households and NPISHs,Q:GB:H,2022-Q3,8.5
+Quarterly,GB,United Kingdom,Non-financial corporations,United Kingdom - Non-financial corporations,Q:GB:N,2022-Q3,32.2
+Quarterly,GB,United Kingdom,Private non-financial sector,United Kingdom - Private non-financial sector,Q:GB:P,2022-Q3,13.5
+Quarterly,HK,Hong Kong SAR,Private non-financial sector,Hong Kong SAR - Private non-financial sector,Q:HK:P,2022-Q3,32.7
+Quarterly,HU,Hungary,Private non-financial sector,Hungary - Private non-financial sector,Q:HU:P,2022-Q3,11.9
+Quarterly,ID,Indonesia,Private non-financial sector,Indonesia - Private non-financial sector,Q:ID:P,2022-Q3,4.0
+Quarterly,IN,India,Private non-financial sector,India - Private non-financial sector,Q:IN:P,2022-Q3,9.4
+Quarterly,IT,Italy,Households & NPISHs,Italy - Households and NPISHs,Q:IT:H,2022-Q3,4.4
+Quarterly,IT,Italy,Non-financial corporations,Italy - Non-financial corporations,Q:IT:N,2022-Q3,30.8
+Quarterly,IT,Italy,Private non-financial sector,Italy - Private non-financial sector,Q:IT:P,2022-Q3,10.1
+Quarterly,JP,Japan,Households & NPISHs,Japan - Households and NPISHs,Q:JP:H,2022-Q3,7.5
+Quarterly,JP,Japan,Non-financial corporations,Japan - Non-financial corporations,Q:JP:N,2022-Q3,36.2
+Quarterly,JP,Japan,Private non-financial sector,Japan - Private non-financial sector,Q:JP:P,2022-Q3,15.6
+Quarterly,KR,Korea,Households & NPISHs,Korea - Households and NPISHs,Q:KR:H,2022-Q3,13.7
+Quarterly,KR,Korea,Non-financial corporations,Korea - Non-financial corporations,Q:KR:N,2022-Q3,41.5
+Quarterly,KR,Korea,Private non-financial sector,Korea - Private non-financial sector,Q:KR:P,2022-Q3,22.3
+Quarterly,MX,Mexico,Private non-financial sector,Mexico - Private non-financial sector,Q:MX:P,2022-Q3,4.9
+Quarterly,MY,Malaysia,Private non-financial sector,Malaysia - Private non-financial sector,Q:MY:P,2022-Q3,11.5
+Quarterly,NL,Netherlands,Households & NPISHs,Netherlands - Households and NPISHs,Q:NL:H,2022-Q3,13.0
+Quarterly,NL,Netherlands,Non-financial corporations,Netherlands - Non-financial corporations,Q:NL:N,2022-Q3,49.1
+Quarterly,NL,Netherlands,Private non-financial sector,Netherlands - Private non-financial sector,Q:NL:P,2022-Q3,24.2
+Quarterly,NO,Norway,Households & NPISHs,Norway - Households and NPISHs,Q:NO:H,2022-Q3,12.3
+Quarterly,NO,Norway,Non-financial corporations,Norway - Non-financial corporations,Q:NO:N,2022-Q3,43.6
+Quarterly,NO,Norway,Private non-financial sector,Norway - Private non-financial sector,Q:NO:P,2022-Q3,23.3
+Quarterly,PL,Poland,Private non-financial sector,Poland - Private non-financial sector,Q:PL:P,2022-Q3,7.0
+Quarterly,PT,Portugal,Households & NPISHs,Portugal - Households and NPISHs,Q:PT:H,2022-Q3,6.3
+Quarterly,PT,Portugal,Non-financial corporations,Portugal - Non-financial corporations,Q:PT:N,2022-Q3,44.2
+Quarterly,PT,Portugal,Private non-financial sector,Portugal - Private non-financial sector,Q:PT:P,2022-Q3,14.4
+Quarterly,RU,Russia,Private non-financial sector,Russia - Private non-financial sector,Q:RU:P,2022-Q3,12.5
+Quarterly,SE,Sweden,Households & NPISHs,Sweden - Households and NPISHs,Q:SE:H,2022-Q3,12.4
+Quarterly,SE,Sweden,Non-financial corporations,Sweden - Non-financial corporations,Q:SE:N,2022-Q3,47.9
+Quarterly,SE,Sweden,Private non-financial sector,Sweden - Private non-financial sector,Q:SE:P,2022-Q3,25.6
+Quarterly,TH,Thailand,Private non-financial sector,Thailand - Private non-financial sector,Q:TH:P,2022-Q3,14.2
+Quarterly,TR,Turkey,Private non-financial sector,Turkey - Private non-financial sector,Q:TR:P,2022-Q3,19.6
+Quarterly,US,United States,Households & NPISHs,United States - Households and NPISHs,Q:US:H,2022-Q3,7.7
+Quarterly,US,United States,Non-financial corporations,United States - Non-financial corporations,Q:US:N,2022-Q3,40.1
+Quarterly,US,United States,Private non-financial sector,United States - Private non-financial sector,Q:US:P,2022-Q3,14.4
+Quarterly,ZA,South Africa,Private non-financial sector,South Africa - Private non-financial sector,Q:ZA:P,2022-Q3,7.1
